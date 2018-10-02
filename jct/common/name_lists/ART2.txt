@@ -1,0 +1,192 @@
+﻿### Arthropoid 2
+### Created by Maximilian Olbers
+
+ART2 = {	
+	ship_names = {
+		generic = {
+			"リット・ラー" "リット・レスク" "リット・ケプ" "リット・ファー" "リット・ヴル" "リット・レフア" "リット・トルーク" "リット・フェックス" "リット・ズド" "リット・フラクサー" "リット・プーク" "リット・クワイル" "リット・ウォド" "リット・ユズ" "リット・ロックス" "リット・ウロル" "リット・アククス" "リット・ムン" "リット・ファー" "リット・ケックス" "ウェア・フォー" "ウェア・ヒール" "ウェア・ズロ" "ウェア・パー" "ウェア・ヴォル" "ウェア・ヴル" "ウェア・フィール" "ウェア・イグ" "ゾフ・フレル" "ゾフ・グラク" "ゾフ・ルエー" "ゾフ・エードゥ" "ゾフ・アロブ" "ゾフ・クラ" "ゾフ・コウ" "ゾフ・ゾルクス" "ゾフ・ムル" "ゾフ・ファズ" "ゾフ・レク" "ゾフ・ボズア" "ゾフ・ライー" "ゾフ・ジョヴ" "ゾフ・ヴィグ" "ゾフ・グリックス" "ゾフ・ガーン" "ゾフ・インリ" "ゾフ・イルグ" "ゾフ・リトー" "ゾフ・ファード" "パス・エル" "パス・ゲントル" "パス・ザルドズ" "パス・グール" "パス・ファイリ" "パス・クテク" "パス・フォグド" "パス・キネン" "パス・トログド" "パス・エラグ" "パス・ワイル" "パス・ドレイ" "パス・ムア" "パス・ユロン"
+		}
+	
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+	
+	fleet_names = {
+		random_names = {
+			"ゾレットフィ・ラ攻性群集" "クルトレン・ヴ攻性群集" "クロウメット・ロ攻性群集" "ロラキン・イル攻性群集" "リカーンセッド・ギ攻性群集" "エンリルジュ・クァ攻性群集" "ポトルウッヅ・パ攻性群集" "モートシン・ロ攻性群集" "トレブドナ・ウェ攻性群集"
+		}
+		sequential_name = "第%C%攻性群集"
+	}
+
+	army_names = {
+	
+		defense_army = {
+			sequential_name = "第%C%内軍"
+		}
+			
+		assault_army = {
+			sequential_name = "第%C%外軍"
+		}
+		
+		slave_army = {
+			sequential_name = "第%C%奴隷軍"
+		}
+		
+		clone_army = {
+			sequential_name = "第%C%謄写軍集団"
+		}
+		
+		robotic_army = {
+			sequential_name = "第%C%機械軍集団"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "第%C%機械防衛軍"
+		}
+		
+		android_army = {
+			sequential_name = "第%C%製造軍集団"
+		}
+		
+		android_defense_army = {
+			sequential_name = "第%C%製造防衛軍"
+		}
+		
+		psionic_army = {
+			sequential_name = "サイ・ロード隊%R%"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "第%C%蹂躙隊"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "卓抜者隊 %R%"
+		}
+		
+		occupation_army = {
+			sequential_name = "第%C%領内守備軍隊"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "第%C%機械守備部隊"
+		}
+
+		android_occupation_army = {
+			sequential_name = "第%C%被造守備部隊"
+		}
+	}
+	
+	planet_names = {
+	
+		generic = {
+			names = {
+				"ヴァール・ザルドル" "ヴァール・タクレン" "ヴァール・パトレッド" "ヴァール・カドナック" "ヴァール・クァルプ" "ヴァール・タッカー" "ヴァール・パロッド" "ヴァール・ヤディル" "ヴァール・ラクスル" "ヴァール・カウンド" "ヴァール・パクォッド" "ヴァール・ラドンズ" "ヴァール・ガクツ" "ヴァール・ザジャット" "ヴァール・ラックァ" "ヴァール・クァリッド" "ヴァール・マプト" "ヴァール・ヴァイー" "ヴァール・ワトレ" "ヴァール・パンギット" "ヴァール・シャグー" "ヴァール・タブド" "ヴァール・ガンド" "ヴァール・ラディト" "ヴァール・ヤウ" "ヴァール・パグー" "ヴァール・ラブブ"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+	
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				"イグヴィ・イノール" "イグヴィ・アズト" "イグヴィ・ウィル" "イグヴィ・レイナッド" "イグヴィ・リエム" "クル・タン" "クル・リグ" "クル・アーング" "クル・ポックス" "クル・ルズ" "クル・レルン" "クル・イヌル" "クル・レイル" "クル・イタード" "クル・ウォックス" "クル・サーウ" "オブル・フルグ" "オブル・ティ" "オブル・レンド" "オブル・ピルクス" "オブル・ウン" "オブル・ヒュー" "オブル・プウォット" "オブル・クルド" "オブル・タズン" "オブル・ズフ" "オブル・サズ" "オブル・ルイト" "オブル・ケク" "オブル・クォイド"
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				"イグヴィ・イノール" "イグヴィ・アズト" "イグヴィ・ウィル" "イグヴィ・レイナッド" "イグヴィ・リエム" "クル・タン" "クル・リグ"
+			}
+			
+			regnal_second_names = {
+				"ザコン"
+			}
+		}
+	}
+}

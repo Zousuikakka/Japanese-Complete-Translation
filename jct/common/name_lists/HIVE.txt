@@ -1,0 +1,205 @@
+﻿### Hive Mind
+### Created by Miranda van den Brink
+
+HIVE = {
+	randomized = no
+	should_name_home_system_planets = no
+
+	ship_names = {
+		generic = {
+		}
+
+		corvette = {
+			"戦闘器"
+		}
+		
+		destroyer = {
+			"戦闘器"
+		}
+		
+		cruiser = {
+			"戦闘器"
+		}
+		
+		battleship = {
+			"戦闘器"
+		}
+
+		titan = {
+			"戦闘器"
+		}
+
+		colossus = {
+			"第一戦闘器"
+		}
+		
+		science = {
+			"追究器"
+		}
+		
+		colonizer = {
+			"営巣器"
+		}
+		
+		constructor = {
+			"建設器"
+		}
+	
+		transport = {
+			"運搬器"
+		}
+	
+		military_station_small = {
+			"基地防衛器"
+		}
+
+		ion_cannon = {
+			"イオン防衛器"
+		}
+	}
+
+	ship_class_names = {
+		generic = {
+			"タイプ・アルファ" "タイプ・ベータ" "タイプ・ガンマ" "タイプ・デルタ" "タイプ・エプシロン" "タイプ・ゼータ" "タイプ・エタ" "タイプ・テタ" "タイプ・イオタ" "タイプ・カッパ" "タイプ・ラムダ" "タイプ・ミュー" "タイプ・ニュー" "タイプ・クサイ" "タイプ・オミクロン" "タイプ・パイ" "タイプ・ロー" "タイプ・シグマ" "タイプ・タウ" "タイプ・ユプシロン" "タイプ・ファイ" "タイプ・カイ" "タイプ・サイ" "タイプ・オメガ"
+		}		
+	}
+
+	fleet_names = {
+		random_names = {
+		"咆哮群" "貪食群" "破壊群" "圧倒群" "併呑群" "殺到群" "追跡群" "突撃群" "雷鳴群" "大量群" "不断群" "報復群" "致死群" "無情群" "厳格群" "復讐群"
+		}
+		sequential_name = "戦闘群%CC%"
+	}
+	
+	army_names = {
+		defense_army = {
+			sequential_name = "第%C%防衛群体"
+		}
+			
+		assault_army = {
+			sequential_name = "第%C%攻撃群体"
+		}
+		
+		slave_army = {
+			sequential_name = "第%C%奴隷戦闘個体群"
+		}
+		
+		clone_army = { 
+			sequential_name = "第%C%クローン戦闘個体群"
+		}
+		
+		robotic_army = {
+			sequential_name = "第%C%ロボット戦闘個体群"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "第%C%ロボット防衛個体群"
+		}
+		
+		android_army = {
+			sequential_name = "第%C%ドロイド戦闘個体群"
+		}
+
+		android_defense_army = {
+			sequential_name = "第%C%ドロイド防衛個体群"
+		}
+		
+		psionic_army = { 
+			sequential_name = "第%C%超能力戦闘個体群"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "第%C%モーフ戦闘個体群"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "第%C%強化戦闘個体群"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"アルファ・セル" "スウォーム・セル・アルファ" "ドローン・セル" "ネスティング・チャンバー" "ドローン・ネスト" "アウトワード・リーチ" "エクステリア・ドローン・チャンバー" "エクステンション・ノード" "スタンダード・ノード" "ドローン・ノード" "エクスペンシヴ・セル" "プロダクション・チャンバー" "スペリオル・ヴェルテクス" "エクスパンション・ノード" "ディベロップメント・チャンバー" "アドバンスメント・セル" "マニュファクチャリング・ノード" "アゼンブリ・セル" "ガード・ジャンクション" "スプラ・ヴェルテクス" "フォワード・ジャンクション" "アゼンブリ・ノード" "ブルード・コロニー" "アルファ・コロニー" "ベータ・コロニー" "ガンマ・コロニー" "デルタ・コロニー" "エプシロン・コロニー" "ゼータ・コロニー" "エタ・コロニー" "テタ・コロニー" "イオタ・コロニー" "プロダクション・セル" "ブルード・セル" "ドローン・クラスタ" "スウォーム・・コロニー" "ドローン・コロニー" "アゼンブリ・コロニー"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+
+				"自律個体1" "自律個体2" "自律個体3" "自律個体4" "自律個体5" "自律個体6" "自律個体7" "自律個体8" "自律個体9" "自律個体10" "自律個体11" "自律個体12" "自律個体13" "自律個体14" "自律個体15" "自律個体16" "自律個体17" "自律個体18" "自律個体19" "自律個体20" "自律個体21" "自律個体22" "自律個体23" "自律個体24" "自律個体25" "自律個体26" "自律個体27" "自律個体28" "自律個体29" "自律個体30" "自律個体31" "自律個体32" "自律個体33" "自律個体34" "自律個体35" "自律個体36" "自律個体37" "自律個体38" "自律個体39" "自律個体40" "自律個体41" "自律個体42" "自律個体43" "自律個体44" "自律個体45" "自律個体46" "自律個体47" "自律個体48" "自律個体49" "自律個体50" "自律個体51" "自律個体52" "自律個体53" "自律個体54" "自律個体55" "自律個体56" "自律個体57" "自律個体58" "自律個体59" "自律個体60" "自律個体61" "自律個体62" "自律個体63" "自律個体64" "自律個体65" "自律個体66" "自律個体67" "自律個体68" "自律個体69" "自律個体70" "自律個体71" "自律個体72" "自律個体73" "自律個体74"
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+			}
+			
+			regnal_second_names = {
+			}
+		}
+	}
+
+	ruler_names = {
+		default = {
+			full_names = {
+				"シナプス・ネクサス" "「意識」"
+			}
+		}
+	}
+}

@@ -1,0 +1,193 @@
+﻿### Molluscoid 2
+### Created by Maximilian Olbers
+
+MOL2 = {
+	ship_names = {
+
+		generic = {
+			"イッグシャット" "アッドローグ" "ウロームガシュ" "カドグラームス" "シューテス" "ギガロウス" "ウエッグラー" "グロッポシュイブ" "プリドボッグ" "ポワッグルン" "コペバグルン" "バフギーエン" "ダッグレンシュ" "ジャルブシュ" "ソグブドク" "ウグラーソブ" "ジャッブロウド" "スンベシュ" "バクエッグ" "ムアシュオーグ" "クアレッグ" "グクロッシュ" "ハルグッゲン" "アブシュエッグ" "イッグルム" "ムルグライシュ" "インバグス" "ジャルゲブ" "ジュランサル" "ティルガンシュ" "バジェッグ" "ダッシガー" "ウィムグド" "ワジュー" "グーンダフ" "イジャグッサル" "ティルガンサル" "バフグルド" "ポウッガ" "イッグリ" "イッグバ" "イッグス" "ウィンバ" "ウィンッグ" "イッグシュラ" "ウォッガ" "ハッグラ" "ウグラボッグ" "ウグラリッグ" "ジッバグ" "ジャッブラッグ" "バフガー" "バッガス" "ヴィッガ" "ジャブルッグ" "グッグロッスカ" "ポワッガルン" "ビッガラス" "カールガゴグ" "グロップガ" "グロップギ" "アバスッギ" "コペッギ" "コプッグラ"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"ザ・ディープシー" "ザ・コースト" "ザ・ショア" "ザ・アンカー" "ザ・クレストオブウェーブ" "ザ・タイダル" "ザ・ブリーチ" "ザ・ジェティー" "ザ・セイル" "ザ・ダークアビス" "ザ・コア" "ザ・リーフ" "ザ・ウィンド" "ザ・ブリーズ" "ザ・ストリーム" "ザ・リバー" "ザ・レイク" "ザ・オーシャン"
+		}
+		sequential_name = "第%C%外洋遠征艦隊"
+	}
+
+	army_names = {
+	
+		defense_army = {
+			sequential_name = "第%C%沿岸防衛隊"
+		}
+			
+		assault_army = {
+			sequential_name = "第%C%波浪兵団"
+		}
+		
+		slave_army = {
+			sequential_name = "第%C%奴隷連隊"
+		}
+		
+		clone_army = { 
+			sequential_name = "第%C%試験管兵団"
+		}
+		
+		robotic_army = {
+			sequential_name = "第%C%メカニカ隊"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "第%C%メカニカ守備隊"
+		}
+		
+		android_army = {
+			sequential_name = "第%C%レプリカタ隊"
+		}
+
+		android_defense_army = {
+			sequential_name = "第%C%レプリカタ守備隊"
+		}
+		
+		psionic_army = { 
+			sequential_name = "第%C%戦争精神"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "第%C%ロブストロシティ"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "第%C%改良兵団"
+		}
+		
+		occupation_army = {
+			sequential_name = "第%C%沿岸占領軍"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "第%C%メカニカ占領軍"
+		}
+
+		android_occupation_army = {
+			sequential_name = "第%C%レプリカタ占領軍"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"グルグバフ" "グルグラグ" "グルグオッダー" "グルグエンジャール" "グルグアッシュ" "グルグアベン" "グルグドゥール" "グルグメム" "グルグオウ" "グルグデイ" "グルグサル" "グルグウルド" "ブグデン" "ベルグメム" "ビンジュール" "バグッシュ" "ブッゴブ" "バフッシュ" "ブグローシュ" "ビガーブ" "マルッグ" "マルギグル" "マッゴソス" "ミッギラス" "マッグデュル" "マッゴウ" "マッグリム" "ブーッガラ" "バーッガ" "ビーッグ"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				"サンガム" "オードナル" "アドリムガ" "カンダグ" "トゥランガ" "シュルデス" "ウェグトリム" "ダッグス" "スルグラデブ" "マルグレブ" "バフジェン" "ワッダグス" "リデュブス" "バクゲス" "ドシュルグ" "マルンゴード" "バーグフィア" "タルーシュ" "ウーグラーム" "アッシュグラーム" "サンガッブ" "オドギッブ" "スラッグリ" "リドガッブ" "バグッギ" "ウィッディグ" "トゥルビッグ" "ダッゴロ" "バフガー" "ワデュッグ" "リデュッグ" "マリッゴ" "マルグッグ"
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				"サンガム" "オードナル" "アドリムガ" "カンダグ" "トゥランガ" "シュルデス" "ウェグトリム" "ダッグス" "スルグラデブ"
+			}
+			
+			regnal_second_names = {
+				"ダグシャ"
+			}
+		}
+	}
+}

@@ -1,0 +1,192 @@
+﻿### Reptilian 3
+### Created by Maximilian Olbers
+
+REP3 = {
+	ship_names = {
+	
+		generic = {
+			"ロロド・カレン" "ロロド・クルヴェン" "ロロド・ドレゾム" "ロロド・クゼル" "ロロド・ダーガル" "ロロド・カドロム" "ロロド・ケンドリル" "ロロド・フェラド" "ロロド・デファー" "ロロド・ドゼルガ" "ロロド・カンデックス" "ロロド・クラデット" "ロロド・クロノル" "ロロド・レカド" "ロロド・ゲザド" "ロロド・ファルダー" "ロロド・ガクレン" "ロロド・セルダレン" "ロロド・デクロー" "ロロド・ドロザグ" "ロロド・ナーガル" "ロロド・フィクレン" "ロロド・ナドリグ" "ロロド・エナス" "ロロド・ガンガル" "ロロド・シベド" "ロロド・コーボク" "ロロド・スラム" "ロロド・キラックス" "ロロド・エンガス" "エリド・ギャズ" "エリド・バック" "エリド・ドックス" "エリド・ヴァックス" "エリド・サー" "エリド・コル" "エリド・ナド" "エリド・ゲックス" "エリド・ヴァック" "エリド・カー" "エリド・リル" "エリド・ダー" "エリド・コル" "エリド・グラ" "エリド・ガー" "エリド・ザー" "エリド・カヴ" "エリド・ロク" "エリド・ファー" "エリド・フィク" "エリド・ルヴ" "エリド・サク" "エリド・グル" "エリド・ナス" "エリド・バー" "エリド・ビア" "エリド・カクス" "エリド・エフィ" "エリド・ダット" "エリド・ヴァン" "エリド・ハス"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		titan = {
+		}
+		
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+		
+		military_station_small = {
+		}
+		
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"ドロノログ潜宙艦隊" "ガフェレカ潜宙艦隊" "コタッラ潜宙艦隊" "ゴロロド潜宙艦隊" "ドリクセロ潜宙艦隊" "クンデレ潜宙艦隊" "トレロック潜宙艦隊" "コラックス潜宙艦隊" "ダルカラ潜宙艦隊" "クラクサドル潜宙艦隊" "フォレスカクス潜宙艦隊" "クランドール潜宙艦隊" "ルゲック潜宙艦隊" "クーゴル潜宙艦隊"
+		}
+		sequential_name = "第%C%潜宙艦隊"
+	}
+	
+	army_names = {	
+		defense_army = {
+			sequential_name = "第%C%防衛軍隊"
+		}
+			
+		assault_army = {
+			sequential_name = "第%C%攻撃軍隊"
+		}
+		
+		slave_army = {
+			sequential_name = "第%C%奴隷大群"
+		}
+		
+		clone_army = { 
+			sequential_name = "第%C%ドッペルゲンガー大群"
+		}
+		
+		robotic_army = {
+			sequential_name = "第%C%オートマトン軍"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "第%C%自動防衛機構"
+		}
+		
+		android_army = {
+			sequential_name = "第%C%擬態戦士団"
+		}
+
+		android_defense_army = {
+			sequential_name = "第%C%擬態防衛隊"
+		}
+		
+		psionic_army = { 
+			sequential_name = "第%C%マインド・マスターズ"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "第%C%カオス・チェンジリングス"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "第%C%強化軍隊"
+		}
+		
+		occupation_army = {
+			sequential_name = "第%C%占領軍隊"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "第%C%自動守備隊"
+		}
+
+		android_occupation_army = {
+			sequential_name = "第%C%擬態守備隊"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"ガラン" "ナデックス" "ゲファラク" "クテル" "グレク" "ファラデックス" "ラレフェック" "ゲラード" "デロケム" "デザロン" "キタデュル" "デュカレックス" "クルザレッド" "ドロク" "ゲコラー" "フォレゾド" "フテゾム" "ダラクン" "トラグレック" "クレグックス" "ミタカル" "ヴァゲク" "ファリックス" "サムレック" "フォレックス" "ギカル" "クレック" "マガン" "ダーキック" "セラダル" "ダコレックス" "セコネックス" "ガーベックス" "トリックス" "ダブロックス"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				"フラグレク" "クランドラックス" "クレガフ" "ルドレメックス" "マゼルドク" "トレダギク" "ルカギケックス" "トロカゼグ" "トロデム" "ロゾダル" "ロパデフ" "フレラゾド" "アゼメカット" "フロラゼン" "ダカレネックス" "ドロナフェグ" "ミックスロデム" "ティダルレック" "ラズケド" "コズレム" "グフェラル" "サマクス" "テリネックス" "コルドラックス" "モアガフ" "ラドラモク" "ロポドム" "ファーグレック" "ダクサネック" "ドーバックス" "トラクシア" "キラックス" "ミキラックス" "トルドックス" "フォルレック" "トクソダル" "リマリック" "カズリン" "ガスマラックス" "トロリックス" "ヴォボデム" "イミクシダル" "ダーバクサ" "キリオクス" "ヴァマックス"
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				"フラグレク" "クランドラックス" "クレガフ" "ルドレメックス" "マゼルドク" "トレダギク" "ルカギケックス" "トロカゼグ"
+			}
+			
+			regnal_second_names = {
+				"ラゼグ"
+			}
+		}
+	}
+}

@@ -1,0 +1,194 @@
+﻿### Humanoid 1
+### Created by Maximilian Olbers
+
+MAM3 = {
+	ship_names = {
+
+		generic = {
+			"セパーエレギオン" "セパーセトナッセル" "セパーハンドラメル" "セパーグレナリオン" "セパーファンドロレス" "セパーサグレディオス" "セパーキュレンロッド" "セパーチューレセンドラル" "セパーハヴェンドログ" "セパーヴィリゲド" "セパータルドッグ" "セパーカレンドル" "セパーエッスナッド" "セパーハガデロル" "セパーアルディノア" "セパーセルンソン" "セパーメッサグレス" "セパーチュアンドック" "セパーノッサンデム" "セパーデュアセドロン" "セパーカロブ" "セパーアローゴ" "セパーヴェイロール" "セパーティアブ" "セパーエスカグ" "セパーボログ" "セパーメイソル" "ヴキターグ" "ヴキボロン" "ヴキサルポッサ" "ヴキパトラ" "ヴキアーガス" "ヴキホラゴア" "ヴキスパーコ" "ヴキラマン" "ヴキソトラ" "ヴキヴァド" "ヴキウラム" "ヴキエラガー" "ヴキエンナック" "ヴキターバ" "ヴキイリオス" "ヴキサトラック" "ヴキエンデュア" "ヴキウレイター" "ヴキスパッドック" "ヴキキトナック" "ヴキポクラ" "ヴキヒグラン" "ヴキファラブ" "ヴキストーグ"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"強襲艦隊" "第一級艦隊" "攻撃艦隊" "星間艦隊" "外宇宙艦隊" "宇宙艦隊" "エーテル艦隊" "水平線艦隊" "戦闘艦隊" "銀河艦隊" "天星艦隊"
+		}
+		sequential_name = "第%C%軌道外艦隊"
+	}
+	
+	army_names = {
+		defense_army = {
+			sequential_name = "第%C%防衛軍"
+		}
+			
+		assault_army = {
+			sequential_name = "第%C%強襲軍"
+		}
+		
+		slave_army = {
+			sequential_name = "第%C%奴隷軍"
+		}
+		
+		clone_army = { 
+			sequential_name = "第%C%クローン師団"
+		}
+		
+		robotic_army = {
+			sequential_name = "第%C%ロボット師団"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "第%C%ロボット守備隊"
+		}
+		
+		android_army = {
+			sequential_name = "第%C%アンドロイド師団"
+		}
+
+		android_defense_army = {
+			sequential_name = "第%C%アンドロイド守備隊"
+		}
+		
+		psionic_army = { 
+			sequential_name = "第%C%超能力軍"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "第%C%ゼノモーフ師団"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "第%C%遺伝子兵師団"
+		}
+		
+		occupation_army = {
+			sequential_name = "第%C%占領軍"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "第%C%占領ロボット軍"
+		}
+
+		android_occupation_army = {
+			sequential_name = "第%C%占領アンドロイド軍"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"サファロン" "ランコード" "ドローゲナー" "ヨールゲン" "ペンダロー" "ティントレギャル" "キャンビューレン" "セムランス" "スーボーラモン" "キューメロッド" "コンデアズ" "ゲニス" "ベローレズ" "アグスター" "フリドゲーレン" "アヌーンド" "サドリック" "タリエノック" "アングルルース" "クラノーデス" "コルバス" "スターゴス" "ヴァガロド" "イールカ" "バストゥロン" "ペンソッカ" "イビラス" "イシカ" "コレアッラ" "ギシル" "ガボリナ" "アヴァンナ" "アヴァサー" "フリドッガ" "エペンサー"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				"リフレズ" "ゲスティス" "レゴリッド" "サコーターラム" "マーゴード" "セーフェス" "ゴーライフ" "コドレーウルズ" "サクリエン" "ギャナース" "ソーロール" "マーラウルド" "ゲーレダー" "サスオーディム" "クラサー" "ガルドーン" "ヨーデガッド" "サソマン" "コロート" "ダーロム"
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				"カーパダーン" "カーバンドム" "カーハセル" "カーヤハル" "カーファーゲス" "カーヤリム" "ドルファルム" "ドルラッチ" "ドルギャス" "ドルハーン" "ドルギルー" "ドルスラッド" "ハドトンド" "ハドサルド" "ハドマーン" "ハダグリット" "ハドフューレス" "ハドロラント" "オブドレン" "オブガット"
+			}
+			
+			regnal_first_names = {
+				"リフレズ" "ゲスティス" "レゴリッド" "サコーターラム" "マーゴード" "セーフェス" "ゴーライフ" "コドレーウルズ"
+			}
+			
+			regnal_second_names = {
+				"カーパダーン"
+			}
+		}
+	}
+}

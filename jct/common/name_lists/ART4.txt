@@ -1,0 +1,195 @@
+﻿### Arthropoid 4
+### Created by Henrik Eklund
+
+ART4 = {	
+	ship_names = {
+	
+		generic = {
+			"シクイブアル" "シクラトゥ" "シクヴァバ" "シクヌク" "シクササ" "シクサト" "シクレラ" "シクヴィヴァ" "シククァレ" "シクエルレ" "シクトバ" "シクエアコ" "モクタヴィ" "モクズラ" "モクゼヴァ" "モクサタ" "モクイブガ" "モクバリ" "モクオアピ" "モクラタ" "モクサラ" "モクイムヴェ" "バクタタ" "バクニヴァ" "バクイアザ" "バクウアマ" "バクアヴタ" "バクイアバ" "バクマナ" "バクタジ" "バクリヴェ" "バクイルイェ" "イバサニ" "イバカト" "イバケズ" "イバインヴェ" "イバセタ" "イバクトゥ" "イバゲヴァ" "イバノカ" "イバナベ" "イバポゾ" "イバイルチ" "コアネビ" "コアサジ" "コアティバ" "コアヌヴィ" "コアディザ" "コアベゼ" "コアニオア" "コアパリ" "コアセタ" "コアウアダ" "コアティヤ" "コアベケ" "コアディピ" "コアテコ" "コアレタ" "プクナサ" "プクヴィヴァ" "プクボリ" "プクゼナ" "プクミピ" "プクビナ" "プクイアウル" "プクテミ" "プクシタ" "プククォリ" "プククォクァ" "プクビヴィ" "プクエアイア" "プクアンタ" "プクサザ"
+		}
+	
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	
+	}
+	
+	fleet_names = {
+		random_names = {
+			"深宇宙小艦隊" "特殊対応小艦隊" "懲罰的対応小艦隊" "快速追撃小艦隊" "開拓宙域哨戒小艦隊"
+		}
+		sequential_name = "第%C%強襲小艦隊"
+	}
+
+	army_names = {
+	
+		defense_army = {
+			sequential_name = "第%C%防衛小群"
+		}
+			
+		assault_army = {
+			sequential_name = "第%C%強襲小群"
+		}
+		
+		slave_army = {
+			sequential_name = "第%C%奴隷小群"
+		}
+		
+		clone_army = {
+			sequential_name = "第%C%クローン小群"
+		}
+
+		robotic_army = {
+			sequential_name = "第%C%ドロイド小群"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "第%C%ドロイド防衛小群"
+		}
+
+		android_army = {
+			sequential_name = "第%C%アンドロイド小群"
+		}
+		
+		android_defense_army = {
+			sequential_name = "第%C%アンドロイド防衛小群"
+		}
+		
+		psionic_army = {
+			sequential_name = "第%C%サイ・コマンドー小群"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "第%C%ゼノモーフ小群"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "第%C%遺伝子コマンドー小群"
+		}
+		
+		occupation_army = {
+			sequential_name = "第%C%占領小群"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "第%C%占領ドロイド小群"
+		}
+
+		android_occupation_army = {
+			sequential_name = "第%C%占領アンドロイド小群"
+		}
+	}
+	
+	planet_names = {
+	
+		generic = {
+			names = {
+				"スヴァクン・タ" "グヴィキ・ジ" "イベクヴ・チ" "ブニルト・カ" "ブキナ・ビ" "ブレンク・ザ" "スティクム・キ" "スナル・ブ" "スヴェルン・ヴェ" "グタルル・アブ" "グティルプ・トゥ" "グザクヴ・ニ" "グペクグ・ロ" "グビケ・サ" "イヴォンズ・アン" "イテルド・ナ" "イゼルヴ・ゴ" "イレンオ・アン" "イサブス・オプ" "スカスト・エク" "スキアプ・アン" "スイマク・イン" "プアナズ・ヴィ" "プトルヴ・ナ" "プリンオ・ヴィ" "プラク・ガ" "プニカ・チ"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+	
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				"イアブ" "アンク" "スヴ" "テク" "インド" "アーイ" "ベク" "ビヴ" "サク" "ヴィト" "アルド" "デブ" "イルト" "ラブ" "ライ" "ブス" "セク" "シヴ"
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				"セスカ" "バリヴ" "オアトブ" "ニヴァー" "キラヴ" "シコア" "ヴァビア" "ラトヴ" "イルテク" "ポカー" "トゥヴァク" "エアビク"
+			}
+			
+			regnal_first_names = {
+				"イアブ" "アンク" "スヴ" "テク" "インド" "アーイ" "ベク"
+			}
+			
+			regnal_second_names = {
+				"セスカ"
+			}
+		}
+	}
+}

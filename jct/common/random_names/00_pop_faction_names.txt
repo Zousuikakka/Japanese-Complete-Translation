@@ -1,0 +1,439 @@
+## Supremacists
+pop_faction_name_parts_list = {
+	key = "supremacist_names_1"
+	parts = {
+		"覇権" = 1
+		"統一" = 1
+		"第一" = 1
+		"支配" = 1
+		"未来" = 1
+		"優越" = 1
+		"優性" = 1
+		"保護" = 1
+		"純血" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "supremacist_names_2"
+	parts = {
+		"前衛団" = 1
+		"戦線" = 1
+		"運動" = 1
+		"党" = 1
+		"派" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "supremacist"
+		}
+	}
+	format = "[This.Owner.GetSpeciesName]<supremacist_names_1><supremacist_names_2>"
+}
+
+## Imperialists
+pop_faction_name_parts_list = {
+	key = "imperialist_names"
+	parts = {
+		"士官協会" = 1
+		"勝利の退役軍人運動" = 1
+		"軍産複合体" = 1
+		"征服力行団" = 1
+		"ボイド騎士団" = 1
+		"愛国戦線" = 1
+		"燃え立つ星騎士団" = 1
+		"真紅の兵舎" = 1
+		"第一打撃大隊" = 1
+		"赤い大隊" = 1
+		"研鑽指導会" = 1
+		"喊声作戦" = 1
+		"勝利の旗団" = 1
+		"戦闘同胞団" = 1
+		"白銀護衛団" = 1
+		"栄光指導会" = 1
+		"勝利への道委員会" = 1
+		"選民前衛会" = 1
+		"勝利の太鼓党" = 1
+		"棘軍事結社" = 1
+		"軍事優越同盟" = 1
+		"勇者の行軍" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "imperialist"
+		}
+	}
+	format = "<imperialist_names>"
+}
+
+## Isolationists
+pop_faction_name_parts_list = {
+	key = "isolationist_names_1"
+	parts = {
+		"無干渉" = 1
+		"無関連" = 1
+		"防衛第一" = 1
+		"国家軍備" = 1
+		"防衛軍備" = 1
+		"中立" = 1
+		"内在力" = 1
+		"鎖国" = 1
+		"恒久警戒" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "isolationist_names_2"
+	parts = {
+		"連合" = 1
+		"評議会" = 1
+		"委員会" = 1
+		"中央委員会" = 1
+		"財団" = 1
+		"指導会" = 1
+		"協会" = 1
+		"監視機構" = 1
+		"同盟" = 1
+		"運動" = 1
+		"グループ" = 1
+		"組織" = 1
+		"ネットワーク" = 1
+		"討論会" = 1
+		"連合" = 1
+		"同盟" = 1
+		"党" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "isolationist"
+		}
+	}
+	format = "<isolationist_names_1><isolationist_names_2>"
+}
+
+## Totalitarians
+pop_faction_name_parts_list = {
+	key = "totalitarian_names_1"
+	parts = {
+		"統一力行" = 1
+		"権威主義" = 1
+		"帝国統一" = 1
+		"唯一君主" = 1
+		"階級主義" = 1
+		"統一" = 1
+		"貴族特権" = 1
+		"君主主義" = 1
+		"社会序列" = 1
+		"秩序と平和" = 1
+		"忠実市民" = 1
+		"選抜市民" = 1
+		"従順市民" = 1
+		"従順、忠誠、義務" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "totalitarian_names_2"
+	parts = {
+		"指導会" = 1
+		"連合" = 1
+		"運動" = 1
+		"グループ" = 1
+		"連盟" = 1
+		"党" = 1
+		"戦線" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "totalitarian"
+		}
+	}
+	format = "<totalitarian_names_1><totalitarian_names_2>"
+}
+
+## Progressives
+pop_faction_name_parts_list = {
+	key = "progressive_names_1"
+	parts = {
+		"民主" = 1
+		"自由" = 1
+		"自由選挙" = 1
+		"今自由を" = 1
+		"民主改革" = 1
+		"市民自決" = 1
+		"完全参政権" = 1
+		"真の民主主義" = 1
+		"個人の自由" = 1
+		"思想の自由" = 1
+		"自由市民" = 1
+		"一般投票" = 1
+		"民主権利" = 1
+		"自由の友" = 1
+		"銀河解放" = 1
+		"選挙の自由" = 1
+		"自由への市民" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "progressive_names_2"
+	parts = {
+		"連合" = 1
+		"評議会" = 1
+		"委員会" = 1
+		"中央委員会" = 1
+		"財団" = 1
+		"指導会" = 1
+		"協会" = 1
+		"監視機構" = 1
+		"同盟" = 1
+		"運動" = 1
+		"グループ" = 1
+		"機構" = 1
+		"ネットワーク" = 1
+		"討論会" = 1
+		"連盟" = 1
+		"同盟" = 1
+		"党" = 1
+		"大会" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "progressive"
+		}
+	}
+	format = "<progressive_names_1><progressive_names_2>"
+}
+
+
+## Prosperity Faction
+pop_faction_name_parts_list = {
+	key = "prosperity_names_1"
+	parts = {
+		"国内発展" = 1
+		"国家成長" = 1
+		"経済発展" = 1
+		"国益" = 1
+		"資本増進" = 1
+		"進歩促進" = 1
+		"平和的進歩" = 1
+		"繁栄" = 1
+		"国家繁栄" = 1
+		"国内成長" = 1
+		"国家安定" = 1
+		"平和的発展" = 1
+		"平和と繁栄" = 1
+		"国家進化" = 1
+		"進歩・平和・繁栄" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "prosperity_names_2"
+	parts = {
+		"財団" = 1
+		"指導会" = 1
+		"連盟" = 1
+		"重役会" = 1
+		"委員会" = 1
+		"党" = 1
+		"連合" = 1
+		"同盟" = 1
+		"指導会" = 1
+		"グループ" = 1
+		"院外団" = 1
+		"ネットワーク" = 1
+		"評議会" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "prosperity"
+		}
+	}
+	format = "<prosperity_names_1><prosperity_names_2>"
+}
+
+## Technologists
+pop_faction_name_parts_list = {
+	key = "technologist_names_1"
+	parts = {
+		"委員会" = 1
+		"学会" = 1
+		"評議会" = 1
+		"研究所" = 1
+		"連盟" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "technologist_names_2"
+	parts = {
+		"高等学習" = 1
+		"科学者統合" = 1
+		"技術進歩" = 1
+		"技術者" = 1
+		"先進科学" = 1
+		"科学徒" = 1
+		"科学優先" = 1
+		"高等技術" = 1
+		"科学先進" = 1
+		"技術革新" = 1
+		"研究効率" = 1
+		"技術制御" = 1
+		"科学的改善" = 1
+		"ロボット科学" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "technologist"
+		}
+	}
+	format = "<technologist_names_2><technologist_names_1>"
+}
+
+## Traditionalists
+pop_faction_name_parts_list = {
+	key = "traditionalist_names_1"
+	parts = {
+		"組合" = 1
+		"同盟" = 1
+		"評議会" = 1
+		"委員会" = 1
+		"教会" = 1
+		"秘密会議" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "traditionalist_names_2"
+	parts = {
+		"伝統的価値" = 1
+		"精神主義" = 1
+		"神の導き" = 1
+		"聖なる伝統" = 1
+		"宗教保守" = 1
+		"霊的救済" = 1
+		"魂の解放" = 1
+		"真の福音" = 1
+		"精神哲学" = 1
+		"伝統基金" = 1
+		"形而上学的浄化" = 1
+		"高貴な聖職" = 1
+		"大管長" = 1
+		"不可侵真実" = 1
+		"敬虔な伝統主義者" = 1
+		"信仰と価値" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "traditionalist"
+		}
+	}
+	format = "<traditionalist_names_2><traditionalist_names_1>"
+}
+
+## Xenoists
+pop_faction_name_parts_list = {
+	key = "xenoist_names_1"
+	parts = {
+		"異星" = 1
+		"異星人" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "xenoist_names_2"
+	parts = {
+		"権利" = 1
+		"寛容" = 1
+		"友好" = 1
+		"平等" = 1
+		"公正" = 1
+		"共感" = 1
+		"保護" = 1
+		"自由" = 1
+		"自由" = 1
+		"援助" = 1
+		"改革" = 1
+		"覚醒" = 1
+		"参政権" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "xenoist_names_3"
+	parts = {
+		"連合" = 1
+		"院外団" = 1
+		"評議会" = 1
+		"委員会" = 1
+		"中央委員会" = 1
+		"財団" = 1
+		"指導会" = 1
+		"協会" = 1
+		"監視機構" = 1
+		"同盟" = 1
+		"運動" = 1
+		"グループ" = 1
+		"機構" = 1
+		"ネットワーク" = 1
+		"討論会" = 1
+		"連盟" = 1
+		"信託会" = 1
+		"研究所" = 1
+		"同盟" = 1
+		"観察会" = 1
+		"党" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "xenoist"
+		}
+	}
+	format = "<xenoist_names_1><xenoist_names_2><xenoist_names_3>"
+}

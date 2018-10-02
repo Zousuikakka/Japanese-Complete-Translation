@@ -1,0 +1,200 @@
+﻿### Humanoid 3
+### Created by Henrik Eklund
+
+HUM3 = {
+	ship_names = {
+
+		generic = {
+			"レプラー" "イムプラー" "スプラー" "ヴィプラー" "ロプラー" "デプラー" "ディアプラー" "イリプラー" "ランプラー" "ロンプラー" "パルプラー" "タプラー" "フィプラー" "エレプラー" "シスプラー" "ノムプラー" "ジョンプラー" "チルプラー" "ダヴプラー" "コンプラー" "カヴプラー" "キンプラー" "ドプラー" "ファルプラー" "ウリプラー" "ウンプラー" "モルプラー" "ナープラー" "ニトプラー" "サープラー" "バンプラー" "ビンプラー" "ボスプラー" "パープラー" "リスプラー" "ラープラー" "ルンプラー" "リアプラー" "ラクプラー" "リクプラー" "インプラー" "イムプラー" "イタプラー" "イリプラー" "イスプラー" "ロカプラー" "プレプラー" "ウタプラー" "フェルプラー" "フォンプラー" "マプラー" "ミプラー" "エヴプラー" "エリプラー" "エンプラー" "エカプラー" "エタニプラー" "エスプラー" "ラトレクス" "ボントレクス" "アートレクス" "サートレクス" "エヴトレクス" "カートレクス" "ソントレクス" "セクトレクス" "バートレクス" "コアトレクス" "ラントレクス" "レトレクス" "ロムトレクス" "リトレクス" "ニトレクス" "ネルトレクス" "ナクトレクス" "イントレクス" "イルトレクス" "イリトレクス" "ラルトレクス" "マトレクス" "ミトレクス" "チトレクス" "タートレクス" "チベルトレクス" "ツントレクス" "ディトレクス" "ダトレクス" "ドントレクス" "ヅントレクス" "ディフトレクス" "ウルトレクス" "ウントレクス" "ウリトレクス" "オントレクス" "オラトレクス" "オビトレクス" "オキトレクス" "イバトレクス" "バトレクス" "アケトレクス" "アヴォトレクス"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+		}
+		sequential_name = "第%C%遠征艦隊"
+	}
+	
+	army_names = {
+		defense_army = {
+			sequential_name = "第%C%地上防衛軍"
+		}
+			
+		assault_army = {
+			sequential_name = "第%C%戦闘ギルド"
+		}
+		
+		slave_army = {
+			sequential_name = "第%C%戦争労働者隊"
+		}
+		
+		clone_army = { 
+			sequential_name = "第%C%戦闘クローン隊"
+		}
+		
+		robotic_army = {
+			sequential_name = "第%C%ロボット槍騎兵"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "第%C%ロボット保護隊"
+		}
+		
+		android_army = {
+			sequential_name = "第%C%自律ハンター"
+		}
+
+		android_defense_army = {
+			sequential_name = "第%C%自律ガーディアン"
+		}
+		
+		psionic_army = { 
+			sequential_name = "第%C%魔法使い中隊"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "第%C%死群"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "第%C%宇宙騎士団"
+		}
+		
+		occupation_army = {
+			sequential_name = "第%C%占領監視団"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "第%C%占領ドローン軍"
+		}
+
+		android_occupation_army = {
+			sequential_name = "第%C%占領ドロイド軍"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"ヴァルダス" "コーナス" "イリブラ" "サラト" "セルディス" "パコン" "エレル" "ウルター" "ボナス" "コルダー" "エコニア" "フェンディア" "リリア" "ラシア" "リリス" "ピシャー" "ケソン" "ヴェリバン" "パサー" "ジャラス" "ナスカ" "ロッセル" "マコラ" "ニス" "オラマス" "シスラン" "テリブ" "タナグ" "シリボン" "コナダ" "ジニア" "サリシュ" "カソン" "イナソン" "エラソン"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = { 
+			}
+			
+			# Always combined with a second name
+			first_names_male = {
+				"ロシュ" "ヴァシュ" "サシュ" "ベシュ" "パシュ" "ニシュ" "ケシュ" "イルシュ" "オルシュ" "エルシュ" "ファシュ" "トシュ" "イーシュ" "デシュ" "ジャシュ" "Rish" "Aosh"
+			}
+
+			first_names_female = {
+				"アビア" "トナ" "スナ" "ローナ" "ペラ" "ヴィカ" "ベラ" "オチア" "フィラ" "イルヴァ" "ウィタ" "ナラ" "イリア" "トバ" "ダカ" "ディカ" "ポヴァ"
+			}
+
+			# Always combined with a first name
+			second_names = {
+				"ナ・フォルケン" "ナ・シベン" "ナ・セター" "ナ・キター" "ナ・イルベン" "ナ・ウォター" "ナ・フィルヴァン" "ナ・フェボア" "ナ・フェジェン" "ナ・ポダン" "ナ・スター" "ナ・レディア" "ナ・イルパー" "ナ・カラン" "ナ・ラダー" "ナ・フォルカン" "ナ・チルペン" "ナ・ツコル" "ナ・ポヴォン" "ナ・カーパー" "ナ・イッバン" "ナ・ウェガン" "ナ・ソルパン" "ナ・エルドガン" "ナ・レドガン" "ナ・テルカン"
+			}
+			
+			regnal_first_names_female = {
+				"アビア" "トナ" "スナ" "ローナ" "ペラ" "ヴィカ" "ベラ"
+			}
+
+			regnal_first_names_male = {
+				"ロシュ" "ヴァシュ" "サシュ" "ベシュ" "パシュ" "ニシュ" "ケシュ"
+			}
+			
+			regnal_second_names = {
+				"ナ・ツカン"
+			}
+		}
+	}
+}

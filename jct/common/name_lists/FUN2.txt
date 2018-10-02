@@ -1,0 +1,195 @@
+﻿### Fungoid 2
+### Created by Maximilian Olbers
+
+FUN2 = {
+	ship_names = {
+		generic = {
+			"イェーム・グゥリェグ" "イェーム・フラーン" "イェーム・キィグラッド" "イェーム・プリィジン" "イェーム・タァグリッド" "イェーム・ネェローグ" "イェーム・トゥラッツ" "イェーム・フュートル" "イェーム・ハウトレンド" "イェーム・イグラァグ" "イェーム・ルゥヴグル" "イェーム・ティークップ" "イェーム・ダァレム" "イェーム・トラグゥ" "イェーム・ウータン" "イェーム・ラァスラルグ" "イェーム・レム" "イェーム・ナーガッド" "イェーム・フィーリュブ" "イェーム・ラァサッド" "イェーム・プローフ" "イェーム・フリィープ" "イェーム・パトリィグ" "イェーム・シャアラヴ" "イェーム・カァーノブ" "イェーム・トルゥケン" "イェーム・グラリィン" "イェーム・イデューメン" "イェーム・マルダリィン" "イェーム・トルゥーム" "イェーム・ベィヤッド" "イェーム・ティーパフ" "イェーム・サグラァド" "イェーム・フィルガフゥル" "イェーム・バイドゥール"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"クーウォ散布隊" "クァマラ散布隊" "シャンバルー散布隊" "フーレフ散布隊" "トゥータ散布隊" "ハスアル散布隊" "ラードゥシュ散布隊" "グラグゥフ散布隊" "リシュレェ散布隊" "グレグロット散布隊" "ハフマァル散布隊" "スァグラ散布隊" "マグラーハ散布隊" "クルゥン散布隊" "グリィマッシュ散布隊" "カフシィ散布隊"
+		}
+		sequential_name = "第%C%散布隊"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "第%C%ハラタケ隊"
+		}
+
+		assault_army = {
+			sequential_name = "第%C%射出胞子隊"
+		}
+		
+		slave_army = {
+			sequential_name = "第%C%ノムシタケ軍隊"
+		}
+		
+		clone_army = { 
+			sequential_name = "第%C%代替編隊"
+		}
+		
+		robotic_army = {
+			sequential_name = "第%C%ロボタケ群"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "第%C%ロボットハラタケ団"
+		}
+		
+		android_army = {
+			sequential_name = "第%C%合成編隊"
+		}
+
+		android_defense_army = {
+			sequential_name = "第%C%合成ハラタケ団"
+		}
+		
+		psionic_army = { 
+			sequential_name = "第%C%サイコ真菌"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "第%C%制圧群"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "第%C%スライム・モルド"
+		}
+		
+		occupation_army = {
+			sequential_name = "第%C%守備ハラタケ隊"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "第%C%ロボット守備隊"
+		}
+
+		android_occupation_army = {
+			sequential_name = "第%C%合成守備隊"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"ジャーグ・フェルーク" "ジャーグ・サファン" "ジャーグ・プゥライ" "ジャーグ・ソフーズ" "ジャーグ・グィルガー" "ジャーグ・クアリード" "ジャーグ・ションダー" "ジャーグ・ハクェル" "ジャーグ・オンダレーン" "ジャーグ・ガーヒル" "ジャーグ・サロマイン" "ジャーグ・クォレアス" "ジャーグ・ハラーグ" "ジャーグ・サバランド" "ジャーグ・ヌーテフ" "ジャーグ・シュグレム" "ジャーグ・ウラライ" "ジャーグ・ウパードゥ" "ジャーグ・セルーン" "ジャーグ・ファリーグ" "ジャーグ・サフール" "ジャーグ・パドゥーン" "ジャーグ・フィーデュン" "ジャーグ・ウーダール" "ジャーグ・ウォラーク"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+				
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+				
+			}
+		}
+		
+		pc_arid = {
+			names = {
+				
+			}
+		}
+		
+		pc_continental = {
+			names = {
+				
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				"ウークァム" "エルジクルーン" "カルム" "パブロフ" "ミシュレル" "シャンブロー" "シーダフ" "フーレジ" "グァルゥ" "マルド" "オレガトール" "スウノラ" "リキーラ" "ジュラード" "ジュリーグ" "ジョムニール" "グロスーン" "ウルガーク" "パグリッシュ" "エグロード"
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				"ウークァム" "エルジクルーン" "カルム" "パブロフ" "ミシュレル" "シャンブロー" "シーダフ"
+			}
+			
+			regnal_second_names = {
+				"ワックォ"
+			}
+		}
+	}
+}

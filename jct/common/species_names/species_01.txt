@@ -1,0 +1,1538 @@
+# Generated species derive their names from here
+
+### MAMMALIANS
+
+MAM = {
+	tumbator = {
+		name = "ツムバトル"#Tumbator
+		plural = "ツムバトル"#Tumbatorians
+		home_planet = "ツムバティク"#"Tumbatik Prime"
+		home_system = "ツムバティカ"#Tumbatika
+		name_list = "MAM1"
+	}
+
+	onotach = {
+		name = "オノタク"#Onotach
+		plural = "オノタク"#Onotachi
+		home_planet = "オノタ"#O'Nota
+		home_system = "オノタク"#O'Notach
+		name_list = "MAM2"
+	}
+
+	yapathi = {
+		name = "ヤパシ"#Yapathi
+		plural = "ヤパシ"#Yapathi
+		home_planet = "ヤパシ"#Yapathi
+		home_system = "ヤパシノル"#Yapathinor
+		name_list = "MAM3"
+	}
+		
+	rekthalar = {
+		name = "レクサラー"#Rek'Thalar
+		plural = "レクサラー"#Rek'Thalari
+		home_planet = "レクオマク"#Rek'Omak
+		home_system = "レクサア"#Rek'Thaa
+		name_list = "MAM4"
+	}
+
+	zum = {
+		name = "ズム"#Zum
+		plural = "ズム"#Zumi
+		home_planet = "ヒッフヌス"#Hiffnus
+		home_system = "ヒッフ"#Hiff
+		name_list = "MAM1"
+	}
+	
+	ugarlak = {
+		name = "ウガーラク"#Ugarlak
+		plural = "ウガーラキ"#Ugarlaki
+		home_planet = "ウガーラクノ"#"Ugarlak Nog"
+		home_system = "ウガーラル"#Ugarlall
+		name_list = "MAM2"
+	}
+
+	glostwerheni = {
+		name = "グロストヘニ"#Glost-Werheni
+		plural = "グロストヘニ"#Glost-Werheni
+		home_planet = "ウェアヘニ"#Werheni
+		home_system = "ウェアヘニシ"#"Werheni Sui"
+		name_list = "MAM3"
+	}
+
+	mekonass = {
+		name = "メコナス"#Meko'Nass
+		plural = "メコナス"#Meko'Nassi
+		home_planet = "メコン"#Mekon
+		home_system = "メコゴルドラ"#"Meko Goldra"
+		name_list = "MAM4"
+	}
+
+	oklarr = {
+		name = "オクラール"#Oklarr
+		plural = "オクラール"#Oklarri
+		home_planet = "オクラー"#"Oklar Prime"
+		home_system = "サクテロクラ"#Sakterokla
+		name_list = "MAM1"
+	}
+
+	drullperfen = {
+		name = "ドルルパヘン"#Drull'Perfen
+		plural = "ドルルパヘン"#Drull'Perfeni
+		home_planet = "ドルル"#Drull
+		home_system = "ドルルイケル"#"Drull Ikrel"
+		name_list = "MAM2"
+	}
+
+	photecian = {
+		name = "フォテシアン"#Photecian
+		plural = "フォテシアン"#Photecians
+		home_planet = "イスタキ"#Istaci
+		home_system = "イスタキヌク"#Istaccin'uk
+		name_list = "MAM3"
+	}
+
+	wessari = {
+		name = "ウェッサリ"#Wessari
+		plural = "ウェッサリ"#Wessari
+		home_planet = "ウグルマク"#"Ugl Mak"
+		home_system = "ウグルオマク"#"Ugl Oma'Mak"
+		name_list = "MAM4"
+	}
+
+	lahtrepian = {
+		name = "ラトレピアン"#Lahtrepian
+		plural = "ラトレピアン"#Lahtrepians
+		home_planet = "ウミカンドラ"#Umikandra
+		home_system = "ウミカンドラ"#"Umikandra Ogatt"
+		name_list = "MAM1"
+	}
+
+	ekwynian = {
+		name = "エクイニアン"#Ekwynian
+		plural = "エクイニアン"#Ekwynians
+		home_planet = "スノタリビス"#Snotalitvish
+		home_system = "スノタリビス"#"Snotalitvish-Qa"
+		name_list = "MAM2"
+	}
+
+	ragerian = {
+		name = "ラゲリアン"#Ragerian
+		plural = "ラゲリアン"#Ragerians
+		home_planet = "アエリア"#Aeria
+		home_system = "アエリアフシ"#"Aeria Husila"
+		name_list = "MAM3"
+	}
+
+	pouzjok = {
+		name = "ポウズジョク"#Pouz-Jok
+		plural = "ポウズジョク"#Pouz-Jokans
+		home_planet = "ポウズジョク"#"Pouzjok Prime"
+		home_system = "ロカンド"#Lokand
+		name_list = "MAM4"
+	}
+
+	jusstkan = {
+		name = "ジュストカン"#Jusstkan
+		plural = "ジュストカン"#Jusstkans
+		home_planet = "ジュストカ"#Jusstka
+		home_system = "ジュス"#Juss
+		name_list = "MAM1"
+	}
+	
+	klaggian = {
+		name = "クラッギアン"#Klaggian
+		plural = "クラッギアン"#Klaggians
+		home_planet = "ライログ"#Lyrogg
+		home_system = "ラグラッガ"#Lagragga
+		name_list = "MAM2"
+	}
+	
+	uqopraknar = {
+		name = "ウコプラクナ"#Uqo'Praknar
+		plural = "ウコプラクナ"#Uqo'Praknarians
+		home_planet = "カウログ"#Qawlogg
+		home_system = "ロストランブ"#"Losstran Peav"
+		name_list = "MAM3"
+	}
+	
+	onedqarak = {
+		name = "オネドカラク"#Oned'Qarak
+		plural = "オネドカラク"#Oned'Qaraki
+		home_planet = "イレラオマン"#Ire'Laoman
+		home_system = "イレラオトラ"#"Ire'Laom Jumtra"
+		name_list = "MAM4"
+	}
+	
+	ruphaari = {
+		name = "ルファアリ"#Ruphaari
+		plural = "ルファアリ"#Ruphaari
+		home_planet = "ルファア"#Ruphaa
+		home_system = "ルファイア"#Rupha'iaa
+		name_list = "MAM1"
+	}
+	
+	qwepulci = {
+		name = "クウェプルシ"#Qwe'Pulci
+		plural = "クウェプルシ"#Qwe'Pulcians
+		home_planet = "ウクラップ"#Uklapp
+		home_system = "ウクラプノル"#Uklapp'Knor
+		name_list = "MAM2"
+	}
+	
+	groknaploran = {
+		name = "グロナプラン"#Groknaploran
+		plural = "グロナプラン"#Groknaplorans
+		home_planet = "アドノル"#Adnor
+		home_system = "アダニア"#Adanir
+		name_list = "MAM3"
+	}
+	
+	ktaknor = {
+		name = "クタクノル"#K'Taknor
+		plural = "クタクノル"#K'Taknorians
+		home_planet = "ウフラムプフ"#"Ufram Puf"
+		home_system = "ウフラム"#Ufram
+		name_list = "MAM4"
+	}
+	
+	gagassi = {
+		name = "ガガッシ"#Gagassi
+		plural = "ガガッシ"#Gagassi
+		home_planet = "メクナッサ"#Meknassa
+		home_system = "プルトラノグ"#Pultran'Ogg
+		name_list = "MAM1"
+	}
+	
+	hadadeshi = {
+		name = "ハダデシ"#Hadadeshi
+		plural = "ハダデシ"#Hadadeshi
+		home_planet = "ヴァババ"#Vababa
+		home_system = "バヴァババ"#Ba'Vababa
+		name_list = "MAM2"
+	}
+}
+
+### FUNGOID
+
+FUN = {
+	obevni = {
+		name = "オベヴニ"#Obevni
+		plural = "オベヴニ"#Obevni
+		home_planet = "オベヴァモニ"#"Obeva Monoy"
+		home_system = "オイガン"#Oygan
+		name_list = "FUN1"
+	}
+	
+	finu = {
+		name = "フィヌ"#Finu
+		plural = "フィヌ"#Finuans
+		home_planet = "フィヌウビア"#"Finuuvia"
+		home_system = "グラティイル"#Gratiil
+		name_list = "FUN2"
+	}
+	
+	obbha = {
+		name = "オッバー"#Obbha
+		plural = "オッバーニ"#Obbhani
+		home_planet = "フオギ"#Huogi
+		home_system = "フオギガグ"#"Huogi Gagg"
+		name_list = "FUN3"
+	}
+	
+	ganlarev = {
+		name = "ガンラレヴ"#Ganlarev
+		plural = "ガンラレヴ"#Ganlarevans
+		home_planet = "ガンラレビア"#Ganlarevia
+		home_system = "ガンラーゴ"#Ganlargo
+		name_list = "FUN4"
+	}
+	
+	buhavilaa = {
+		name = "ブハヴィラア"#Buhavilaa
+		plural = "ブハヴィラア"#Buhavilaans
+		home_planet = "ブハ"#Buha
+		home_system = "ベヴィア"#Bevir
+		name_list = "FUN1"
+	}
+	
+	oginollox = {
+		name = "オギノロクス"#Ogi-Nollox
+		plural = "オギノロクス"#Ogi-Nolloxi
+		home_planet = "オヴァサイア"#"Ova Syr"
+		home_system = "ボゲンホブラ"#"Vogen Folbran"
+		name_list = "FUN2"
+	}
+	
+	celimy = {
+		name = "ケリマイ"#Celimy
+		plural = "ケリマイ"#Celimians
+		home_planet = "ケリム"#Celim
+		home_system = "ホヴァケリム"#"Hovacelim Bu"
+		name_list = "FUN3"
+	}
+	
+	pogovon = {
+		name = "ポゴヴォン"#Pogovon
+		plural = "ポゴヴォン"#Pogovoni
+		home_planet = "ポゴヴォン"#Pogovon
+		home_system = "カヴォブ"#Cavobb
+		name_list = "FUN4"
+	}
+	
+	qasvalyvia = {
+		name = "カスバリビア"#Qasvalyvia
+		plural = "カスバリビア"#Qasvalyvians
+		home_planet = "カブボルブ"#Qavborv
+		home_system = "カブボルブ"#Qavborvurg
+		name_list = "FUN1"
+	}
+	
+	avabbian = {
+		name = "アヴァビアン"#Avabbian
+		plural = "アヴァビアン"#Avabbians
+		home_planet = "アヴァビア"#Avabbia
+		home_system = "フルアロババ"#Hur-Alobbava
+		name_list = "FUN2"
+	}
+	
+	lolehndra = {
+		name = "ロレーンドラ"#Lolehndra
+		plural = "ロレーンドラ"#Lolehndrans
+		home_planet = "ロリヘンドラ"#Rolifehndra
+		home_system = "アギヘンドラ"#Agifehndra
+		name_list = "FUN3"
+	}
+	
+	reyubb = {
+		name = "レユブ"#Reyubb
+		plural = "レユブ"#Reyubbans
+		home_planet = "レユブオフェ"#"Reyubb Ofe"
+		home_system = "ゼゼブブ"#Ze'Zebb
+		name_list = "FUN4"
+	}
+	
+	varelviv = {
+		name = "ヴァレヴィヴ"#Varelviv
+		plural = "ヴァレヴィヴ"#Varelvivi
+		home_planet = "ヴィヴェヴァ"#Viverva
+		home_system = "アヴァフォブ"#"Ava-Fobb"
+		name_list = "FUN1"
+	}
+	
+	zeppadroggan = {
+		name = "ゼパドロガン"#Zeppadroggan
+		plural = "ゼパドロガン"#Zeppadroggans
+		home_planet = "パドログ"#Padrog
+		home_system = "パドログボル"#Padrog-Vol
+		name_list = "FUN2"
+	}
+	
+	buvhondon = {
+		name = "ブヴホンドン"#Buvhondon
+		plural = "ブヴホンドン"#Buvhondians
+		home_planet = "ブヴホドニア"#Buvhondonia
+		home_system = "ガスキズブ"#"Gasci Xubb"
+		name_list = "FUN3"
+	}
+	
+	valmennax = {
+		name = "バルメナクス"#Valmennax
+		plural = "バルメナクス"#Valmennaxians
+		home_planet = "ヴァマクス"#Vamax
+		home_system = "ゾプヴイヴァ"#"X'opv Yva"
+		name_list = "FUN4"
+	}
+	
+	huviduzaan = {
+		name = "フビヅザアン"#Huvidu-Zaan
+		plural = "フビヅザアン"#Huvidu-Zaani
+		home_planet = "フビヅザア"#Huviduzaa
+		home_system = "ザアエヴァ"#Zaaeva
+		name_list = "FUN1"
+	}
+	
+	provalguvor = {
+		name = "プロバルグバ"#Provalguvor
+		plural = "プロバルグバ"#Provalguvorians
+		home_planet = "プロヴァル"#Proval
+		home_system = "イスヴェラ"#Ysvera
+		name_list = "FUN2"
+	}
+	
+	qlorvinserian = {
+		name = "コビセリアン"#Qlorvinserian
+		plural = "コビセリアン"#Qlorvinserians
+		home_planet = "コロク"#Qlorc
+		home_system = "コロキソブ"#Qlorciso'Bu
+		name_list = "FUN3"
+	}
+	
+	wulhubb = {
+		name = "ウルフブ"#Wulhubb
+		plural = "ウルフビ"#Wulhubbi
+		home_planet = "ウルフッバ"#Wulhubba 
+		home_system = "ガイブロヴァ"#Gy-Blova
+		name_list = "FUN4"
+	}
+	
+	caphevad = {
+		name = "カプヘヴァド"#Caphevad
+		plural = "カプヘヴァド"#Caphevadi
+		home_planet = "カプヘヴ"#Caphev
+		home_system = "ベロヴィ"#Belo'vi
+		name_list = "FUN1"
+	}
+	
+	vool = {
+		name = "ヴォオル"#Vool
+		plural = "ヴォオリアン"#Voolians
+		home_planet = "ヴォオル"#Vool'u
+		home_system = "ヴォオルウム"#Vool'u-Umu
+		name_list = "FUN2"
+	}
+	
+	frubralav = {
+		name = "フルブララヴ"#Frubralav
+		plural = "フルブララヴ"#Frubralavians
+		home_planet = "フブラ"#Fubra
+		home_system = "ファブリハス"#Fabrihass
+		name_list = "FUN3"
+	}
+	
+	fjasivlin = {
+		name = "フジャシリン"#Fjasivlin
+		plural = "フジャシリン"#Fjasivlians
+		home_planet = "フルシ"#Fulsi
+		home_system = "ボアスセイド"#"Boass Ceind"
+		name_list = "FUN4"
+	}
+	
+	pobelin = {
+		name = "ポベリニアン"#Pobelin
+		plural = "ポベリニアン"#Pobelinians
+		home_planet = "ポブリナ"#Poeblina
+		home_system = "ポルブリル"#Polbrill
+		name_list = "FUN1"
+	}
+	
+	laachax = {
+		name = "ラアチャクス"#Laachax
+		plural = "ラアチャクス"#Laachaxi
+		home_planet = "ラアチャクス"#Laachax
+		home_system = "ゴルズ"#"Golz Laachax"
+		name_list = "FUN2"
+	}
+	
+	udkavongo = {
+		name = "ウドカボンゴ"#Udkavongo
+		plural = "ウドカボンゴ"#Udkavongo
+		home_planet = "ウドカル"#Udkall
+		home_system = "ジュアワトラ"#"Jua Waaktra"
+		name_list = "FUN3"
+	}
+}
+
+### ARTHROPOID
+
+ART = {
+	screk = {
+		name = "スクレク"#Screk
+		plural = "スクレク"#Screkli
+		home_planet = "スクレカン"#Screkan
+		home_system = "バッコトリ"#Baccotri
+		name_list = "ART1"
+	}
+
+	xanyr = {
+		name = "クサニア"#Xanyr
+		plural = "クサニア"#Xanyrans
+		home_planet = "クサナ"#Xana
+		home_system = "ポドプ"#Podpu
+		name_list = "ART2"
+	}
+	
+	zaacplot = {
+		name = "ザアクプロト"#Zaacplot
+		plural = "ザアクプロト"#Zaacplotians
+		home_planet = "ザアコ"#Zaaco
+		home_system = "オラスアニア"#Olath'Anir
+		name_list = "ART4"
+	}
+
+	vurxac = {
+		name = "ヴルクサク"#Vurxac
+		plural = "ヴルクサク"#Vurxactrians
+		home_planet = "ヴルクサッカ"#Vurxacca
+		home_system = "ヴルヴル"#"Vur Vur"
+		name_list = "ART1"
+	}
+
+	opalglec = {
+		name = "オパルグレク"#Opalglec
+		plural = "オパルグレク"#Opalglecians
+		home_planet = "オパラグ"#Opalag
+		home_system = "ガカッガ"#Gacagga
+		name_list = "ART2"
+	}
+
+	valurt = {
+		name = "ヴァルート"#Valurt
+		plural = "ヴァルート"#Valurtians
+		home_planet = "ヴァル"#Valu
+		home_system = "ロルクラル"#Lorcral
+		name_list = "ART3"
+	}
+
+	natfankan = {
+		name = "ナトハンカン"#Natfankan
+		plural = "ナトハンカン"#Natfankans
+		home_planet = "ファンカ"#Fanka
+		home_system = "ナトハンカヂ"#"Nat Fanka Di"
+		name_list = "ART4"
+	}
+
+	husko = {
+		name = "フスコイド"#Husko
+		plural = "フスコイド"#Huskoids
+		home_planet = "フロオグ"#Hu'Loog
+		home_system = "コングラム"#Kongram
+		name_list = "ART1"
+	}
+
+	zaxxoid = {
+		name = "ザックソイド"#Zaxxoid
+		plural = "ザックソイド"#Zaxxoids
+		home_planet = "ザオックス"#Za-Oxx
+		home_system = "オクスオクス"#Oxx-Oxx
+		name_list = "ART2"
+	}
+	
+	dabbax = {
+		name = "ダッバクス"#Dabbax
+		plural = "ダッバクス"#Dabaxans
+		home_planet = "ダッバナカン"#"Dabba Naxan"
+		home_system = "ポルクラン"#Polkran
+		name_list = "ART3"
+	}
+	
+	zemmerpuk = {
+		name = "ゼマープク"#Zemmerpuk
+		plural = "ゼマープク"#Zemmerpukans
+		home_planet = "ゼムオプク"#"Zemm Opuk"
+		home_system = "ザクトリア"#Zaktoria
+		name_list = "ART4"
+	}
+
+	trakpocian = {
+		name = "トラクポキア"#Trakpocian
+		plural = "トラクポキア"#Trakpocians
+		home_planet = "トラコ"#Trako
+		home_system = "ポキガクラク"#Poci'Ganklak
+		name_list = "ART1"
+	}
+	
+	ytrellan = {
+		name = "イトレラン"#Ytrellan
+		plural = "イトレラン"#Ytrellanids
+		home_planet = "イトラ"#Ytra
+		home_system = "マコヌクス"#Mak'Onux
+		name_list = "ART2"
+	}
+	
+	savixqast = {
+		name = "サヴィカスト"#Savix'Qast
+		plural = "サヴィカスト"#Savix'Qastians
+		home_planet = "サヴィクス"#"Savixq"
+		home_system = "カストリアニ"#Qastliani
+		name_list = "ART3"
+	}
+	
+	qopinjaxi = {
+		name = "コピンザクシ"#Qopinjaxi
+		plural = "コピンザクシ"#Qopinjaxians
+		home_planet = "コプジャクシ"#Qop-Jaxi
+		home_system = "ザクシオモク"#Jaxii-Omok
+		name_list = "ART4"
+	}
+	
+	najklax = {
+		name = "ナジクラクス"#Najklax
+		plural = "ナジクラクス"#Najklaxians
+		home_planet = "ナジクラクス"#Najklax
+		home_system = "ルジュスツク"#Ru-Justux
+		name_list = "ART1"
+	}
+	
+	sakyt = {
+		name = "サカイチアン"#Sakyt
+		plural = "サカイチアン"#Sakytians
+		home_planet = "サキトウクス"#"Sakyt Ux"
+		home_system = "フルファクス"#Hullfax
+		name_list = "ART2"
+	}
+	
+	backatta = {
+		name = "バカッタ"#Backatta
+		plural = "バカッタ"#Backattans
+		home_planet = "バカッタ"#Backatta
+		home_system = "バグラックス"#"Ba Grax"
+		name_list = "ART3"
+	}
+	
+	xaplo = {
+		name = "ザプロ"#Xaplo
+		plural = "ザプロアン"#Xaploans
+		home_planet = "ザプロ"#Xaplo
+		home_system = "ザプロニウス"#Xaplonius
+		name_list = "ART4"
+	}
+	
+	uindar = {
+		name = "ウインダー"#Uindar
+		plural = "ウインダー"#Uindari
+		home_planet = "ウインダリア"#Uindaria
+		home_system = "イダイクサ"#Yda'Yxa
+		name_list = "ART1"
+	}
+	
+	eruxo = {
+		name = "エルーゾアン"#Eruxo
+		plural = "エルーゾアン"#Eruxoans
+		home_planet = "エルーゾ"#"Eruxo Prime"
+		home_system = "オプリマクス"#Oprimax
+		name_list = "ART2"
+	}
+	
+	spuxulac = {
+		name = "スプズラク"#Spuxulac
+		plural = "スプズラク"#Spuxulacans
+		home_planet = "大スプズラク"#"Greater Spuxulac"
+		home_system = "ハイザッカ"#Hayxacca
+		name_list = "ART3"
+	}
+	
+	multyx = {
+		name = "ムルタイクス"#Multyx
+		plural = "ムルタイクス"#Multyxans
+		home_planet = "ムルタイクス"#Multyx
+		home_system = "ネルパクソ"#Nellpa'xo
+		name_list = "ART4"
+	}
+	
+	cilxtac = {
+		name = "シルゾタカン"#Cilxtac
+		plural = "シルゾタカン"#Cilxtacans
+		home_planet = "シルタカ"#"Ciltaca Prime"
+		home_system = "ヴィドナクス"#Vidranx
+		name_list = "ART1"
+	}
+	
+	ztrakpor = {
+		name = "ズトラクポル"#Ztrakpor
+		plural = "ズトラクポル"#Ztrakporans
+		home_planet = "ズトラクポル"#Ztrakpor
+		home_system = "ズトラクポル"#Ztrakpor-Ohdri
+		name_list = "ART2"
+	}
+	
+	tchaaskeran = {
+		name = "トチャケラン"#Tchaaskeran
+		plural = "トチャケラン"#Tchaaskerans
+		home_planet = "トチャポル"#Tchaa'Pol
+		home_system = "トチャポルコ"#Tchaa'Pol-Kolse
+		name_list = "ART3"
+	}
+	
+	yaxkalock = {
+		name = "ヤクスカロク"#Yax'Kalock
+		plural = "ヤクスカロク"#Yax'Kalocki
+		home_planet = "チャポル"#Tchaa'Pol
+		home_system = "チャポルコセ"#Tchaa'Pol-Kolse
+		name_list = "ART4"
+	}
+	
+	vunokon = {
+		name = "ヴンオコン"#Vun-Okon
+		plural = "ヴンオコン"#Vun-Okons
+		home_planet = "ドライポル"#Draipol
+		home_system = "ドライポカミ"#Draipol'Kamina
+		name_list = "ART1"
+	}
+}
+
+### REPTILIAN
+
+REP = {
+	raxthalak = {
+		name = "ラクスサラク"#Rax'Thalak
+		plural = "ラクスサラク"#Rax'Thalaki
+		home_planet = "ラクスサラキ"#Rax'Thalaki
+		home_system = "サラキン"#Thalakin
+		name_list = "REP1"
+	}
+	
+	thekqlak = {
+		name = "セクラク"#Thek'Qlak
+		plural = "セクラク"#Thek'Qlaki
+		home_planet = "クラク"#Qlak
+		home_system = "クラキドク"#Qlakidoq
+		name_list = "REP2"
+	}
+	
+	bospachtux = {
+		name = "ボスパチツク"#Bos'Pachtux
+		plural = "ボスパチツク"#Bos'Pachtuxi
+		home_planet = "ツクシカ"#Tuxica
+		home_system = "ボスツクシカ"#Bos'Tuxica
+		name_list = "REP3"
+	}
+
+	mectpux = {
+		name = "メクトプクス"#Mect-Pux
+		plural = "メクトプクス"#Mect-Puxi
+		home_planet = "ズイフ"#Zuif
+		home_system = "ザッファー"#Zuffur
+		name_list = "REP4"
+	}
+	
+	othethi = {
+		name = "オセシ"#Othethi
+		plural = "オセシ"#Othethi
+		home_planet = "マタル"#Matal
+		home_system = "マタリル"#Matalill
+		name_list = "REP1"
+	}
+
+	oxbraxi = {
+		name = "オクスブラキ"#Ox'Braxi
+		plural = "オクスブラキ"#Ox'Braxi
+		home_planet = "オクシナク"#Oxinac
+		home_system = "オクシナベラ"#Oxinac'Vela
+		name_list = "REP2"
+	}
+
+	zaydran = {
+		name = "ザイドラン"#Zaydran
+		plural = "ザイドラン"#Zaydrans
+		home_planet = "ヤドラ"#Yadra
+		home_system = "ヤドルク"#Yadruk
+		name_list = "REP3"
+	}
+
+	nharr = {
+		name = "ナーリアン"#Nharr
+		plural = "ナーリアン"#Narrians
+		home_planet = "ナール"#Nharr
+		home_system = "ナールボ"#Nharrbo
+		name_list = "REP4"
+	}
+	
+	zukakkan = {
+		name = "ズカッカン"#Zukakkan
+		plural = "ズカッカン"#Zukakkans
+		home_planet = "ズカイ"#Zukai
+		home_system = "ズカイモンド"#Zukai'Mondor
+		name_list = "REP1"
+	}
+	
+	seklokkar = {
+		name = "セクロカー"#Sek-Lokkar
+		plural = "セクロカー"#Sek-Lokkarian
+		home_planet = "ロッケン"#Lokken
+		home_system = "ロッケンザク"#"Lokken Jak"
+		name_list = "REP2"
+	}
+	
+	netraxi = {
+		name = "ネトラクシ"#Netraxi
+		plural = "ネトラクシ"#Netraxi
+		home_planet = "ネトラクシア"#Netraxia
+		home_system = "ネトラクシア"#Netraxia'Asaka
+		name_list = "REP3"
+	}
+	
+	dimaxanian = {
+		name = "ヂマザニアン"#Dima'Xanian
+		plural = "ヂマザニアン"#Dima'Xanians
+		home_planet = "ザニア"#Xania
+		home_system = "ザニナディー"#"Xani Nadih"
+		name_list = "REP4"
+	}
+	
+	vagoross = {
+		name = "ヴァグオロス"#Vag-Oross
+		plural = "ヴァグオロス"#Vag-Orossi
+		home_planet = "オロシ"#Orossi
+		home_system = "オロシフイバ"#Orossi-Huivac
+		name_list = "REP1"
+	}
+	
+	Kalaxenan = {
+		name = "カラゼナン"#Kalaxenan
+		plural = "カラゼナン"#Kalaxenans
+		home_planet = "イパゴ"#Ipa'Go
+		home_system = "イパゴトリル"#"Ipa'Go Tryll"
+		name_list = "REP2"
+	}
+	
+	fexklanga = {
+		name = "ヘズクランガ"#Fex'Klanga
+		plural = "ヘズクランガ"#Fex'Klangan
+		home_planet = "ヘズクラ"#Fexkla
+		home_system = "ヘズクラシガ"#Fexklansiga
+		name_list = "REP3"
+	}
+	
+	tuxkan = {
+		name = "ツズカン"#Tuxkan
+		plural = "ツズカン"#Tuxkans
+		home_planet = "ツズカ"#Tuxka
+		home_system = "ツズカリ"#Tuxkalli
+		name_list = "REP4"
+	}
+	
+	gox = {
+		name = "ゴックス"#Gox
+		plural = "ゴックス"#Goxi
+		home_planet = "ヴァクラクサ"#Vak-Raxxa
+		home_system = "ラクサナクス"#Du-Raxxa-Nax
+		name_list = "REP1"
+	}
+	
+	rakthalaknak = {
+		name = "ラクサラナク"#Rak'Thalak'Nak
+		plural = "ラクサラナク"#Rak'Thalak'Naki
+		home_planet = "ラクサラナク"#Rak'Thalak'Nak
+		home_system = "ラクナクサク"#"Rak'Nak'Thax"
+		name_list = "REP2"
+	}
+	
+	bokasheran = {
+		name = "ボカシェラン"#Bokasheran
+		plural = "ボカシェラン"#Bokasherans
+		home_planet = "シェラカ"#Sheraka
+		home_system = "アキルラカ"#Acir'Raka
+		name_list = "REP3"
+	}
+	
+	adeex = {
+		name = "アデエクス"#Adeex
+		plural = "アデエクス"#Adeexi
+		home_planet = "デエクス"#Deex
+		home_system = "ザンドラエエ"#Xandraee
+		name_list = "REP4"
+	}
+	
+	rothak = {
+		name = "ロサク"#Rothak
+		plural = "ロサク"#Rothaki
+		home_planet = "ロサク"#Rothak
+		home_system = "ヴセムクラク"#Vsem-Klack
+		name_list = "REP1"
+	}
+	
+	steccashi = {
+		name = "ステッカシ"#Steccashi
+		plural = "ステッカシ"#Steccashi
+		home_planet = "ウシュ"#Ushu
+		home_system = "ウスカルオペ"#"Uskal Opeshal"
+		name_list = "REP2"
+	}
+	
+	xulokako = {
+		name = "ズロカコ"#Xu'Lokako
+		plural = "ズロカコ"#Xu'Kokakoi
+		home_planet = "ズコカ"#Xu'Koka
+		home_system = "ズコカリジュ"#Xu'Kokallij
+		name_list = "REP3"
+	}
+	
+	gargaxton = {
+		name = "ガーガクスト"#Gargaxton
+		plural = "ガーガクスト"#Gargaxtons
+		home_planet = "レストラル"#Lestrall
+		home_system = "コルレスト"#Qol'Lest
+		name_list = "REP4"
+	}
+	
+	loxungrakva = {
+		name = "ロクスウンガ"#Lox'Ungrak-Va
+		plural = "ロクスウバニ"#Lox'Ungrak-Vani
+		home_planet = "ロクスウグラ"#Lox'Ungrak
+		home_system = "ロクスウグラ"#Lox'Ungrak'O
+		name_list = "REP1"
+	}
+}
+
+### AVIAN (editme)
+
+AVI = {
+	uvaxavani = {
+		name = "ウヴァザバニ"#Uva-Xavani
+		plural = "ウヴァザバニ"#Uva-Xavani
+		home_planet = "ウヴァザバニ"#"Uva-Xavani Prime"
+		home_system = "シャンタクス"#Shantaxavani
+		name_list = "AVI1"
+	}
+	
+	qvefoz = {
+		name = "クヴェフォズ"#Qvefoz
+		plural = "クヴェフォズ"#Qvefozi
+		home_planet = "バルクガズ"#Balkgaz
+		home_system = "バルクガズタ"#Balkgaz'Yta
+		name_list = "AVI2"
+	}
+
+	jasgavaz = {
+		name = "ジャスガバズ"#Jas'Gavaz
+		plural = "ジャズガバズ"#Jas'Gavazi
+		home_planet = "ガバズ"#Gavaz
+		home_system = "ガバズクスル"#Gavaz'Xull
+		name_list = "AVI3"
+	}
+
+	yvzorak = {
+		name = "イヴゾラク"#Yv'Zorak
+		plural = "イヴゾラク"#Yv'Zoraki
+		home_planet = "イヴゾラク"#"Yv'Zorak Prime"
+		home_system = "ツクリゾラク"#Tukli'Zorak
+		name_list = "AVI4"
+	}
+
+	sintomoroi = {
+		name = "シントモロイ"#Sintomoroi
+		plural = "シントモロイ"#Sintomoroi
+		home_planet = "シントモロイ"#"Sintomoroi Gaxpak"
+		home_system = "シントモロイ"#Sintomoroi'Utlak
+		name_list = "AVI1"
+	}
+	
+	qixlufran = {
+		name = "キズルフラン"#Qix'Lufran
+		plural = "キズルフラン"#Qix'Lufrans
+		home_planet = "キズルフラン"#Qix'Lufran
+		home_system = "キズポクラク"#Qix'Poktrak
+		name_list = "AVI2"
+	}
+	
+	mithfell = {
+		name = "ミスフェル"#Mith-Fell
+		plural = "ミスフェル"#Mith-Fellans
+		home_planet = "カンジュクラ"#"Kan Jukla"
+		home_system = "カンジュクラ"#"Kan Jukla Mik"
+		name_list = "AVI3"
+	}
+	
+	tilllynesi = {
+		name = "ティルリネシ"#Till'Lynesi
+		plural = "ティルリネシ"#Till'Lynesi
+		home_planet = "ティッラ"#Tilla
+		home_system = "ティルジュゼ"#"Till Juxesi"
+		name_list = "AVI4"
+	}
+	
+	jessinax = {
+		name = "ゼスイナクス"#Jess'Inax
+		plural = "ゼスイナクス"#Jess'Inaxi
+		home_planet = "ゼスイナクス"#Jess'Inax
+		home_system = "ゼスイナクパ"#"Jess Inaxpa"
+		name_list = "AVI1"
+	}
+	
+	boki = {
+		name = "ボキ"#Boki
+		plural = "ボキ"#Boki
+		home_planet = "ボキグラム"#Boki'Grum
+		home_system = "グラムボク"#Grumbok
+		name_list = "AVI2"
+	}
+
+	essjaggon = {
+		name = "エスジャゴン"#Ess'Jaggon
+		plural = "エスジャゴン"#Ess'Jaggons
+		home_planet = "ジャゴ"#Jaggo
+		home_system = "ジャクタッグ"#Jaktagg
+		name_list = "AVI3"
+	}
+	
+	juvan = {
+		name = "ジュヴァン"#Juvan
+		plural = "ジュヴァン"#Juvans
+		home_planet = "ジュヴァン"#Juvan
+		home_system = "ジュヴァン"#Juvan-Odor
+		name_list = "AVI4"
+	}
+	
+	iztran = {
+		name = "イズトラン"#Iztran
+		plural = "イズトラン"#Iztrans
+		home_planet = "ロシクス"#Loshyx
+		home_system = "ロシクスオア"#Loshyx'Oa
+		name_list = "AVI1"
+	}
+	
+	helvan = {
+		name = "ヘルヴァン"#Helvan
+		plural = "ヘルヴァン"#Helvan
+		home_planet = "ヘルヴァン"#"Helvan Prime"
+		home_system = "ヘルヴァンズ"#Helvan-Jull
+		name_list = "AVI2"
+	}
+	
+	ozkox = {
+		name = "オズコックス"#Ozkox
+		plural = "オズコックス"#Ozkoxi
+		home_planet = "オズコックス"#"Ozkox Prime"
+		home_system = "スオズコクス"#Slaoz-Kox
+		name_list = "AVI3"
+	}
+	
+	fafossan = {
+		name = "ファホッサン"#Fafossan
+		plural = "ファホッサン"#Fafossans
+		home_planet = "ファフ"#"Faf Prime"
+		home_system = "ファホサンガ"#Fafossanga
+		name_list = "AVI4"
+	}
+	
+	gulkfurki = {
+		name = "グルクフルキ"#Gulk-Furki
+		plural = "グルクフルキ"#Gulk-Furki
+		home_planet = "グルク"#Gulk
+		home_system = "グルカンツク"#Gulkan'Tukk
+		name_list = "AVI1"
+	}
+	
+	Haahn = {
+		name = "ハーン"#Haahn
+		plural = "ハーン"#Hahhns
+		home_planet = "トジャターク"#Tjantahtic
+		home_system = "トジャタルナ"#"Tjantahtica Lukana"
+		name_list = "AVI2"
+	}
+	
+	twaxihdar = {
+		name = "トワズイダー"#Twax'Ihdar
+		plural = "トワズイダー"#Twax'Ihdari
+		home_planet = "トワズ"#"Twax Prime"
+		home_system = "トワズダー"#Twaxdar
+		name_list = "AVI3"
+	}
+	
+	uvxantt = {
+		name = "ウヴザント"#Uv-Xantt
+		plural = "ウヴザント"#Uv-Xantti
+		home_planet = "フランクニア"#"Fraknyr Isatr"
+		home_system = "フランクニア"#Fraknyr
+		name_list = "AVI4"
+	}
+	
+	kraxroz = {
+		name = "クラゾロズ"#Kraxroz
+		plural = "クラゾロジ"#Kraxrozi
+		home_planet = "ミイダク"#Miidak
+		home_system = "ムサン"#M'Than
+		name_list = "AVI1"
+	}
+	
+	yssravannar = {
+		name = "イスラヴァナ"#Yssravannar
+		plural = "イスラヴァナ"#Yssravannari
+		home_planet = "オパイッラ"#Opyrra
+		home_system = "オパイラズカ"#"Opyrra Ju'kal"
+		name_list = "AVI2"
+	}
+	
+	haspalv = {
+		name = "ハスパルヴ"#Haspalv
+		plural = "ハスパルヴ"#Haspalvi
+		home_planet = "ハスパルヴ"#Haspalv
+		home_system = "ハスパルミナ"#Haspalv'Mina
+		name_list = "AVI3"
+	}
+	
+	pelxcradonian = {
+		name = "クラドニアン"#Pelx-Cradonian
+		plural = "クラドニアン"#Pelx-Cradonians
+		home_planet = "クラドン"#Cradon
+		home_system = "クラドニアナ"#Cradoniana
+		name_list = "AVI4"
+	}
+	
+	jaazijan = {
+		name = "ジャジジャン"#Jaazijan
+		plural = "ジャジジャン"#Jaazijans
+		home_planet = "ペンツル"#Penthul
+		home_system = "ペンカー"#Penkar
+		name_list = "AVI1"
+	}
+	
+	qravadox = {
+		name = "クラバドクス"#Qravadox
+		plural = "クラバドクス"#Qravadoxi
+		home_planet = "クラヴァ"#Qrava
+		home_system = "クラトララナ"#Qratrafrana
+		name_list = "AVI2"
+	}
+}
+
+### MOLLUSCOID
+
+MOL = {
+	djomar = {
+		name = "ドジョマー"#Djomar
+		plural = "ドジョマー"#Djomari
+		home_planet = "ドジョヘマリ"#"Djo Feh'Mari"
+		home_system = "セマドジョ"#Semadjo
+		name_list = "MOL1"
+	}
+	
+	mathin = {
+		name = "マシン"#Mathin
+		plural = "マシン"#Mathini
+		home_planet = "マシプライム"#"Mathini Prime"
+		home_system = "マソニス"#Mathonis
+		name_list = "MOL2"
+	}
+	
+	malwegoll = {
+		name = "マルワゴル"#Malwegoll
+		plural = "マルワゴラン"#Malwegollans
+		home_planet = "ウェゴラ"#Wegolla
+		home_system = "ウェゴラプタ"#"Wegolla Upta"
+		name_list = "MOL3"
+	}
+	
+	alvothari = {
+		name = "アルヴォサリ"#Alvothari
+		plural = "アルヴォサリ"#Alvotharians
+		home_planet = "アルヴォ"#Alvo
+		home_system = "サリ"#Thari
+		name_list = "MOL4"
+	}
+	
+	hathgum = {
+		name = "ハスガム"#Hathgum
+		plural = "ハスガム"#Hathgumans
+		home_planet = "ハスグマ"#Hathguma
+		home_system = "グマ"#Guma
+		name_list = "MOL1"
+	}
+	
+	uri = {
+		name = "ウリトニアン"#Uri
+		plural = "ウリトニアン"#Uritonians
+		home_planet = "ウルイドラ"#"Ur Idra"
+		home_system = "ウルイトハ"#"Ur Itha"
+		name_list = "MOL2"
+	}
+	
+	havoll = {
+		name = "ハヴォル"#Havoll
+		plural = "ハヴォル"#Havollans
+		home_planet = "ハヴォ"#Havo
+		home_system = "ハヴォラガス"#"Havolla Gath"
+		name_list = "MOL3"
+	}
+	
+	ymacera = {
+		name = "イマケラン"#Ymacera
+		plural = "イマケラン"#Ymacerans
+		home_planet = "イマッカ"#Ymacca
+		home_system = "ケラカン"#Ceracan
+		name_list = "MOL4"
+	}
+	
+	jogollwa = {
+		name = "ジョゴルワ"#Jogollwa
+		plural = "ジョゴルワ"#Jogollwans
+		home_planet = "オゴ"#Ogo
+		home_system = "ワンジョグ"#Wanjog
+		name_list = "MOL1"
+	}
+	
+	usanace = {
+		name = "ウサナカン"#Usanace
+		plural = "ウサナカン"#Usanacans
+		home_planet = "サナカン"#Sanacan
+		home_system = "ウサナイトカ"#"U-Sana-Itcar"
+		name_list = "MOL2"
+	}
+	
+	havarigga = {
+		name = "ハヴァリッガ"#Havarigga
+		plural = "ハヴァリッガ"#Havariggans
+		home_planet = "リッガ"#Rigga
+		home_system = "ハヴァリ"#"Ha-Va'Ri"
+		name_list = "MOL3"
+	}
+	
+	slerpanor = {
+		name = "スレパノル"#Slerpanor
+		plural = "スレパノル"#Slerpanorians
+		home_planet = "レパンソ"#"Lerpan So"
+		home_system = "スレパクチン"#Slerpactin
+		name_list = "MOL4"
+	}
+	
+	fellnoll = {
+		name = "フェルノル"#Fellnoll
+		plural = "フェルノル"#Fellnollans
+		home_planet = "フェルノル"#Fellnoll
+		home_system = "モトフェルノ"#"Mot Fellno"
+		name_list = "MOL1"
+	}
+	
+	sirgogg = {
+		name = "シルゴッガン"#Sirgogg
+		plural = "シルゴッガン"#Sirgoggans
+		home_planet = "ヴァスゴッグ"#Vasgogg
+		home_system = "ヴァテギガン"#Vategigun
+		name_list = "MOL2"
+	}
+	
+	obadin = {
+		name = "オバディナン"#Obadin
+		plural = "オバディナン"#Obadinans
+		home_planet = "オバディン"#Obadin
+		home_system = "オダカ"#"Odaka"
+		name_list = "MOL3"
+	}
+	
+	yalon = {
+		name = "ヤロニアン"#Yalon
+		plural = "ヤロニアン"#Yalonians
+		home_planet = "ヤル"#Yal
+		home_system = "ペコナヤル"#"Pekona Yal"
+		name_list = "MOL4"
+	}
+	
+	dyss = {
+		name = "ディス"#Dyss
+		plural = "ディス"#Dyssani
+		home_planet = "サイル"#Syr
+		home_system = "ディスサイル"#Dys'Syr
+		name_list = "MOL1"
+	}
+	
+	gwesibor = {
+		name = "グウェシボル"#Gwesibor
+		plural = "グウェシボル"#Gwesiborans
+		home_planet = "グエシボリン"#Gwesiborin
+		home_system = "ハキボリ"#Hakibori
+		name_list = "MOL2"
+	}
+	
+	andigonj = {
+		name = "アンディゴン"#Andigonj
+		plural = "アンディゴン"#Andigonji
+		home_planet = "ゴンジ"#Gonji
+		home_system = "アンオンジ"#An'Onj
+		name_list = "MOL3"
+	}
+	
+	grollferp = {
+		name = "グロルフェプ"#Grollferp
+		plural = "グロルフェプ"#Grollferpi
+		home_planet = "グロル"#Groll 
+		home_system = "ガランフェピ"#Garan'Ferpi
+		name_list = "MOL4"
+	}
+	
+	sondrithan = {
+		name = "ソンダリサン"#Sondrithan
+		plural = "ソンダリサン"#Sondrithani
+		home_planet = "ソンドリサ"#Sondritha
+		home_system = "アバカヌス"#Abacanus'Sondri
+		name_list = "MOL1"
+	}
+	
+	hjannarthi = {
+		name = "フジャナーシ"#Hjannarthi
+		plural = "フジャナーシ"#Hjannarthids
+		home_planet = "アクマラカン"#Akma'Lakan
+		home_system = "アクマブコ"#Akma'Buko
+		name_list = "MOL2"
+	}
+	
+	domanna = {
+		name = "ドマンナ"#Domanna
+		plural = "ドマンナ"#Domannans
+		home_planet = "ドマニカ"#Domannica
+		home_system = "ペトルプ"#Petoll-Pu
+		name_list = "MOL3"
+	}
+	
+	wacegi = {
+		name = "ワケギ"#Wacegi
+		plural = "ワケギ"#Wacegins
+		home_planet = "ワケゴ"#Wacego
+		home_system = "ワケゴイフラ"#"Wacego Iftlar"
+		name_list = "MOL4"
+	}
+	
+	norillga = {
+		name = "ノリルガ"#Norillga
+		plural = "ノリルガ"#Norillgans
+		home_planet = "ナヴァリル"#Navarill
+		home_system = "ナヴァリル"#Nevidrall
+		name_list = "MOL1"
+	}
+	
+	laginchuuz = {
+		name = "ラギンチュズ"#Lagin'Chuuz
+		plural = "ラギンチュズ"#Lagin'Chuuzi
+		home_planet = "ラギンチュ"#Laginchu
+		home_system = "ロングラクサ"#Lohgraxanna
+		name_list = "MOL2"
+	}
+	
+	moijhuxgan = {
+		name = "モイジフガン"#Moij-Huxgan
+		plural = "モイジフガン"#Moij-Huxgans
+		home_planet = "マイジ"#Maij
+		home_system = "フクサガニガ"#Huxganniga
+		name_list = "MOL3"
+	}
+}
+
+### PLANTOIDS
+
+PLANT = {
+	lozavata = {
+		name = "ロザヴァタ"#Lozavata
+		plural = "ロザヴァタ"#Lozavatae
+		home_planet = "ロザヴァタ"#"Lozavata Prima"
+		home_system = "ロザ"#Loza
+		name_list = "PLANT"
+	}
+
+	queptilium = {
+		name = "クエプチリム"#Queptilium
+		plural = "クエプチリム"#Queptilia
+		home_planet = "クエプチリム"#"Queptilium Primum"
+		home_system = "クエプタ"#Quepta
+		name_list = "PLANT2"
+	}
+
+	lilarobius = {
+		name = "リラーロビス"#Lilarobius
+		plural = "リラーロビス"#Lilarobii
+		home_planet = "リラーロビス"#"Lilarobius Primus"
+		home_system = "リラロ"#Lilaro
+		name_list = "PLANT3"
+	}
+
+	vetirisio = {
+		name = "ベチリシウス"#Vetirisius
+		plural = "ベチリシウス"#Vetirisii
+		home_planet = "ベチリシウス"#"Vetirisius Primus"
+		home_system = "ヴェチリ"#Vetiri
+		name_list = "PLANT4"
+	}
+
+	belmacosa = {
+		name = "ベルマコサ"#Belmacosa
+		plural = "ベルマコサ"#Belmacosae
+		home_planet = "ベルマコサ"#"Belmacosa Prima"
+		home_system = "ベルム"#Belm
+		name_list = "PLANT"
+	}
+
+	panaxala = {
+		name = "パナクサラ"#Panaxala
+		plural = "パナクサラ"#Panaxalae
+		home_planet = "パナクサラ"#"Panaxala Prima"
+		home_system = "パナクサ"#Panaxa
+		name_list = "PLANT2"
+	}
+
+	ganvius = {
+		name = "ガンヴィウス"#Ganvius
+		plural = "ガンヴィウス"#Ganvii
+		home_planet = "ガンヴィウス"#"Ganvius Primus"
+		home_system = "ガンヴァ"#Ganva
+		name_list = "PLANT3"
+	}
+
+	caloctora = {
+		name = "カロクトラ"#Caloctora
+		plural = "カロクトラ"#Caloctorae
+		home_planet = "カロクトラ"#"Caloctora Prima"
+		home_system = "カロク"#Caloc
+		name_list = "PLANT4"
+	}
+
+	vivisandia = {
+		name = "ビビサンヂア"#Vivisandia
+		plural = "ビビサンヂア"#Vivisandia
+		home_planet = "ビビサンヂア"#"Vivisandia Prima"
+		home_system = "ヴィヴィス"#Vivis
+		name_list = "PLANT"
+	}
+
+	sidimatus = {
+		name = "シディマタス"#Sidimatus
+		plural = "シディマタス"#Sidimati
+		home_planet = "シディマタス"#"Sidimatus Primus"
+		home_system = "シディマ"#Sidima
+		name_list = "PLANT2"
+	}
+
+	mandasura = {
+		name = "マンダスラ"#Mandasura
+		plural = "マンダスラ"#Mandasurae
+		home_planet = "マンダスラ"#"Mandasura Prima"
+		home_system = "マンダス"#Mandas
+		name_list = "PLANT3"
+	}
+
+	mirovandia = {
+		name = "ミロバンヂア"#Mirovandia
+		plural = "ミロバンヂア"#Mirovandia
+		home_planet = "ミロバンヂア"#"Mirovandia Prima"
+		home_system = "ミロヴ"#Mirov
+		name_list = "PLANT4"
+	}
+
+	pelisimus = {
+		name = "ペリシムス"#Pelisimus
+		plural = "ペリシムス"#Pelisimi
+		home_planet = "ペリシムス"#"Pelisimus Primus"
+		home_system = "ペリシ"#Pelisi
+		name_list = "PLANT"
+	}
+
+	lavis = {
+		name = "ラヴィス"#Lavis
+		plural = "ラヴィス"#Lavii
+		home_planet = "ラヴィス"#"Lavis Primus"
+		home_system = "ラヴ"#Lav
+		name_list = "PLANT2"
+	}
+	
+	raxycodium = {
+		name = "ラジジウム"#Raxycodium
+		plural = "ラジジウム"#Raxycodia
+		home_planet = "ラジジウム"#"Raxycodium Primum"
+		home_system = "ラクサイコ"#Raxyco
+		name_list = "PLANT3"
+	}
+}
+
+### HUMANOIDS
+
+HUM = {
+
+	khellzen = {
+		name = "ケルゼン"#Khell'Zen
+		plural = "ケルゼン"#Khell'Zen
+		home_planet = "ケルザッカ"#Khellzakka
+		home_system = "ケル"#Khell
+		name_list = "HUM1"
+	}
+	
+	sutharian = {
+		name = "スサリアン"#Sutharian
+		plural = "スサリアン"#Sutharians
+		home_planet = "スサリア"#Sutharia
+		home_system = "ススカサ"#Suth-Kasa
+		name_list = "HUM2"
+	}
+	
+	velutarian = {
+		name = "ベルタリアン"#Velutarian
+		plural = "ベルタリアン"#Velutarians
+		home_planet = "ベルタリア"#"Velutaria Prime"
+		home_system = "ベルタリア"#Velutaria
+		name_list = "HUM3"
+	}
+	
+	zelvan = {
+		name = "ゼルヴァン"#Zelvan
+		plural = "ゼルヴァン"#Zelvans
+		home_planet = "ゼルヴィカナ"#Zelvikanna
+		home_system = "ゼルヴナク"#Zelvnak
+		name_list = "HUM4"
+	}
+	
+	quenti = {
+		name = "クエンティ"#Quenti
+		plural = "クエンティ"#Quenti
+		home_planet = "ビラーナ"#Bhiranna
+		home_system = "ヒブヌズハ"#Hib'nuzha
+		name_list = "HUM1"
+	}
+	
+	rihinar = {
+		name = "リヒナー"#Rihi'Nar
+		plural = "リヒナー"#Rihi'Nari
+		home_planet = "リーヒ"#Rihi
+		home_system = "ニーリ"#Niri
+		name_list = "HUM2"
+	}
+	
+	prossnakan = {
+		name = "プロスナカン"#Prossnakan
+		plural = "プロスナカン"#Prossnakans
+		home_planet = "プロス"#Pross
+		home_system = "プロスナク"#Prossnak
+		name_list = "HUM3"
+	}
+	
+	mitron = {
+		name = "ミトロン"#Mitron
+		plural = "ミトロン"#Mitrons
+		home_planet = "ミトラ"#Mitra
+		home_system = "ミツハー"#Mituhar
+		name_list = "HUM4"
+	}
+	
+	cevelli = {
+		name = "ケヴェリ"#Cevelli
+		plural = "ケヴェリ"#Cevelli
+		home_planet = "ケヴァシア"#Cevasia
+		home_system = "イマッカ"#Imakka
+		name_list = "HUM1"
+	}
+	
+	panuri = {
+		name = "パヌリ"#Panuri
+		plural = "パヌリ"#Panuri
+		home_planet = "パナス"#"Panasu Prime"
+		home_system = "パナス"#Panasu
+		name_list = "HUM2"
+	}
+	
+	ylkhahan = {
+		name = "イルカーハン"#Yl'Khahan
+		plural = "イルカーハン"#Yl'Khahans
+		home_planet = "カーザーン"#Kha'Zann
+		home_system = "ケサダ"#Kesada
+		name_list = "HUM3"
+	}
+	
+	giranshu = {
+		name = "ギランシュ"#Giranshu
+		plural = "ギランシュ"#Giranshu
+		home_planet = "ギリダー"#Girridar
+		home_system = "ジャギルシャ"#Jagirsha
+		name_list = "HUM4"
+	}
+	
+	bebaki = {
+		name = "ベバキ"#Bebaki
+		plural = "ベバキ"#Bebaki
+		home_planet = "ベバク"#Bebak
+		home_system = "ババッカ"#Babakka
+		name_list = "HUM1"
+	}
+	
+	alvanian = {
+		name = "アルバニアン"#Alvanian
+		plural = "アルバニアン"#Alvanians
+		home_planet = "旧アルバニア"#"Old Alvania"
+		home_system = "アルヴス"#Alvus
+		name_list = "HUM2"
+	}
+}

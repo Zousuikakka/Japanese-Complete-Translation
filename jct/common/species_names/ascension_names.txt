@@ -1,0 +1,134 @@
+
+# Synthetic Evolution Species Names
+named_lists = {
+	ascension_list = {
+		Species_1 = {
+			name = "レクサー"
+			plural = "レクサー"
+		}
+		species_2 = {
+			name = "シレンス"
+			plural = "シレンス"
+		}
+		species_3 = {
+			name = "トロニックス"
+			plural = "トロニックス"
+		}
+		species_4 = {
+			name = "メタトロン"
+			plural = "メタトロン"
+		}
+		species_5 = {
+			name = "ゼレス"
+			plural = "ゼレス"
+		}
+		species_6 = {
+			name = "アセンデッド"
+			plural = "アセンデッド"
+		}
+		species_7 = {
+			name = "バイオモーフ"
+			plural = "バイオモーフ"
+		}
+		species_8 = {
+			name = "アルトロン"
+			plural = "アルトロン"
+		}
+		species_9 = {
+			name = "ヴィーリアン"
+			plural = "ヴィーリアン"
+		}
+		species_10 = {
+			name = "ヴォーラン"
+			plural = "ヴォーラン"
+		}
+		species_11 = {
+			name = "ヴォクサー"
+			plural = "ヴォクサー"
+		}
+		species_12 = {
+			name = "ベントリオン"
+			plural = "ベントリオン"
+		}
+		species_13 = {
+			name = "メカノイド"
+			plural = "メカノイド"
+		}
+		species_14 = {
+			name = "ディセプター"
+			plural = "ディセプター"
+		}
+		species_15 = {
+			name = "バイオニック"
+			plural = "バイオニック"
+		}
+		species_16 = {
+			name = "ドミナー"
+			plural = "ドミナー"
+		}
+		species_17 = {
+			name = "ベンドロイド"
+			plural = "ベンドロイド"
+		}
+		species_18 = {
+			name = "メタドロイド"
+			plural = "メタドロイド"
+		}
+		species_19 = {
+			name = "メタバイオ"
+			plural = "メタバイオ"
+		}
+		species_20 = {
+			name = "メカモーフ"
+			plural = "メカモーフ"
+		}
+		species_21 = {
+			name = "スプラベクス"
+			plural = "スプラベクス"
+		}
+		species_22 = {
+			name = "ネオオルガン"
+			plural = "ネオオルガン"
+		}
+		species_23 = {
+			name = "エノイック"
+			plural = "エノイック"
+		}
+		species_24 = {
+			name = "セルバン"
+			plural = "セルバン"
+		}
+		species_25 = {
+			name = "トラシトロン"
+			plural = "トラシトロン"
+		}
+		species_26 = {
+			name = "ベクトリアン"
+			plural = "ベクトリアン"
+		}
+		species_27 = {
+			name = "エニマトロン"
+			plural = "エニマトロン"
+		}
+		species_28 = {
+			name = "ネオマキナ"
+			plural = "ネオマキナ"
+		}
+		species_29 = {
+			name = "トランシトラ"
+			plural = "トランシトラ"
+		}
+		species_30 = {
+			name = "ミミクロン"
+			plural = "ミミクロン"
+		}
+		species_31 = {
+			name = "ボルトロン"
+			plural = "ボルトロン"
+		}
+		species_32 = {
+			name = "サイバリオン"
+			plural = "サイバリオン"
+		}
+	}
+}
