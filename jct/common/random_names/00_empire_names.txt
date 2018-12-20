@@ -1189,28 +1189,44 @@ empire_name_parts_list = {
 empire_name_parts_list = {
 	key = "oligarchic_corp"
 	parts = {
-		"集団" = 1
-		"カルテル" = 1
-		"社" = 1
+		"集団" = 2
+		"社" = 4
 		"協商連合" = 1
 		"協商同盟" = 1
 		"協商ホールディングス" = 1
 		"宇宙集団" = 1
-		"エンタープライズ" = 1
+		"エンタープライズ" = 2
 		"パートナーシップ" = 1
-		"星産業" = 1
-		"連合国" = 1
-		"会社" = 1
+		"宇宙産業" = 1
+		"会社" = 2
 		"消費財団" = 1
 		"宇宙社" = 1
 		"シナジェティクス" = 1
 		"有限会社" = 1
-		"通商" = 1
-		"商人ギルド連合" = 1
-		"貿易委員会" = 1
-		"産業" = 1
+		"工業" = 1
 		"星系連合" = 1
+		"恒星社" = 1
+        "コンツェルン" = 1
+        "星間社" = 1
+        "産業" = 1
+        "ダイナミクス" = 1
+        "恒星間会社" = 1
 	}
+}
+
+# Communal Parity
+empire_name_parts_list = {
+    key = "communal_parity"
+    parts = {
+        "コミューン" = 6
+        "組合" = 6
+        "人民共和国" = 6
+        "人民同盟" = 3
+        "自治連合" = 3
+        "協同組合" = 3
+        "党" = 1
+        "集産国" = 1
+    }
 }
 
 # Megachurch
@@ -1237,18 +1253,56 @@ empire_name_parts_list = {
 empire_name_parts_list = {
 	key = "trade_league"
 	parts = {
-		"シンジケート" = 1
-		"協会" = 1
-		"カルテル" = 1
 		"商業連合" = 1
 		"商業ギルド" = 1
 		"商業連盟" = 1
-		"交易連合" = 1
+		"交易協会" = 1
+		"交易ギルド" = 1
+		"交易委員会" = 1
+		"交易連合"
 		"自由交易者同盟" = 1
 		"交易同盟" = 1
-		"商業保障会" = 1
+		"貿易商連合" = 1
 		"輸送同盟" = 1
+		"交易社団"
 	}
+}
+
+# Criminal Syndicate
+empire_name_parts_list = {
+    key = "monopolistic_syndicate"
+    parts = {
+        "シンジケート" = 6
+        "協会" = 2
+        "カルテル" = 4
+        "企業連合" = 2
+        "独占社" = 3
+        "コンツェルン" = 1
+    }
+}
+
+# Subversive Cult 1
+empire_name_parts_list = {
+    key = "subversive_cult_1"
+    parts = {
+        "カルト" = 1
+        "選民教会" = 1
+        "セクト" = 1
+        "講社" = 1
+    }
+}
+
+# Subversive Cult 2
+empire_name_parts_list = {
+    key = "subversive_cult_2"
+    parts = {
+        "選民教会" = 1
+        "講社" = 1
+        "預言会" = 1
+        "生粋会" = 1
+        "伝令会" = 1
+        "巡礼者協会" = 1
+    }
 }
 
 # Bandit Kingdom
@@ -1256,10 +1310,10 @@ empire_name_parts_list = {
 	key = "bandit_kingdom"
 	parts = {
 		"略奪集団" = 1
-		"カルテル" = 1
 		"三合会" = 1
-		"シンジケート" = 1
 		"結社" = 1
+		"党" = 1
+        "組" = 1
 	}
 }
 
@@ -4599,6 +4653,120 @@ empire_name_format = {
 	noun = "[This.GetSpeciesName]"
 	prefix_format = ""#[This.GetSpeciesName] <trade_league>"
 	# Human Empire
+}
+
+# Criminal Syndicate
+empire_name_format = {
+    random_weight = {
+        factor = 0
+        modifier = {
+            add = 5
+            has_government = "gov_criminal_syndicate"
+            is_pirate = no
+            is_primitive = no
+            NOT = { is_country_type = fallen_empire }
+            NOT = { is_country_type = awakened_fallen_empire }
+        }
+    }
+    format = "format.monopolistic_syndicate.1"
+    noun = "[This.GetSpeciesName]"
+    prefix_format = ""#[This.GetSpeciesName] <monopolistic_syndicate>"
+    # Human Empire
+}
+
+# Subversive Cult 1
+empire_name_format = {
+    random_weight = {
+        factor = 0
+        modifier = {
+            add = 5
+            has_government = "gov_subversive_cult"
+            is_pirate = no
+            is_primitive = no
+            NOT = { is_country_type = fallen_empire }
+            NOT = { is_country_type = awakened_fallen_empire }
+        }
+    }
+    format = "format.subversive_cult.1"
+    noun = "[This.GetSpeciesName]"
+    prefix_format = ""#[This.GetSpeciesName] <subversive_cult_1>"
+    # Human Cult
+}
+
+# Subversive Cult 2
+empire_name_format = {
+    random_weight = {
+        factor = 0
+        modifier = {
+            add = 5
+            has_government = "gov_subversive_cult"
+            is_pirate = no
+            is_primitive = no
+            NOT = { is_country_type = fallen_empire }
+            NOT = { is_country_type = awakened_fallen_empire }
+        }
+    }
+    format = "format.subversive_cult.2"
+    noun = "[This.GetSpeciesName]"
+    prefix_format = ""#[This.GetSpeciesName] <subversive_cult_2>"
+    # Prophets of Earth
+}
+
+# Communal Parity 1
+empire_name_format = {
+    random_weight = {
+        factor = 0
+        modifier = {
+            add = 1
+            has_government = "gov_communal_parity"
+            is_pirate = no
+            is_primitive = no
+            NOT = { is_country_type = fallen_empire }
+            NOT = { is_country_type = awakened_fallen_empire }
+        }
+    }
+    format = "format.communal_parity.1"
+    noun = "[This.Capital.GetName]"
+    prefix_format = ""#[This.Capital.GetName] <imperial_celestial>"
+    # People's Republic of Earth
+}
+
+# Communal Parity 2
+empire_name_format = {
+    random_weight = {
+        factor = 0
+        modifier = {
+            add = 1
+            has_government = "gov_communal_parity"
+            is_pirate = no
+            is_primitive = no
+            NOT = { is_country_type = fallen_empire }
+            NOT = { is_country_type = awakened_fallen_empire }
+        }
+    }
+    format = "format.communal_parity.2"
+    noun = "[This.Capital.GetName]"
+    prefix_format = ""#[This.Capital.GetName] <imperial_celestial>"
+    # People's Republic of Sol
+}
+
+# Communal Parity 3
+empire_name_format = {
+    random_weight = {
+        factor = 0
+        modifier = {
+            add = 5
+            has_government = "gov_communal_parity"
+            is_pirate = no
+            is_primitive = no
+            NOT = { is_country_type = fallen_empire }
+            NOT = { is_country_type = awakened_fallen_empire }
+        }
+    }
+    format = "format.communal_parity.3"
+    noun = "[This.Capital.GetName]"
+    prefix_format = ""#[This.Capital.GetName] <imperial_celestial>"
+    # Human People's Republic
 }
 
 # Bandit Kingdom

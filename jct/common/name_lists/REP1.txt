@@ -78,14 +78,6 @@ REP1 = {
 			sequential_name = "第%C%防衛ネクサス"
 		}
 		
-		android_army = {
-			sequential_name = "第%C%合成戦隊"
-		}
-
-		android_defense_army = {
-			sequential_name = "第%C%合成防衛隊"
-		}
-		
 		psionic_army = { 
 			sequential_name = "第%C%思考監視隊"
 		}
@@ -106,8 +98,14 @@ REP1 = {
 			sequential_name = "第%C%占領ネクサス"
 		}
 
-		android_occupation_army = {
-			sequential_name = "第%C%占領シンス"
+		primitive_army = {
+            sequential_name = "第%C%原始時代軍"
+        }
+        industrial_army = {
+            sequential_name = "第%C%産業時代軍"
+        }
+        postatomic_army = {
+            sequential_name = "第%C%後原子力時代軍"
 		}
 	}
 

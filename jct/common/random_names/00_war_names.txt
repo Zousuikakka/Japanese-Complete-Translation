@@ -10,173 +10,190 @@ war_name_parts_list = {
 war_name_parts_list = {
 	key = "federation_war_names"
 	parts = {
-		"大戦" = 1
-		"銀河大戦" = 1
-		"同盟戦争" = 1
-		"連邦戦争" = 1
+		"Great_War" = 1
+		"Galactic_War" = 1
+		"War_of_the_Alliances" = 1
+		"Federation_War"
 	}
 }
 
 war_name_parts_list = {
 	key = "conquest_war_names"
 	parts = {
-		"征服戦争" = 1
-		"侵攻戦争" = 1
-		"領宙侵攻" = 1
-		"併合戦争" = 1
+		"War_of_Conquest" = 1
+		"War_of_Aggression" = 1
+		"Territorial_Invasion" = 1
+		"Annexation_Attempt" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "corp_conquest_war_names"
 	parts = {
-		"敵対的買収" = 1
+		"Hostile_Takeover" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "subjugation_war_names"
 	parts = {
-		"従属戦争" = 1
-		"服属戦役" = 1
-		"服従戦争" = 1
-		"宗主権獲得戦争" = 1
+		"War_of_Subjugation" = 1
+		"Servitude_Campaign" = 1
+		"War_of_Obedience" = 1
+		"War_of_Overlordship" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "corp_subjugation_war_names"
 	parts = {
-		"子会社化闘争" = 1
+		"Subsidiary_Acquisition" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "galatron_war_names"
+	parts = {
+		"War_for_the_Galatron" = 1
+	}
+}
+
+war_name_parts_list = {
+	key = "expel_corp_war_names"
+	parts = {
+		"Embargo_War" = 1
+		"War_of_Expropriation" = 1
+		"Expulsion_War" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "tribute_war_names"
 	parts = {
-		"部族戦争" = 1
+		"Tributary_War" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "corp_tribute_war_names"
 	parts = {
-		"強制スポンサー化戦争" = 1
+		"Enforced_Sponsorship" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "force_ideology_war_names"
 	parts = {
-		"信条戦争" = 1
-		"哲学戦争" = 1
-		"信念戦争" = 1
+		"War_of_Ideologies" = 1
+		"War_of_Philosophies" = 1
+		"War_of_Beliefs" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "humiliation_war_names"
 	parts = {
-		"侮辱戦争" = 1
-		"宿敵戦争" = 1
-		"軍事衝突" = 1
-		"国境紛争" = 1
+		"War_of_Humiliation" = 1
+		"War_of_Rivalry" = 1
+		"Confrontation" = 1
+		"Border_War" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "fe_humiliation_war_names"
 	parts = {
-		"懲罰遠征" = 1
+		"Punitive_Expedition" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "fe_stop_atrocities_war_names"
 	parts = {
-		"人道的介入" = 1
+		"Moral_Intervention" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "fe_stop_ai_names_war_names"
 	parts = {
-		"反AI平和維持活動" = 1
+		"Anti_AI_Police_Action" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "fe_cleanse_holy_worlds_war_names"
 	parts = {
-		"神聖浄化戦争" = 1
+		"Holy_Purge" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "fe_cleanse_border_worlds_war_names"
 	parts = {
-		"緩衝地帯洗浄活動" = 1
+		"Buffer_Zone_Creation" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "machine_uprising_war_names"
 	parts = {
-		"機械蜂起"
+		"Machine_Uprising"
 	}
 }
 
 war_name_parts_list = {
 	key = "war_in_heaven_war_names"
 	parts = {
-		"天上戦争"
+		"The_War_in_Heaven"
 	}
 }
 
 war_name_parts_list = {
 	key = "protection_war_names"
 	parts = {
-		"予防戦争" = 1
-		"自衛戦争" = 1
-		"先制防衛行動" = 1
-		"介入戦争" = 1
+		"Preventive_War" = 1
+		"Self_Protection_War" = 1
+		"Preemptive_Action" = 1
+		"Intervention_War" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "cleansing_pur_war_names"
 	parts = {
-		"異星種族浄化戦争" = 1
-		"洗浄戦争" = 1
-		"異星汚泥浄化作業" = 1
+		"Xeno_Purification_War" = 1
+		"War_of_Cleansing" = 1
+		"Xeno_Filth_Removal" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "cleansing_ext_war_names"
 	parts = {
-		"有機生命体安楽死戦争" = 1
-		"絶滅戦役" = 1
-		"有機生命体消毒計画" = 1
+		"Organic_Euthanization_War" = 1
+		"Extermination_Campaign" = 1
+		"Organic_Disinfection_Program" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "absorption_war_names"
 	parts = {
-		"吸収戦争"= 1
-		"バイオマス集積活動" = 1
-		"大饗宴" = 1
+		"Absorption_War" = 1
+		"Biomass_Accumulation" = 1
+		"Great_Gorging" = 1
 	}
 }
 
 war_name_parts_list = {
 	key = "independence_war_names"
 	parts = {
-		"独立戦争" = 1
-		"解放戦争" = 1
-		"自由闘争" = 1
-		"分離主義戦争" = 1
+		"Independence_War" = 1
+		"War_of_Independence" = 1
+		"War_of_Liberation" = 1
+		"Freedom_Struggle" = 1
+		"Secessionist_War" = 1
 	}
 }
 
@@ -280,7 +297,7 @@ war_name_format = {
 		modifier = {
 			add = 999
 			using_war_goal = {
-                type = wg_conquest
+                type = wg_hostile_takeover
                 owner = attacker
             }
             attacker = {
@@ -303,9 +320,15 @@ war_name_format = {
 		factor = 0
 		modifier = {
 			add = 999
-			using_war_goal = {
-                type = wg_subjugation
-                owner = attacker
+			OR = {
+                using_war_goal = {
+                    type = wg_subjugation
+                    owner = attacker
+                }
+                using_war_goal = {
+                    type = wg_megacorp_subjugate
+                    owner = attacker
+                }                
             }
             attacker = {
 				has_federation = no
@@ -325,10 +348,16 @@ war_name_format = {
 		factor = 0
 		modifier = {
 			add = 999
-			using_war_goal = {
-                type = wg_subjugation
-                owner = attacker
-            }
+		    OR = {
+                using_war_goal = {
+                    type = wg_subjugation
+                    owner = attacker
+                }
+                using_war_goal = {
+                    type = wg_megacorp_subjugate
+                    owner = attacker
+                }                
+            }	
 			attacker = {
 				has_federation = yes
 			}
@@ -346,9 +375,15 @@ war_name_format = {
 		factor = 0
 		modifier = {
 			add = 999
-			using_war_goal = {
-                type = wg_subjugation
-                owner = attacker
+			OR = {
+                using_war_goal = {
+                    type = wg_subjugation
+                    owner = attacker
+                }
+                using_war_goal = {
+                    type = wg_megacorp_subjugate
+                    owner = attacker
+                }                
             }
 			attacker = {
 				has_federation = no
@@ -367,9 +402,15 @@ war_name_format = {
 		factor = 0
 		modifier = {
 			add = 999
-			using_war_goal = {
-                type = wg_subjugation
-                owner = attacker
+			OR = {
+                using_war_goal = {
+                    type = wg_subjugation
+                    owner = attacker
+                }
+                using_war_goal = {
+                    type = wg_megacorp_subjugate
+                    owner = attacker
+                }                
             }
             attacker = {
 				has_federation = no
@@ -1068,4 +1109,34 @@ war_name_format = {
 		}
 	}
 	format = "[This.MainDefender.GetAdj]<machine_uprising_war_names>"
+}
+
+## EXPEL CORP WARS
+war_name_format = {
+    random_weight = {
+        factor = 0
+        modifier = {
+            add = 999
+            using_war_goal = {
+                type = wg_expel_corp
+                owner = attacker
+            }
+        }
+    }
+    format = "[This.MainAttacker.GetAdj]・[This.MainDefender.GetAdj]<expel_corp_war_names>"
+}
+
+## GALATRON WARS
+war_name_format = {
+    random_weight = {
+        factor = 0
+        modifier = {
+            add = 999
+            using_war_goal = {
+                type = wg_take_galatron
+                owner = attacker
+            }
+        }
+    }
+    format = "<galatron_war_names>"
 }

@@ -78,14 +78,6 @@ MOL3 = {
 			sequential_name = "第%C%鋼鉄防衛隊"
 		}
 		
-		android_army = {
-			sequential_name = "第%C%思考回路旅団"
-		}
-
-		android_defense_army = {
-			sequential_name = "第%C%思考回路防衛隊"
-		}
-		
 		psionic_army = { 
 			sequential_name = "第%C%精神発振隊"
 		}
@@ -106,8 +98,14 @@ MOL3 = {
 			sequential_name = "第%C%鋼鉄占領軍"
 		}
 
-		android_occupation_army = {
-			sequential_name = "第%C%思考回路占領軍"
+		primitive_army = {
+            sequential_name = "第%C%原始時代軍"
+        }
+        industrial_army = {
+            sequential_name = "第%C%産業時代軍"
+        }
+        postatomic_army = {
+            sequential_name = "第%C%後原子力時代軍"
 		}
 	}
 

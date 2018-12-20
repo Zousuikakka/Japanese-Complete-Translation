@@ -77,14 +77,6 @@ MAM3 = {
 			sequential_name = "第%C%ロボット守備隊"
 		}
 		
-		android_army = {
-			sequential_name = "第%C%アンドロイド師団"
-		}
-
-		android_defense_army = {
-			sequential_name = "第%C%アンドロイド守備隊"
-		}
-		
 		psionic_army = { 
 			sequential_name = "第%C%超能力軍"
 		}
@@ -105,8 +97,14 @@ MAM3 = {
 			sequential_name = "第%C%占領ロボット軍"
 		}
 
-		android_occupation_army = {
-			sequential_name = "第%C%占領アンドロイド軍"
+		primitive_army = {
+            sequential_name = "第%C%原始時代軍"
+        }
+        industrial_army = {
+            sequential_name = "第%C%産業時代軍"
+        }
+        postatomic_army = {
+            sequential_name = "第%C%後原子力時代軍"
 		}
 	}
 

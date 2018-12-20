@@ -77,14 +77,6 @@ MOL1 = {
 			sequential_name = "第%C%セファロドロイド防衛隊"
 		}
 		
-		android_army = {
-			sequential_name = "第%C%スピリット・シェル"
-		}
-
-		android_defense_army = {
-			sequential_name = "第%C%スピリット防衛隊"
-		}
-		
 		psionic_army = { 
 			sequential_name = "第%C%サイキック・ファランクス"
 		}
@@ -105,8 +97,14 @@ MOL1 = {
 			sequential_name = "第%C%占領セファドロイド隊"
 		}
 
-		android_occupation_army = {
-			sequential_name = "第%C%占領スピリット防衛隊"
+		primitive_army = {
+            sequential_name = "第%C%原始時代軍"
+        }
+        industrial_army = {
+            sequential_name = "第%C%産業時代軍"
+        }
+        postatomic_army = {
+            sequential_name = "第%C%後原子力時代軍"
 		}
 	}
 

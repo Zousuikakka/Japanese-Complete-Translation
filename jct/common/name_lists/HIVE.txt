@@ -96,14 +96,6 @@ HIVE = {
 			sequential_name = "第%C%ロボット防衛個体群"
 		}
 		
-		android_army = {
-			sequential_name = "第%C%ドロイド戦闘個体群"
-		}
-
-		android_defense_army = {
-			sequential_name = "第%C%ドロイド防衛個体群"
-		}
-		
 		psionic_army = { 
 			sequential_name = "第%C%超能力戦闘個体群"
 		}
@@ -114,6 +106,16 @@ HIVE = {
 		
 		gene_warrior_army = {
 			sequential_name = "第%C%強化戦闘個体群"
+		}
+		
+		primitive_army = {
+            sequential_name = "第%C%原始時代軍"
+        }
+        industrial_army = {
+            sequential_name = "第%C%産業時代軍"
+        }
+        postatomic_army = {
+            sequential_name = "第%C%後原子力時代軍"
 		}
 	}
 

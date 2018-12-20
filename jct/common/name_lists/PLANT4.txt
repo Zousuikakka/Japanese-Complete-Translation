@@ -100,14 +100,6 @@ PLANT4 = {
 			sequential_name = "%R% マテア・センティス"
 		}
 		
-		android_army = {
-			sequential_name = "%R% ストライプス・カ・デンドロ"
-		}
-
-		android_defense_army = {
-			sequential_name = "%R% ストライプス・カ・デンドロ"
-		}
-		
 		psionic_army = { 
 			sequential_name = "第%C%ストライプス・カ・サイオリ"
 		}
@@ -128,8 +120,14 @@ PLANT4 = {
 			sequential_name = "第%C%マテア・センティス"
 		}
 
-		android_occupation_army = {
-			sequential_name = "第%C%スティアペス・カ・デンドロ"
+		primitive_army = {
+            sequential_name = "第%C%原始時代軍"
+        }
+        industrial_army = {
+            sequential_name = "第%C%産業時代軍"
+        }
+        postatomic_army = {
+            sequential_name = "第%C%後原子力時代軍"
 		}
 	}
 	

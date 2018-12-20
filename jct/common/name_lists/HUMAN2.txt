@@ -93,14 +93,6 @@ HUMAN2 = {
 			sequential_name = "第%C%無人守備隊"
 		}
 		
-		android_army = {
-			sequential_name = "第%C%アンドロイド予備隊"
-		}
-
-		android_defense_army = {
-			sequential_name = "第%C%アンドロイド守備隊"
-		}
-		
 		psionic_army = { 
 			random_names = { 
 				"シャドウ隊" "ゴースト隊" "レイス隊" "スペクター隊" "ファントム隊" "ウィンドメーカー隊" "スカル隊" "バンシー隊"
@@ -127,10 +119,6 @@ HUMAN2 = {
 
 		robotic_occupation_army = {
 			sequential_name = "第%C%無人守備隊"
-		}
-
-		android_occupation_army = {
-			sequential_name = "第%C%アンドロイド守備隊"
 		}
 	}
 

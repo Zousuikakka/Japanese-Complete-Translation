@@ -85,14 +85,6 @@ AVI4 = {
 			sequential_name = "第%C%機械化抱卵監視隊"
 		}
 		
-		android_army = {
-			sequential_name = "第%C%アンドロイド先進隊"
-		}
-
-		android_defense_army = {
-			sequential_name = "第%C%アンドロイド抱卵監視隊"
-		}
-		
 		psionic_army = {
 			sequential_name = "第%C%有翼超能力隊"
 		}
@@ -113,8 +105,14 @@ AVI4 = {
 			sequential_name = "第%C%機械化占領軍"
 		}
 
-		android_occupation_army = {
-			sequential_name = "第%C%アンドロイド占領軍"
+		primitive_army = {
+            sequential_name = "第%C%原始時代軍"
+        }
+        industrial_army = {
+            sequential_name = "第%C%産業時代軍"
+        }
+        postatomic_army = {
+            sequential_name = "第%C%後原子力時代軍"
 		}
 	}
 
