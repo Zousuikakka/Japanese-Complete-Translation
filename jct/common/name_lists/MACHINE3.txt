@@ -42,6 +42,10 @@ MACHINE3 = {
 			"レプリケーション・モジュール"
 		}
 		
+		sponsored_colonizer = {
+			"レプリケーション・モジュール"
+		}
+		
 		constructor = { 
 			"コンストラクション・モジュール"
 		}

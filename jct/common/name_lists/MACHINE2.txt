@@ -41,6 +41,10 @@ MACHINE2 = {
 			"コロナイゼーションキャリア"
 		}
 		
+		sponsored_colonizer = {  
+			"コロナイゼーションキャリア"
+		}
+		
 		constructor = { 
 			"コンストラクター"
 		}

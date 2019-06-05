@@ -39,6 +39,10 @@ PLANT = {
 			"シード・キャプスル" "フルーツキャリア"
 		}
 		
+		sponsored_colonizer = {
+			"シード・キャプスル" "フルーツキャリア"
+		}
+		
 		constructor = {
 			"メリステム"
 		}
