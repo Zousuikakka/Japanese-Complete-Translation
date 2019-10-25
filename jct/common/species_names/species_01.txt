@@ -864,7 +864,7 @@ REP = {
 	}
 }
 
-### AVIAN (editme)
+### AVIAN
 
 AVI = {
 	uvaxavani = {
@@ -1534,5 +1534,273 @@ HUM = {
 		home_planet = "旧アルバニア"#"Old Alvania"
 		home_system = "アルヴス"#Alvus
 		name_list = "HUM2"
+	}
+}
+
+### LITHOIDS
+
+LITHOID = {
+	tharbarite = {
+		name = "サーバライト"#Tharbarite
+		plural = "サーバライト"# Tharbarites
+		home_planet = "サーバ"# Tharba
+		home_system = "サー"#Thar
+		name_list = "LITHOID1"
+	}
+
+	evarite = {
+		name = "エヴァライト"#Evarite
+		plural = "エヴァライト"# Evarites
+		home_planet = "エヴァリ・プライム"# "Evari Prime"
+		home_system = "エヴァリ"#Evari
+		name_list = "LITHOID2"
+	}
+
+	praku = {
+		name = "プラクー"#Praku
+		plural = "プラクー"# Praku
+		home_planet = "プラクー・セントラル"# "Praku Central"
+		home_system = "プラク"#Prak
+		name_list = "LITHOID3"
+	}
+
+	rak-rak = {
+		name = "ラク・ラク"#Rak-Rak
+		plural = "ラク・ラク"# Rak-Raks
+		home_planet = "ルク・ラク"# Ruk-Rak
+		home_system = "ルク"#Ruk
+		name_list = "LITHOID4"
+	}
+
+	yru = {
+		name = "イルー"#Yru
+		plural = "イルー"# yru
+		home_planet = "イラ"# Yra
+		home_system = "イリ"#Yri
+		name_list = "LITHOID1"
+	}
+
+	kodranite = {
+		name = "コンドラナイト"#Kodranite
+		plural = "コンドラナイト"# Kodranites
+		home_planet = "コンドラ"# Kodra
+		home_system = "コンドラニル"#"Kodranill"
+		name_list = "LITHOID2"
+	}
+
+	cherk = {
+		name = "チェルク"#Cherk
+		plural = "チェルク"# Cherk
+		home_planet = "チェルク"# Cherk
+		home_system = "チャハナ"#Chahana
+		name_list = "LITHOID3"
+	}
+
+	tavurite = {
+		name = "タヴライト"#Tavurite
+		plural = "タヴライト"# Tavurites
+		home_planet = "タヴル"# Tavur
+		home_system = "タヴ・スー"#"Tav Su"
+		name_list = "LITHOID4"
+	}
+
+	ti-zru = {
+		name = "チ・ズル"#Ti-Zru
+		plural = "チ・ズル"# Ti-Zru
+		home_planet = "チ・ザ"# Ti-Za
+		home_system = "チー"#Ti
+		name_list = "LITHOID1"
+	}
+
+	polvanite = {
+		name = "ポルヴァナイト"#Polvanite
+		plural = "ポルヴァナイト"# Polvanites
+		home_planet = "ポルヴァン"# Polvan
+		home_system = "ポルヴァス"#Polvus
+		name_list = "LITHOID2"
+	}
+
+	ithill = {
+		name = "イシル"#Ithill
+		plural = "イシル"# Ithill
+		home_planet = "イシ・ル"# Ith'i
+		home_system = "イス"#Ith
+		name_list = "LITHOID3"
+	}
+
+	irzuku = {
+		name = "イルズークー"#Irzuku
+		plural = "イルズークー"# Irzuku
+		home_planet = "イルズク"# Irzk
+		home_system = "ズークー"#Zuku
+		name_list = "LITHOID4"
+	}
+
+	glirr = {
+		name = "グリルル"#Glirr
+		plural = "グリルル"# Glirr
+		home_planet = "グリルリア"# Glirria
+		home_system = "グリルヴァサ"#Glirvatha
+		name_list = "LITHOID1"
+	}
+
+	qvagh = {
+		name = "クヴァグフ"#Qvagh
+		plural = "クヴァグヒ"# Qvaghi
+		home_planet = "クヴァ"# Qva
+		home_system = "クィグハン"#Qighan
+		name_list = "LITHOID2"
+	}
+
+	zurite = {
+		name = "ズライト"#Zurite
+		plural = "ズライト"# Zurites
+		home_planet = "ズール"# Zur
+		home_system = "ザーヴ"#Zurv
+		name_list = "LITHOID3"
+	}
+
+	oviir = {
+		name = "オヴィール"#Oviir
+		plural = "オヴィーリ"# Oviiri
+		home_planet = "オヴィー"# Ovii
+		home_system = "大オヴィー"#"Greater Ovii"
+		name_list = "LITHOID4"
+	}
+
+	rukkari = {
+		name = "ルッカリ"#Rukkari
+		plural = "ルッカリ"# Rukkari
+		home_planet = "ルック"# Rukk
+		home_system = "ルック・アハト"#Rukk-Aht
+		name_list = "LITHOID1"
+	}
+
+	uraki = {
+		name = "ウラキ"#Uraki
+		plural = "ウラキ"# Uraki
+		home_planet = "ヴォリオト"# Voliot
+		home_system = "ウラク"#Uraku
+		name_list = "LITHOID2"
+	}
+
+	bodranite = {
+		name = "ボドラナイト"#Bodranite
+		plural = "ボドラナイト"# Bodranites
+		home_planet = "ボドリリア"# "Bodrillia"
+		home_system = "ボド"#Bod
+		name_list = "LITHOID3"
+	}
+
+	vran = {
+		name = "ヴラン"#Vran
+		plural = "ヴラニ"# Vrani
+		home_planet = "ヴラン・プリムス"# "Vran Primus"
+		home_system = "ヴランナル"#Vrannal
+		name_list = "LITHOID4"
+	}
+
+	zri = {
+		name = "ズリ"#Zri
+		plural = "ズリ"# Zri
+		home_planet = "ズリ・シャ"# Zri'sha
+		home_system = "ズリ・サ"#Zri'tha
+		name_list = "LITHOID1"
+	}
+
+	vuur = {
+		name = "ヴール"#Vuur
+		plural = "ヴール"# Vuuri
+		home_planet = "ヴァール"# Varl
+		home_system = "ヴァーラス"#Varlus
+		name_list = "LITHOID2"
+	}
+
+	croll = {
+		name = "クロル"#Croll
+		plural = "クロル"# Croll
+		home_planet = "クロラス"# Crollus
+		home_system = "クロルザ"#Crollza
+		name_list = "LITHOID3"
+	}
+
+	bruvan = {
+		name = "ブルヴァン"#Bruvan
+		plural = "ブルヴァン"# Bruvans
+		home_planet = "ブルヴ"# Bruv
+		home_system = "ブルヴァス"#Bruvas
+		name_list = "LITHOID4"
+	}
+
+	hrun = {
+		name = "フ・ルニ"#H'Runi
+		plural = "フ・ルニ"# H'Runi
+		home_planet = "ルニ"# Runi
+		home_system = "ルニ・フ"#Runi'F
+		name_list = "LITHOID1"
+	}
+
+	rhonzar = {
+		name = "ローンザー"#Rhonzar
+		plural = "ローンザリ"# Rhonzari
+		home_planet = "ローンズ"# Rhonz
+		home_system = "ローンズ・ガリフ"#"Rhonz Galif"
+		name_list = "LITHOID2"
+	}
+
+	bhiir = {
+		name = "ビール"#Bhiir
+		plural = "ビール"# Bhiiri
+		home_planet = "ビーラ"# Bhiira
+		home_system = "バール・ス"#Bhaar'Thu
+		name_list = "LITHOID3"
+	}
+
+	bzadi = {
+		name = "ブザンディ"#Bzadi
+		plural = "ブザンディ"# Bzadi
+		home_planet = "ハ・ブザド"# Ha'Bzad
+		home_system = "ブザド"#Bzad
+		name_list = "LITHOID4"
+	}
+
+	mtok = {
+		name = "モ・トク"#M'tok
+		plural = "モ・トク"# M'tok
+		home_planet = "ム・ヴァルク"# M'valku
+		home_system = "ム・ファールク"#M'farluk
+		name_list = "LITHOID1"
+	}
+
+	makar = {
+		name = "マ・カー"#Ma'Kar
+		plural = "マ・カー"# Ma'Kari
+		home_planet = "ティアル・コー"# Tial'Kho
+		home_system = "コシュ・カー"#Kosh'Kha
+		name_list = "LITHOID2"
+	}
+
+	shapa = {
+		name = "シャーパ"#Shapa
+		plural = "シャーパ"# Shapas
+		home_planet = "シャーパラ"# Shapara
+		home_system = "シャプ"#Shap
+		name_list = "LITHOID3"
+	}
+
+	ferbanite = {
+		name = "フェルバナイト"#Ferbanite
+		plural = "フェルバナイト"# Ferbanites
+		home_planet = "フェルバン"# Ferban
+		home_system = "ジルフ"#Jirv
+		name_list = "LITHOID4"
+	}
+
+	pliffplaff = {
+		name = "プリフ・プラフ"#Pliff-Plaff
+		plural = "プリフ・プラフ"# Pliff-Plaffs
+		home_planet = "プリフス"# Pliffus
+		home_system = "プラフ"#Plaff
+		name_list = "LITHOID1"
 	}
 }
