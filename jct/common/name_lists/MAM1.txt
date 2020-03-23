@@ -1,7 +1,8 @@
 ﻿### Mammalian 1
-### Created by Henrik Eklund
+### Created by Henrik Thyrwall
 
 MAM1 = {
+	category = "Mammalian"
 	ship_names = {
 
 		generic = {

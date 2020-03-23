@@ -14,6 +14,14 @@ Extradimensional = {
 		construction_ship_ed = {
 			"ヴォイド・シェイパー"
 		}
+
+		starbase_exd = {
+			"次元アンカー"
+		}
+
+		starbase_exd_0 = {
+			"ボイド・レア"
+		}
 		
 		mining_station = { }
 		research_station = { }

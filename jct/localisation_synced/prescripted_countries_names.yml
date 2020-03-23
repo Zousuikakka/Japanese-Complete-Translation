@@ -193,6 +193,15 @@
   PRESCRIPTED_ruler_title_hazbuzan: "最高経営責任者"
   PRESCRIPTED_ruler_title_hazbuzan_female: "最高経営責任者"
   PRESCRIPTED_ship_prefix_hazbuzan: "HZB"
+ PRESCRIPTED_species_name_khennet: "ケンネット"
+ PRESCRIPTED_species_plural_khennet: "ケンネット"
+ PRESCRIPTED_species_adjective_khennet: "ケンネット"
+ PRESCRIPTED_adjective_khennet: "ケンネット"
+ PRESCRIPTED_planet_name_khennet: "アヴェ・ボン"
+ PRESCRIPTED_system_name_khennet: "バラ・ローン"
+ PRESCRIPTED_ruler_name_khennet: "ジョヘム・ヴァーウル"
+ PRESCRIPTED_ruler_title_khennet: "大ドルイド"
+ PRESCRIPTED_ship_prefix_khennet: "KAV"
 
 
   #PRESCRIPTED_species_name_: ""
@@ -203,6 +212,7 @@
   #PRESCRIPTED_system_name_: ""
   #PRESCRIPTED_ruler_name_: ""
   #PRESCRIPTED_ruler_title_: ""
+  #PRESCRIPTED_ship_prefix_: ""
   #PRESCRIPTED_secondary_species_name_: ""
   #PRESCRIPTED_secondary_species_plural_: ""
   #PRESCRIPTED_secondary_species_adjective_: ""

@@ -1,5 +1,5 @@
 name="Japanese Complete Translation DL"
-path="mod/jct"
+path="mod/japanesec/jct"
 tags={
 	"Translation"
 }

@@ -1,5 +1,5 @@
 ﻿### Pirates
-### Created by Henrik Eklund and Maximilian Olbers
+### Created by Henrik Thyrwall and Maximilian Olbers
 
 PRT1 = {
 	selectable = { always = no }

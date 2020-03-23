@@ -1,7 +1,8 @@
 ﻿### Roman Empire
-### Created by Henrik Eklund
+### Created by Henrik Thyrwall
 
 HUMAN3 = {
+	category = "Humanoid"
 	randomized = no
 	alias = "Human3"
 
@@ -29,6 +30,10 @@ HUMAN3 = {
 
 		colossus = {
 			"パクス・ロマーナ" "ソル・インヴィクトゥス" "ディス・パテル"
+		}
+
+		juggernaut = {
+			"アッカ・ラレンティア" "エンペラー" "ファウストゥルス" "ルパ" "マギステル・ミリトゥム" "オプティムス・プリンケプス"
 		}
 		
 		science = {

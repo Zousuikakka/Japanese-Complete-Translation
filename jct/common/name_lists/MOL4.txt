@@ -2,6 +2,7 @@
 ### Created by Dee Majek
 
 MOL4 = {
+	category = "Molluscoid"
 	ship_names = {
 
 		generic = {
@@ -29,6 +30,10 @@ MOL4 = {
 
 		colossus = {
 			"ワールドイーター" "アビスメイカー"
+		}
+
+		juggernaut = {
+			"アビサル・リーフ" "ギャラクティック・アンダートウ" "スタークエンチャー" "タイドソース"
 		}
 		
 		science = {

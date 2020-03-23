@@ -1,7 +1,8 @@
 ﻿### Humanoid 3
-### Created by Henrik Eklund
+### Created by Henrik Thyrwall
 
 HUM3 = {
+	category = "Humanoid"
 	ship_names = {
 
 		generic = {

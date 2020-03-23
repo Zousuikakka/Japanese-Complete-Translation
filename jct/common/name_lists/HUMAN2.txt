@@ -1,7 +1,8 @@
 ﻿### Commonwealth of Man
-### Created by Henrik Eklund
+### Created by Henrik Thyrwall
 
 HUMAN2 = {
+	category = "Humanoid"
 	randomized = no
 	alias = "Human2"
 
@@ -28,7 +29,11 @@ HUMAN2 = {
 		}
 
 		colossus = {
-			"エラディケーター" "ベヒモス" "ハルブリンガー" "ジャガーノート" "クラーケン"
+			"エラディケーター" "ベヒモス" "ハルブリンガー" "アニヒレーター" "クラーケン"
+		}
+
+		juggernaut = {
+			"ペンドラゴン" "ドゥームズデイ" "カタクリズム" "ラグナレク" "アポカリプス"
 		}
 		
 		science = {

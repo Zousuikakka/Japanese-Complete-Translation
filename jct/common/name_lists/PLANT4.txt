@@ -1,8 +1,9 @@
 ﻿### Plantoid 4
-### クレアted by Miranda van den Brink
+### Created by Miranda van den Brink
 ### Latin plant names theme
 
 PLANT4 = {	
+	category = "Plantoid"
 	ship_names = {
 	
 		generic = { 
@@ -30,6 +31,10 @@ PLANT4 = {
 		
 		colossus = {
 			"ゼモア・カ・ロレンシス"
+		}
+
+		juggernaut = {
+			"ウモレ・ケット・フローリン" "ウモレ・ケット・オカンティス" "ウモレ・ケット・ロント" "ウモレ・ケット・ヴォレッティン"
 		}
 		
 		science = {

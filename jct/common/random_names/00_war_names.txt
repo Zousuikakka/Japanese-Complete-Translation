@@ -321,15 +321,15 @@ war_name_format = {
 		modifier = {
 			add = 999
 			OR = {
-                using_war_goal = {
-                    type = wg_subjugation
-                    owner = attacker
-                }
-                using_war_goal = {
-                    type = wg_megacorp_subjugate
-                    owner = attacker
-                }                
-            }
+				using_war_goal = {
+					type = wg_subjugation
+					owner = attacker
+				}
+				using_war_goal = {
+					type = wg_megacorp_subjugate
+					owner = attacker
+				}
+			}
             attacker = {
 				has_federation = no
 				NOT = { has_government = gov_megacorporation }
@@ -348,16 +348,16 @@ war_name_format = {
 		factor = 0
 		modifier = {
 			add = 999
-		    OR = {
-                using_war_goal = {
-                    type = wg_subjugation
-                    owner = attacker
-                }
-                using_war_goal = {
-                    type = wg_megacorp_subjugate
-                    owner = attacker
-                }                
-            }	
+			OR = {
+				using_war_goal = {
+					type = wg_subjugation
+					owner = attacker
+				}
+				using_war_goal = {
+					type = wg_megacorp_subjugate
+					owner = attacker
+				}
+			}
 			attacker = {
 				has_federation = yes
 			}
@@ -376,15 +376,15 @@ war_name_format = {
 		modifier = {
 			add = 999
 			OR = {
-                using_war_goal = {
-                    type = wg_subjugation
-                    owner = attacker
-                }
-                using_war_goal = {
-                    type = wg_megacorp_subjugate
-                    owner = attacker
-                }                
-            }
+				using_war_goal = {
+					type = wg_subjugation
+					owner = attacker
+				}
+				using_war_goal = {
+					type = wg_megacorp_subjugate
+					owner = attacker
+				}
+			}
 			attacker = {
 				has_federation = no
 			}
@@ -403,15 +403,15 @@ war_name_format = {
 		modifier = {
 			add = 999
 			OR = {
-                using_war_goal = {
-                    type = wg_subjugation
-                    owner = attacker
-                }
-                using_war_goal = {
-                    type = wg_megacorp_subjugate
-                    owner = attacker
-                }                
-            }
+				using_war_goal = {
+					type = wg_subjugation
+					owner = attacker
+				}
+				using_war_goal = {
+					type = wg_megacorp_subjugate
+					owner = attacker
+				}
+			}
             attacker = {
 				has_federation = no
 				has_government = gov_megacorporation
@@ -652,6 +652,10 @@ war_name_format = {
 			add = 999
 			OR = {
 				using_war_goal = {
+					type = wg_renegade_containment
+					owner = attacker
+				}
+				using_war_goal = {
 					type = wg_end_threat
 					owner = attacker
 				}
@@ -678,6 +682,10 @@ war_name_format = {
 		modifier = {
 			add = 999
 			OR = {
+				using_war_goal = {
+					type = wg_renegade_containment
+					owner = attacker
+				}
 				using_war_goal = {
 					type = wg_end_threat
 					owner = attacker
@@ -1113,11 +1121,11 @@ war_name_format = {
 
 ## EXPEL CORP WARS
 war_name_format = {
-    random_weight = {
-        factor = 0
-        modifier = {
-            add = 999
-            using_war_goal = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
                 type = wg_expel_corp
                 owner = attacker
             }
@@ -1128,15 +1136,15 @@ war_name_format = {
 
 ## GALATRON WARS
 war_name_format = {
-    random_weight = {
-        factor = 0
-        modifier = {
-            add = 999
-            using_war_goal = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 999
+			using_war_goal = {
                 type = wg_take_galatron
                 owner = attacker
             }
-        }
-    }
-    format = "<galatron_war_names>"
+		}
+	}
+	format = "<galatron_war_names>"
 }

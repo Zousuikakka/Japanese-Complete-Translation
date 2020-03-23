@@ -2,6 +2,7 @@
 ### Created by Maximilian Olbers and Miranda van den Brink
 
 PLANT2 = {	
+	category = "Plantoid"
 	ship_names = {
 	
 		generic = {
@@ -29,6 +30,10 @@ PLANT2 = {
 		
 		colossus = {
 			"ネイチャーラース" "ネイチャーフューリー" "ネイチャーレイジ" "ネイチャースパイト"
+		}
+
+		juggernaut = {
+			"グロリアス・コプセ" "ハーディ・コプセ" "テナシウス・コプセ" "ヴァリアント・コプセ" "ヴェンジフル・コプセ" "ラースフル・コプセ"
 		}
 		
 		science = { 

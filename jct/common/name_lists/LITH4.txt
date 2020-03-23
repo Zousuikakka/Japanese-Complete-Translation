@@ -2,6 +2,7 @@
 ### Created by Gemma Thomson
 
 LITHOID4 = {
+	category = "Lithoid"
 	ship_names = {
 
 		generic = {

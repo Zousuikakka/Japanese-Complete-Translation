@@ -2,6 +2,7 @@
 ### Created by Rufus Tronde and Miranda van den Brink
 
 PLANT = {	
+	category = "Plantoid"
 	ship_names = {
 	
 		generic = {
@@ -29,6 +30,10 @@ PLANT = {
 		
 		colossus = {
 			"ブロッサム・オブ・ジャッジメント" "ブロッサム・オブ・ドゥーム" "ファイナル・ブロッサム"
+		}
+
+		juggernaut = {
+			"パーシステント・ルート" "フェイト・テンドリル" "ライゾーム・オブ・デスティニー"
 		}
 		
 		science = {
@@ -216,13 +221,14 @@ PLANT = {
 			
 			# Always combined with a second name
 			first_names = {
-				"ホワイト" "グレー" "ブラック" "バーガンディー" "レッド" "ブルー" "インディゴ" "シアン" "イエロー" "オレンジ" "アイボリー" "エボニー" "パープル" "ブラウン" "ティール" "グリーン" "アクアマリン" "カーキ" "マゼンダ" "ゴールド" "シルバー"
-				"ブロンズ" "ハニジュー" "ラベンダー" "マルーン" "オリーブ"
+				"白" "灰" "黒" "ワイン色" "赤" "青" "紺" "シアン" "黄" "オレンジ" "アイボリー" "エボニー" "紫" "茶" "ティール" "緑" "アクアマリン" "カーキ" "マゼンダ" "金" "銀"
+				"銅" "ハニジュー" "ラベンダー" "マルーン" "オリーブ"
 			}
 			
 			# Always combined with a first name
 			second_names = {
-				"フラワー" "リーフ" "ルート" "ストーク"
+				"の花弁" "の葉" "の根" "の茎"
+				
 			}
 
 			use_full_regnal_name = yes
@@ -232,7 +238,7 @@ PLANT = {
 			}
 			
 			regnal_second_names = {
-				"トランク"
+				"の幹"
 			}
 		}
 	}

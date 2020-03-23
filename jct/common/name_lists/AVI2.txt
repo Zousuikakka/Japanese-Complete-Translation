@@ -1,8 +1,9 @@
 ﻿### Avian 2
 ### Created by Maximilian Olbers
-### Based on a template by Henrik Eklund
+### Based on a template by Henrik Thyrwall
 
 AVI2 = {
+	category = "Avian"
 	ship_names = {
 		generic = {
 			"ソアリング・プルメイジ" "ファイティング・プルメイジ" "ニブル・プルメイジ" "ディファイエント・プルメイジ" "リジリエント・プルメイジ" "フュリアス・プルメイジ"

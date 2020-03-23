@@ -1,7 +1,8 @@
 ﻿### United Nations of Earth
-### Created by Henrik Eklund
+### Created by Henrik Thyrwall
 
 HUMAN1 = {
+	category = "Humanoid"
 	randomized = no
 	alias = "Human"
 
@@ -29,6 +30,10 @@ HUMAN1 = {
 
 		colossus = {
 			"ソル・インヴィクタス" "アジュディケーター" "オーバーロード" "ガーディアン" "キングメイカー"
+		}
+
+		juggernaut = {
+			"アララト" "アクシズ・ムンディ" "グレート・リフォーマー" "コンロン" "テクトニック"
 		}
 
 		constructor = {

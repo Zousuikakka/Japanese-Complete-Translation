@@ -2,6 +2,7 @@
 ### Created by Dee Majek
 
 AVI4 = {
+	category = "Avian"
 	ship_names = {
 		
 		corvette = {
@@ -26,6 +27,10 @@ AVI4 = {
 
 		colossus = {
 			"デスクロウ" "ラスト・ブレス" "ファイナル・フライト"
+		}
+
+		juggernaut = {
+			"レイジング・トゥマルト" "レイザー・タイフーン" "シーシング・スコール" "ストームブリンガー" "アンシージング・ストーム" "アンストッパブル・ゲイル"
 		}
 		
 		constructor = {

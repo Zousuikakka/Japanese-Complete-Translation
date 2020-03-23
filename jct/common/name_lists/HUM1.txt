@@ -1,7 +1,8 @@
 ﻿### Humanoid 1
-### Created by Henrik Eklund
+### Created by Henrik Thyrwall
 
 HUM1 = {
+	category = "Humanoid"
 	ship_names = {
 
 		generic = {

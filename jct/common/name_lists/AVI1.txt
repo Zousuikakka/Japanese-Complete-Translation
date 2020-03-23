@@ -1,7 +1,8 @@
 ﻿### Avian 1
-### Created by Henrik Eklund
+### Created by Henrik Thyrwall
 
 AVI1 = {
+	category = "Avian"
 	ship_names = {
 
 		generic = {

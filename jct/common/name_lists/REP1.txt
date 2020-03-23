@@ -1,7 +1,8 @@
 ﻿### Reptilian 1
-### Created by Henrik Eklund
+### Created by Henrik Thyrwall
 
 REP1 = {
+	category = "Reptilian"
 	ship_names = {
 
 		generic = {
