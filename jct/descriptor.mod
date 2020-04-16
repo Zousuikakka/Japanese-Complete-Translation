@@ -4,4 +4,4 @@ tags={
 	"Translation"
 }
 picture="galaxy.jpg"
-supported_version="2.6.1"
+supported_version="2.6.3"
