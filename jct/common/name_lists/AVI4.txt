@@ -70,6 +70,23 @@ AVI4 = {
 	}
 
 	army_names = {
+
+		machine_defense = {
+			sequential_name = "第%C%抱卵監視隊"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%空挺兵団"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%空挺兵団"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%空挺兵団"
+		}
+		
 		defense_army = {
 			sequential_name = "第%C%抱卵監視隊"
 		}
@@ -84,6 +101,10 @@ AVI4 = {
 		
 		clone_army = {
 			sequential_name = "第%C%クローン歩兵隊"
+		}
+
+		undead_army = {
+			sequential_name = "第%C%恐怖兵団"
 		}
 		
 		robotic_army = {

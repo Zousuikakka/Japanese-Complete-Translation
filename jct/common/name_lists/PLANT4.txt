@@ -85,6 +85,23 @@ PLANT4 = {
 	}
 
 	army_names = {
+
+		machine_defense = {
+			sequential_name = "第%C%ストライプス・カ・マテア"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%ストライプス・カ・ザーマタ"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%ストライプス・カ・ザーマタ"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%ストライプス・カ・ザーマタ"
+		}
+
 		defense_army = {
 			sequential_name = "第%C%ストライプス・カ・マテア"
 		}
@@ -99,6 +116,10 @@ PLANT4 = {
 		
 		clone_army = { 
 			sequential_name = "%R% マテア・ヴォレア"
+		}
+		
+		undead_army = {
+			sequential_name = "第%C%ストライプス・カ・ホロリス"
 		}
 		
 		robotic_army = {

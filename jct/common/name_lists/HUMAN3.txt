@@ -74,8 +74,25 @@ HUMAN3 = {
 	}
 	
 	army_names = {
+	
 		generic = { 
 			sequential_name = "リミタネイ %R%"
+		}
+
+		machine_defense = {
+			sequential_name = "リミネタイ %R%"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "レギオ %R%"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "レギオ %R%"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "レギオ %R%"
 		}
 
 		assault_army = {
@@ -88,6 +105,10 @@ HUMAN3 = {
 		
 		clone_army = {
 			sequential_name = "クロナンディ %R%"
+		}
+
+		undead_army = {
+			sequential_name = "レギオ・ホッロリアエ %R%"
 		}
 		
 		robotic_army = {

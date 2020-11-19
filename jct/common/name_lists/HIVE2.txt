@@ -77,6 +77,23 @@ HIVE2 = {
 	}
 	
 	army_names = {
+	
+		machine_defense = {
+			sequential_name = "第%C%守護末端"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%攻勢末端"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%攻勢末端"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%攻勢末端"
+		}
+
 		defense_army = {
 			sequential_name = "第%C%守護末端"
 		}
@@ -91,6 +108,10 @@ HIVE2 = {
 		
 		clone_army = { 
 			sequential_name = "第%C%複製末端"
+		}
+
+		undead_army = {
+			sequential_name = "第%C%恐怖末端"
 		}
 		
 		robotic_army = {

@@ -87,7 +87,11 @@ MACHINE4 = {
 		clone_army = {
 			sequential_name = "第%C%レプリカ連隊"
 		}
-		
+
+		undead_army = {
+			sequential_name = "第%C%恐怖連隊"
+		}
+
 		machine_occupation_army = {
 			sequential_name = "第%C%占領配備隊"
 		}

@@ -54,6 +54,23 @@ REP2 = {
 	}
 	
 	army_names = {
+	
+		machine_defense = {
+			sequential_name = "第%C%惑星治安維持部隊"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%惑星侵攻軍"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%惑星侵攻軍"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%惑星侵攻軍"
+		}
+
 		defense_army = {
 			sequential_name = "第%C%惑星治安維持部隊"
 		}
@@ -69,7 +86,11 @@ REP2 = {
 		clone_army = { 
 			sequential_name = "第%C%鏡像防衛隊"
 		}
-		
+
+		undead_army = {
+			sequential_name = "第%C%不死侵攻軍"
+		}
+
 		robotic_army = {
 			sequential_name = "第%C%戦闘機械隊"
 		}

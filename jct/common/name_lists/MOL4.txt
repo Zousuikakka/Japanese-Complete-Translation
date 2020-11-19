@@ -73,7 +73,23 @@ MOL4 = {
 	}
 
 	army_names = {
-	
+
+		machine_defense = {
+			sequential_name = "第%C%硬質甲殻防衛隊"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%破殻隊"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%破殻隊"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%破殻隊"
+		}
+
 		defense_army = {
 			sequential_name = "第%C%硬質甲殻防衛隊"
 		}
@@ -89,7 +105,11 @@ MOL4 = {
 		clone_army = { 
 			sequential_name = "第%C%レプリカント海兵隊"
 		}
-		
+
+		undead_army = {
+			sequential_name = "第%C%恐怖海兵隊"
+		}
+
 		robotic_army = {
 			sequential_name = "第%C%ロボット砕殻隊"
 		}

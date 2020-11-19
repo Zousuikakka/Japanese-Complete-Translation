@@ -84,6 +84,23 @@ PLANT2 = {
 	}
 
 	army_names = {
+	
+		machine_defense = {
+			sequential_name = "第%C%守備茎"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%毒茎"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%毒茎"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%毒茎"
+		}
+
 		defense_army = {
 			sequential_name = "第%C%守備茎"
 		}
@@ -99,7 +116,11 @@ PLANT2 = {
 		clone_army = { 
 			sequential_name = "複製茎 %R%"
 		}
-		
+
+		undead_army = {
+			sequential_name = "第%C%恐怖茎"
+		}
+
 		robotic_army = {
 			sequential_name = "鉄茎 %R%"
 		}

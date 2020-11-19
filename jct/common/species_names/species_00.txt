@@ -925,8 +925,8 @@ REP = {
 	}
 	
 	tendrakkian = {
-		name = "テドラキアン"#Tendrakkian
-		plural = "テドラキアン"#Trendrakkians
+		name = "テンドラキアン"#Tendrakkian
+		plural = "テンドラキアン"#Tendrakkians
 		home_planet = "テンドラキア"#Tendrakkia
 		home_system = "テンドル"#Tendor
 		name_list = "REP1"

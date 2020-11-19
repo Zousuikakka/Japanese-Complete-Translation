@@ -54,6 +54,23 @@ PLANT3 = {
 	}
 
 	army_names = {
+	
+		machine_defense = {
+			sequential_name = "第%C%樹皮の盾隊"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%棘の槍隊"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%棘の槍隊"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%棘の槍隊"
+		}
+	
 		defense_army = {
 			sequential_name = "第%C%樹皮の盾隊"
 		}
@@ -68,6 +85,10 @@ PLANT3 = {
 		
 		clone_army = { 
 			sequential_name = "栄養繁殖集合隊 %R%"
+		}
+
+		undead_army = {
+			sequential_name = "第%C%根の槌隊"
 		}
 		
 		robotic_army = {

@@ -54,7 +54,23 @@ MOL3 = {
 	}
 
 	army_names = {
-	
+
+		machine_defense = {
+			sequential_name = "第%C%要塞旅団"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%攻撃旅団"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%攻撃旅団"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%攻撃旅団"
+		}
+
 		defense_army = {
 			sequential_name = "第%C%要塞旅団"
 		}
@@ -70,7 +86,11 @@ MOL3 = {
 		clone_army = { 
 			sequential_name = "第%C%亡霊旅団"
 		}
-		
+
+		undead_army = {
+			sequential_name = "第%C%恐怖旅団"
+		}
+
 		robotic_army = {
 			sequential_name = "第%C%鋼鉄旅団"
 		}

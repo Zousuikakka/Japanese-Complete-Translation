@@ -53,6 +53,23 @@ HUM4 = {
 	}
 	
 	army_names = {
+
+		machine_defense = {
+			sequential_name = "第%C%惑星歩哨隊"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%プレデター"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%プレデター"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%プレデター"
+		}
+
 		defense_army = {
 			sequential_name = "第%C%惑星歩哨隊"
 		}
@@ -68,7 +85,11 @@ HUM4 = {
 		clone_army = { 
 			sequential_name = "第%C%戦闘用調整群"
 		}
-		
+
+		undead_army = {
+			sequential_name = "恐怖狩猟隊 %CCC%"
+		}
+
 		robotic_army = {
 			sequential_name = "第%C%メカ・モーラー隊"
 		}

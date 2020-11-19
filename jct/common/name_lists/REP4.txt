@@ -74,6 +74,22 @@ REP4 = {
 	
 	army_names = {
 	
+		machine_defense = {
+			sequential_name = "第%C%防衛軍"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%強襲軍"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%強襲軍"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%強襲軍"
+		}
+	
 		defense_army = {
 			sequential_name = "第%C%防衛軍"
 		}
@@ -88,6 +104,10 @@ REP4 = {
 		
 		clone_army = {
 			sequential_name = "第%C%クローン軍"
+		}
+		
+		undead_army = {
+			sequential_name = "第%C%恐怖軍"
 		}
 		
 		robotic_army = {

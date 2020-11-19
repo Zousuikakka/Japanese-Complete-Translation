@@ -38,8 +38,8 @@ MAM = {
 	zum = {
 		name = "ズム"#Zum
 		plural = "ズム"#Zumi
-		home_planet = "ヒッフヌス"#Hiffnus
-		home_system = "ヒッフ"#Hiff
+		home_planet = "ズマ"#Zuma
+		home_system = "ズモ"#Zummo
 		name_list = "MAM1"
 	}
 	
@@ -182,8 +182,8 @@ MAM = {
 	groknaploran = {
 		name = "グロナプラン"#Groknaploran
 		plural = "グロナプラン"#Groknaplorans
-		home_planet = "アドノル"#Adnor
-		home_system = "アダニア"#Adanir
+		home_planet = "グロクナリア"#Groknaria
+		home_system = "グロクノル"#Groknor
 		name_list = "MAM3"
 	}
 	
@@ -646,8 +646,8 @@ ART = {
 	yaxkalock = {
 		name = "ヤクスカロク"#Yax'Kalock
 		plural = "ヤクスカロク"#Yax'Kalocki
-		home_planet = "チャポル"#Tchaa'Pol
-		home_system = "チャポルコセ"#Tchaa'Pol-Kolse
+		home_planet = "ヤクスケ"#Yax'Ke
+		home_system = "ヤクスリム"#Yax'Lim
 		name_list = "ART4"
 	}
 	
@@ -690,8 +690,8 @@ REP = {
 	mectpux = {
 		name = "メクトプクス"#Mect-Pux
 		plural = "メクトプクス"#Mect-Puxi
-		home_planet = "ズイフ"#Zuif
-		home_system = "ザッファー"#Zuffur
+		home_planet = "メクタプクス"#Mectapux
+		home_system = "メクトロア"#Mectlor
 		name_list = "REP4"
 	}
 	
@@ -1030,8 +1030,8 @@ AVI = {
 	kraxroz = {
 		name = "クラゾロズ"#Kraxroz
 		plural = "クラゾロジ"#Kraxrozi
-		home_planet = "ミイダク"#Miidak
-		home_system = "ムサン"#M'Than
+		home_planet = "クラゾロヴ"#Kraxrov
+		home_system = "クラズヴル"#Kraxvul
 		name_list = "AVI1"
 	}
 	
@@ -1062,8 +1062,8 @@ AVI = {
 	jaazijan = {
 		name = "ジャジジャン"#Jaazijan
 		plural = "ジャジジャン"#Jaazijans
-		home_planet = "ペンツル"#Penthul
-		home_system = "ペンカー"#Penkar
+		home_planet = "ジャーズ"#Jaaz
+		home_system = "ジャーズー"#Jaazu
 		name_list = "AVI1"
 	}
 	
@@ -1802,5 +1802,129 @@ LITHOID = {
 		home_planet = "プリフス"# Pliffus
 		home_system = "プラフ"#Plaff
 		name_list = "LITHOID1"
+	}
+}
+
+### NECROIDS
+
+NECROID = {
+	armonican = {
+		name = "アルモニカン"# Armonican
+		plural = "アルモニカン"# Armonicans
+		home_planet = "アラメン"# Aramen
+		home_system = "セイタ"# Seyta
+		name_list = "NECROID1"
+	}
+	desstican = {
+		name = "デスティカン"# Desstican
+		plural = "デスティカン"# Dessticans
+		home_planet = "ブレディック"# Breddick
+		home_system = "マック"# Mack
+		name_list = "NECROID1"
+	}
+	yastun = {
+		name = "ヤストゥン"# Yastun
+		plural = "ヤストゥン"# Yastuns
+		home_planet = "フレートカイルン"# Fleetcairn
+		home_system = "アイルサ"# Ailsa
+		name_list = "NECROID1"
+	}
+	klenn = {
+		name = "クレン"# Klenn
+		plural = "クレン"# Klenn
+		home_planet = "タヴィス"# Taviss
+		home_system = "クロメバストン"# Klomebaston
+		name_list = "NECROID1"
+	}
+	darhesh = {
+		name = "ダー・ヘッシュ"# Dar-Hesh
+		plural = "ダー・ヘッシュ"# Dar-Hesh
+		home_planet = "ヘッシェイ"# Heshsey
+		home_system = "ブライトプール"# Brightpool
+		name_list = "NECROID1"
+	}
+	kreshhk = {
+		name = "クレシュク"# Kreshhk
+		plural = "クレシュク"# Kreshhk
+		home_planet = "ルク・トーフ"# Luk'torh
+		home_system = "ルク・アテフ"# Luk'ateph
+		name_list = "NECROID2"
+	}
+	rallaketh = {
+		name = "ララケス"# Rallaketh
+		plural = "ララケス"# Rallaketh
+		home_planet = "アテムロスン"# Atem'losun
+		home_system = "テプアンク"# Tepp'ankh
+		name_list = "NECROID2"
+	}
+	lypian = {
+		name = "リピアン"# Lypian
+		plural = "リピアン"# Lypians
+		home_planet = "ビスアシェト"# Bis'ashet
+		home_system = "ネッテス"# Netteth
+		name_list = "NECROID2"
+	}
+	sandar = {
+		name = "サンダー"# Sandar
+		plural = "サンダー"# Sandars
+		home_planet = "サンダーフォア"# Sandar'for
+		home_system = "モフェト"# Moffeth
+		name_list = "NECROID2"
+	}
+	sorann = {
+		name = "ソラン"# Sorann
+		plural = "ソラン"# Sorannen
+		home_planet = "アズール・チャリス"# "Azure Chalice"
+		home_system = "グレート・スリーパー"# "Great Sleeper"
+		name_list = "NECROID3"
+	}
+	azanti = {
+		name = "アザンティ"# Azanti
+		plural = "アザンティ"# Azanti
+		home_planet = "アザンズ・クルシブル"# "Azan's Crucible"
+		home_system = "ユーケックス・ビーコン"# "Euqec's Beacon"
+		name_list = "NECROID3"
+	}
+	thorquell = {
+		name = "ソーケル"# Thorquell
+		plural = "ソーケル"# Thorquells
+		home_planet = "アクスペントル"# Axpentl
+		home_system = "アバコン"# Abakon
+		name_list = "NECROID3"
+	}
+	maloqui = {
+		name = "マロクイ"# Maloqui
+		plural = "マロクイ"# Maloqui
+		home_planet = "プラクラ"# Prakla
+		home_system = "ジュイコ"# Juiko
+		name_list = "NECROID3"
+	}
+	jhennlot = {
+		name = ""# Jhennlot
+		plural = ""# Jhennlots
+		home_planet = ""# Marbell
+		home_system = ""# "Teary Mote"
+		name_list = "NECROID4"
+	}
+	vhellet = {
+		name = "ヴェレト"# Vhellet
+		plural = "ヴェレト"# Vhellets
+		home_planet = "タンジン"# Tanzin
+		home_system = "ヴォイドプール"# Voidpool
+		name_list = "NECROID4"
+	}
+	mollarnock = {
+		name = "モラーノック"# Mollarnock
+		plural = "モラーノック"# Mollarnocks
+		home_planet = "エントロピー・プロミス"# "Entropy's Promise"
+		home_system = "ナイトバース"# Nightberth
+		name_list = "NECROID4"
+	}
+	reyenne = {
+		name = "レイェネ"# Reyenne
+		plural = "レイェネ"# Reyennes
+		home_planet = "エクジター"# Exiter
+		home_system = "グリム・シェファード"# "Grim Shepherd"
+		name_list = "NECROID4"
 	}
 }

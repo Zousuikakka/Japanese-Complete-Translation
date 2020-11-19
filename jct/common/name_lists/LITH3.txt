@@ -60,6 +60,23 @@ LITHOID3 = {
 	}
 
 	army_names = {
+	
+		machine_defense = {
+			sequential_name = "第%C%カーン・ジョ・ダーウン"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%カーン・ト・ロクフ"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%カーン・ト・ロクフ"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%カーン・ト・ロクフ"
+		}
+
 		defense_army = {
 			sequential_name = "第%C%カーン・ジョ・ダーウン"
 		}
@@ -74,6 +91,10 @@ LITHOID3 = {
 		
 		clone_army = {
 			sequential_name = "第%C%カーン・ホシュ・アウン"
+		}
+
+		undead_army = {
+			sequential_name = "第%C%カーン・アトワーン"
 		}
 		
 		robotic_army = {

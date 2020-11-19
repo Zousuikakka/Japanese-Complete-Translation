@@ -75,7 +75,23 @@ HUMAN1 = {
 	}
 	
 	army_names = {
-	
+
+		machine_defense = {
+			sequential_name = "第%C%惑星防衛隊"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%遠征隊"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%遠征隊"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%遠征隊"
+		}
+
 		defense_army = {
 			sequential_name = "第%C%惑星防衛隊"
 		}
@@ -91,7 +107,11 @@ HUMAN1 = {
 		clone_army = { 
 			sequential_name = "第%C%クローン軍"
 		}
-		
+
+		undead_army = {
+			sequential_name = "第%C%恐怖コマンド"
+		}
+
 		robotic_army = {
 			sequential_name = "第%C%ハンターキラー軍団"
 		}

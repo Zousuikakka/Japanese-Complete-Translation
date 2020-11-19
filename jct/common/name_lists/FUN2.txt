@@ -54,6 +54,23 @@ FUN2 = {
 	}
 
 	army_names = {
+	
+		machine_defense = {
+			sequential_name = "第%C%ハラタケ隊"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%射出胞子隊"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%射出胞子隊"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%射出胞子隊"
+		}
+
 		defense_army = {
 			sequential_name = "第%C%ハラタケ隊"
 		}
@@ -68,6 +85,10 @@ FUN2 = {
 		
 		clone_army = { 
 			sequential_name = "第%C%代替編隊"
+		}
+
+		undead_army = {
+			sequential_name = "第%C%恐怖隊"
 		}
 		
 		robotic_army = {

@@ -78,8 +78,25 @@ HUMAN2 = {
 	}
 	
 	army_names = {
+	
 		generic = { 
 			sequential_name = "第%C%植民地守備隊"
+		}
+
+		machine_defense = {
+			sequential_name = "第%C%植民地守備隊"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%強襲軍隊"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%強襲軍隊"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%強襲軍隊"
 		}
 
 		assault_army = {
@@ -93,7 +110,11 @@ HUMAN2 = {
 		clone_army = {
 			sequential_name = "第%C%養槽戦士隊"
 		}
-		
+
+		undead_army = {
+			sequential_name = "第%C%恐怖兵隊"
+		}
+
 		robotic_army = {
 			sequential_name = "第%C%無人戦闘部隊"
 		}

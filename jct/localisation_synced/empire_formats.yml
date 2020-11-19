@@ -200,3 +200,7 @@
  format.monopolistic_syndicate.1: "[This.GetSpeciesName]<monopolistic_syndicate>"
  format.subversive_cult.1: "[This.GetSpeciesName]<subversive_cult_1>"
  format.subversive_cult.2: "[This.Capital.GetName]<subversive_cult_2>"
+ format.necrophage.1: "[This.Capital.System.GetName]<necrophagers>"
+ format.necrophage.2: "[This.Capital.GetName]<necrophagers>"
+ format.necrophage.3: "[This.GetSpeciesName]<necrophagers>"
+ format.necrophage.4: "<necrophagers_start>[This.GetSpeciesName]<necrophagers>"

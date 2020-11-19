@@ -121,6 +121,10 @@ MACHINE3 = {
 			sequential_name = "第%C%生体収集クローン"
 		}
 		
+		undead_army = {
+			sequential_name = "第%C%生体恐怖隊"
+		}
+		
 		machine_occupation_army = {
 			sequential_name = "第%C%占領管理部隊"
 		}

@@ -54,6 +54,22 @@ ART2 = {
 
 	army_names = {
 	
+		machine_defense = {
+			sequential_name = "第%C%内軍"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%外軍"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%外軍"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%外軍"
+		}
+	
 		defense_army = {
 			sequential_name = "第%C%内軍"
 		}
@@ -68,6 +84,10 @@ ART2 = {
 		
 		clone_army = {
 			sequential_name = "第%C%謄写軍集団"
+		}
+		
+		undead_army = {
+			sequential_name = "第%C%恐怖軍"
 		}
 		
 		robotic_army = {

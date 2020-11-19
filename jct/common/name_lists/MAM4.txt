@@ -53,6 +53,23 @@ MAM4 = {
 	}
 		
 	army_names = {
+	
+		machine_defense = {
+			sequential_name = "第%C%防衛縦隊"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "第%C%侵攻縦隊"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "第%C%侵攻縦隊"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "第%C%侵攻縦隊"
+		}
+
 		defense_army = {
 			sequential_name = "第%C%防衛縦隊"
 		}
@@ -67,6 +84,10 @@ MAM4 = {
 		
 		clone_army = { 
 			sequential_name = "鋳造兵団 %R%"
+		}
+
+		undead_army = {
+			sequential_name = "第%C%恐怖縦隊"
 		}
 		
 		robotic_army = {
