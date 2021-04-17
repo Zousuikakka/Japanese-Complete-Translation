@@ -1,0 +1,9 @@
+﻿### Galactic Defense Force
+GDF = {
+    selectable = { always = no }
+	randomized = no
+
+    fleet_names = {
+        sequential_name = "第%C%銀河防衛艦隊"
+    }
+}

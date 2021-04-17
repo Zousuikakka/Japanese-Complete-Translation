@@ -42,11 +42,11 @@ MACHINE2 = {
 			"リサーチャー"
 		}
 		
-		colonizer = {  
+		colonizer = { 
 			"コロナイゼーションキャリア"
 		}
 		
-		sponsored_colonizer = {  
+		sponsored_colonizer = { 
 			"コロナイゼーションキャリア"
 		}
 		
