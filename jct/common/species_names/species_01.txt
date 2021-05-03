@@ -1900,10 +1900,10 @@ NECROID = {
 		name_list = "NECROID3"
 	}
 	jhennlot = {
-		name = ""# Jhennlot
-		plural = ""# Jhennlots
-		home_planet = ""# Marbell
-		home_system = ""# "Teary Mote"
+		name = "ジョヘンロット"# Jhennlot
+		plural = "ジョヘンロット"# Jhennlots
+		home_planet = "マーベル"# Marbell
+		home_system = "テアリ・モート"# "Teary Mote"
 		name_list = "NECROID4"
 	}
 	vhellet = {
