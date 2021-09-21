@@ -1357,25 +1357,6 @@ empire_name_parts_list = {
 		"王朝連合" = 2
 	}
 }
-# Machine Intelligence
-empire_name_parts_list = {
-	key = "machine_intelligence"
-	parts = {
-		"機械知性"
-		"ロボット国"
-	}
-
-}
-
-# Machine Intelligence
-empire_name_parts_list = {
-	key = "machine_terminator"
-	parts = {
-		"エアーウェブ"
-		"冷鉄国"
-		"殺戮装置"
-	}
-}
 
 ### GENERIC DESCRIPTIVES
 
@@ -1444,7 +1425,7 @@ empire_name_parts_list = {
 		"界群" = 4
 		"星系連合" = 4
 		"恒星群" = 4
-		"コロニーズ" = 3
+		"植民地連合" = 3
 		"領国群" = 1
 		"県群" = 1
 		"国群" = 3
@@ -1466,7 +1447,7 @@ empire_name_parts_list = {
 empire_name_parts_list = {
 	key = "various_states"
 	parts = {
-		"コロニーズ" = 3
+		"植民地連合" = 3
 		"領国群" = 1
 		"県群" = 2
 		"国群" = 3
@@ -4614,6 +4595,26 @@ empire_name_format = {
 	# Human 帝国
 }
 
+# Hive Mind
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 10
+			has_government = "gov_hive_mind"
+			has_origin = origin_necrophage
+			is_pirate = no
+			is_primitive = no
+			NOT = { is_country_type = fallen_empire }
+			NOT = { is_country_type = awakened_fallen_empire }
+		}
+	}
+	format = "format.necrophage_hive_mind.1"
+	noun = "[This.GetSpeciesName]"
+	prefix_format = ""#[This.GetSpeciesName] <hive_mind>"
+	# Hungry Human Empire
+}
+
 # Devouring Swarm
 empire_name_format = {
 	random_weight = {
@@ -4628,6 +4629,26 @@ empire_name_format = {
 		}
 	}
 	format = "format.devouring_swarm.1"
+	noun = "[This.GetSpeciesName]"
+	prefix_format = ""#[This.GetSpeciesName] <devouring_swarm>"
+	# Human Empire
+}
+
+# Devouring Swarm
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 10
+			has_government = "gov_devouring_swarm"
+			has_origin = origin_necrophage
+			is_pirate = no
+			is_primitive = no
+			NOT = { is_country_type = fallen_empire }
+			NOT = { is_country_type = awakened_fallen_empire }
+		}
+	}
+	format = "format.necrophage_devouring_swarm.1"
 	noun = "[This.GetSpeciesName]"
 	prefix_format = ""#[This.GetSpeciesName] <devouring_swarm>"
 	# Human Empire
@@ -5587,6 +5608,9 @@ empire_name_parts_list = {
 		"複合体" = 10
 		"多様体" = 10
 		"アニムス" = 10
+		"エアウェブ" = 1
+		"冷徹体" = 1
+		"破壊機構" = 1
 	}
 }
 
@@ -5656,6 +5680,8 @@ empire_name_parts_list = {
 		"複合体" = 10
 		"多様体" = 10
 		"アニムス" = 10
+		"機械知性" = 10
+		"スマートボット" = 5
 	}
 }
 
@@ -5858,6 +5884,7 @@ empire_name_format = {
 		modifier = {
 			add = 2
 			has_origin = origin_necrophage
+			is_hive_empire = no
 		}
 	}
 	format = "format.necrophage.1"
@@ -5873,6 +5900,7 @@ empire_name_format = {
 		modifier = {
 			add = 2
 			has_origin = origin_necrophage
+			is_hive_empire = no
 		}
 	}
 	format = "format.necrophage.2"
@@ -5888,6 +5916,7 @@ empire_name_format = {
 		modifier = {
 			add = 8
 			has_origin = origin_necrophage
+			is_hive_empire = no
 		}
 	}
 	format = "format.necrophage.3"
@@ -5903,6 +5932,7 @@ empire_name_format = {
 		modifier = {
 			add = 4
 			has_origin = origin_necrophage
+			is_hive_empire = no
 		}
 	}
 	format = "format.necrophage.4"

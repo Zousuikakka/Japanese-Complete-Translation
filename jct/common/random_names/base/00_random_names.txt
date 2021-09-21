@@ -1797,6 +1797,10 @@ star_names = {
 	Fenni
 	Romin
 	Teige
+	Emdin
+	Toluc-Ei
+	Regis
+	Lem
 }
 
 nebula_names = {
