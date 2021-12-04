@@ -21,6 +21,7 @@
  MUSICPLAYER_DECREASE_VOL:0 "音量を下げる"
  MUSICPLAYER_ADJUST_VOL:0 "音量の調整"
  MUSICPLAYER_SAVE:0 "保存"
+ MUSIC_CONTROLS_TOGGLE_VISIBLE:0 "§H音楽プレイヤーの表示オン・オフ§!"
  # Base Music Tracks
  maintheme:0 "創造とその先"
  thebirthofastar:0 "星の誕生"

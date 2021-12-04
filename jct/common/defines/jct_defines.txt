@@ -1,3 +1,0 @@
-	NGraphics = {
-		NAVIGATION_ARROW_FONT = "Chinese_normal"
-	}

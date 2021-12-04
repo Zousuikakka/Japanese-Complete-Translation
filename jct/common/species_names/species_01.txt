@@ -1928,3 +1928,120 @@ NECROID = {
 		name_list = "NECROID4"
 	}
 }
+
+
+### AQUATICS
+AQUATIC = {
+	gudge = {
+		name = "グッジ"# Gudge
+		plural = "グッジ"# Gudges
+		home_planet = "ベック"# Beck
+		home_system = "フリオエ"# Flioe
+		name_list = "AQUATIC1"
+	}
+	andari = {
+		name = "アンダリ"# Andari
+		plural = "アンダリ"# Andarians
+		home_planet = "ハースシー"# Hearthsea
+		home_system = "ヘイヴンスカイ"# Havensky
+		name_list = "AQUATIC1"
+	}
+	breanne = {
+		name = "ブレンネ"# Breanne
+		plural = "ブレンネ"# Breannans
+		home_planet = "ブレア・ロラ"# "Brea Lora"
+		home_system = "オロ・ブレア"# "Oro Brea"
+		name_list = "AQUATIC1"
+	}
+	sathweer = {
+		name = "サスウィーア"# "Sathweer"
+		plural = "サスウィーア"# "Sathweerans"
+		home_planet = "デルフィンズ・エディ"# "Delphine's Eddy"
+		home_system = "ドコ・オ・ルア"# "Doco'o Lua"
+		name_list = "AQUATIC1"
+	}
+	minnerian = {
+		name = "ミネリアン"# "Minnerian"
+		plural = "ミネリアン"# "Minnerians"
+		home_planet = "ドルゴズ・リーチ"# "Dolgo's Reach"
+		home_system = "エストイル"# "Estoile"
+		name_list = "AQUATIC2"
+	}
+	stormrider = {
+		name = "ストームライダー"# "Stormrider"
+		plural = "ストームライダー"# "Stormriders"
+		home_planet = "ストームウォール"# "Stormwall"
+		home_system = "テンペストゥア"# "Tempestua"
+		name_list = "AQUATIC2"
+	}
+	yarrowreacher = {
+		name = "ヤロウリーチャー"# "Yarrowreacher"
+		plural = "ヤロウリーチャー"# "Yarrowreachers"
+		home_planet = "ヤロウ"# "Yarrow"
+		home_system = "リーチ"# "Reach"
+		name_list = "AQUATIC2"
+	}
+	salorim = {
+		name = "サロリム"# "Salorim"
+		plural = "サロリム"# "Salorim"
+		home_planet = "サロリム・コヴ"# "Salorim Cove"
+		home_system = "ヘイヴンスター"# "Havenstar"
+		name_list = "AQUATIC2"
+	}
+	barcalid = {
+		name = "バーカリッド"# "Barcalid"
+		plural = "バーカリッド"# "Barcalids"
+		home_planet = "ターカダル"# "Tarcadal"
+		home_system = "シドナ"# "Sidona"
+		name_list = "AQUATIC3"
+	}
+	magonid = {
+		name = "マゴニッド"# "Magonid"
+		plural = "マゴニッド"# "Magonids"
+		home_planet = "ユータク"# "Utaq"
+		home_system = "クァ・アダシュ"# "Qa-Adash"
+		name_list = "AQUATIC3"
+	}
+	ebusian = {
+		name = "エブシアン"# "Ebusian"
+		plural = "エブシアン"# "Ebusians"
+		home_planet = "マルキーア"# "Malkeer"
+		home_system = "アブデラ"# "Abdera"
+		name_list = "AQUATIC3"
+	}
+	numerian = {
+		name = "ヌメリアン"# "Numerian"
+		plural = "ヌメリアン"# "Numerians"
+		home_planet = "カーサスト"# "Kirthast"
+		home_system = "シガラ"# "Sigara"
+		name_list = "AQUATIC3"
+	}
+	thamesian = {
+		name = "タメシアン"# "Thamesian"
+		plural = "タメシアン"# "Thamesians"
+		home_planet = "パウサーウィズイズバイ"# "Pautherwithisby"
+		home_system = "タシー"# "Tathy"
+		name_list = "AQUATIC4"
+	}
+	avallonian = {
+		name = "アヴァロニアン"# "Avallonian"
+		plural = "アヴァロニアン"# "Avallonians"
+		home_planet = "ポーテルトン"# "Porterton"
+		home_system = "ドラズ・スター"# "Dora's Star"
+		name_list = "AQUATIC4"
+	}
+	pictling = {
+		name = "ピッチリング"# "Pictling"
+		plural = "ピッチリング"# "Pictlings"
+		home_planet = "タラハートリ"# "Tarrahartry"
+		home_system = "デュブレイン"# "Dunblane"
+		name_list = "AQUATIC4"
+	}
+	lishian = {
+		name = "リシアン"# "Lishian"
+		plural = "リシアン"# "Lishians"
+		home_planet = "ローセスター"# "Rorcester"
+		home_system = "タロウ"# "Tallow"
+		name_list = "AQUATIC4"
+	}
+}
