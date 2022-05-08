@@ -3,121 +3,146 @@
 
 AQUATIC1 = {
 	category = "Aquatic"
+	randomized = no ##DryusFix
 	ship_names = {
 
 		generic = { }
 
 		corvette = {
-			"Bubblebreaker" "Crester" "Dissolver" "Drencher" "Droplet" "Glistener" "Hydrophone" "Hydrotherm" "Ingress" "Intertidal" "Jetstream" "Pelagic" "Plunge" "Pooldancer" "Poolskipper" "Puddle-Dweller" "Seep" "Shoal" "Sodden" "Spray" "Spume" "Stardiver" "Starfilm" "Starfoam" "Surge" "Swash" "Tidebank" "Tiderider" "Trench-Dweller" "Wavebreaker" "Waveskipper"
+			"バブルブレーカー" "クレスター" "ディゾルバー" "ドレンチャー" "ドロップレット" "グリスナー" "ハイドロフォン" "ハイドロサーム" "イングレス" "インタタイダル" "ジェットストリーム" "ペラジク" "プランジ" "ポールダンサー" "プールスキッパー" "パドル・ドウェラー" "シープ" "ショール" "ソーデン" "スプレー" "スプーム" "スターダイバー" "スターフィルム" "スターフォーム" "サージ" "スワッシュ" "タイドバンク" "タイダーライダー" "トレンチ・ドウェラー" "ウェーブブレイカー" "ウェーブスキッパー"
 		}
 
 		destroyer = {
-			"Aegir" "Cross Flow" "Decisive Crest" "Dispersion Wave" "Edge Wave" "Flood Jet" "Great Ebb" "Great Shoal" "Mascaret" "Plucky Squall" "Pororoca" "Ripple Wash" "Riptide" "Seismic Wash" "Shale Breaker" "Subducter" "Swirling Eddy" "Tidal Drift" "Tidal Wave" "Tidebore" "Undertow" "Wave Turbulence" "Windwash"
+			"エーギル" "クロス・フロー" "デサイシヴ・クロスト" "ディスパージョン・ウェーブ" "エッジ・ウェーブ" "フラッド・ジェット" "グレート・エブ" "グレート・ショール" "マスカレット" "プラッキー・スコール" "ポロロッカ" "リップル・ウォッシュ" "リップタイド" "サイズミク・ウォッシュ" "シェール・ブレイカー" "サブダクター" "スワール・エディ" "タイダル・ドリフト" "タイダル・ウェーブ" "タイドボア" "アンダートウ" "ウェーブ・タービュランス" "ウィンドウォッシュ"
 		}
 
 		cruiser = {
-			"Azure Destiny" "Barrier-Breaker" "Circumpolar" "Coarse Spray" "Divergent Flow" "Drowned Vent" "Fierce Siren" "Grand Culvert" "Great Ridge" "Helicoidal" "Pelagic Dweller" "Sea Change" "Shale Breaker" "Steady Inundation" "Stellar Estuary" "Subducer" "Trench Swell" "Tsunami" "Water Hammerer" "Wave-Whisperer"
+			"アズール・デスティニー" "バリア・ブレーカー" "サーカムポーラー" "コース・スプレー" "ダイバージェント・フロー" "ドロンド・ベント" "フィアス・サイレン" "グランド・カルバート" "グレート・リッジ" "ヘリコイド" "ペラジー・ドウェラー" "シー・チェンジ" "シェール・ブレーカー" "ステディ・イナンデイション" "ステラ・エスティチュアリー" "サブデューサー" "トレンチ・スウェル" "ツナミ" "ウォーター・ハンマー" "ウェイブ・ウィスパラー"
 		}
 
 		battleship = {
-			"Abyssal Drag" "Ardent Fountain" "Behold the Breach" "Calm Before the Storm" "Catch of a Lifetime" "Choiceless Waters" "Coming Tide" "Deepest Blue" "Doom's Anchor" "Drawback Herald" "Dread Navigator" "Embrace the Current" "Gushing Ambition" "Ocean's Deluge" "Sea's Complaint" "Seething Purpose" "Swimming in Destiny" "Tidal Cataclysm" "Tide-Turner" "Trivial Shorelines" "Wrecker of Bearings"
+			"アビサル・ドラッグ" "アーデント・ファウンテン" "ビホールド・ザ・ブリーチ" "カーム・ビフォー・ザ・ストーム" "キャッチ・オブ・ア・ライフタイム" "チョイスレス・ウォーターズ" "カミング・タイド" "ディープレスト・ブルー" "ドゥームズ・アンカー" "ドローバック・ヘラルド" "ドレッド・ナビゲーター" "エンブレイス・ザ・カレント" "ガッシング・アンビション" "オーシャンズ・デリュージ" "シーズ・コムプレイント" "シーイング・パーパス" "スイミング・イン・デスティニー" "タイダル・カタクリズム" "タイド・ターナー " "トリビアル・ショアライン" "レッカー・オブ・ベアリング"
 		}
 
 		titan = {
-			"Capsizer" "Dambreaker" "Dream Eroder" "Leaking Skies"
+			"キャプサイザー" "ダムブレイカー" "ドリーム・エロダー" "リーキング・スカイズ"
 		}
 
 		colossus = {
-			"Everlasting Flood" "Final Surge" "Hopes Extinguished" "Inundator"
+			"エバーラスティング・フラッド" "ファイナル・サージ" "ホープス・エクスティングイッシュト" "イナンデーター"
 		}
 
 		juggernaut = {
-			"Bastion Reef" "Dread Reef" "Furious Harbor"
+			"バスティオン・リーフ" "バスティオン・リーフ" "フューリアス・ハーバー"
 		}
 
 		science = {
-			"Abyssal Surveyor" "Beacon Buoy" "Channeler" "Clear Waters" "Cosmic Angler" "Fathometer" "Hydrophone" "Lighthouse" "Mineral" "Seize the Esca" "Stellar Hook" "Stellar Reef" "Surface Noise" "Switched Bait" "Tributary"
+			"アビサル・サーベイヤー" "ビーコン・ブイ" "チャネラー" "クリア・ウォーターズ" "コズミック・アングラー" "ファソメーター" "ハイドロフォン" "ライトハウス" "ミネラル" "シーズ・ザ・エスカ" "ステラー・フック" "ステラー・リーフ" "サーフェイス・ノイズ" "スイッチド・ベイト" "トリビュタリー"
 		}
 
 		colonizer = {
-			"Amphibian" "Barnacle" "Cosmic Anemone" "Harbormaker" "Lichen" "Littoral Strides" "Reefmaker" "Tide Pool" "Trade Current" "Watershed"
+			"アムフィビアン" "バーナクル" "コズミック・アネモネ" "ハーバーメーカー" "ライケン" "リトラル・ストライド" "リーフメーカー" "タイド・プール" "トレード・カレント" "ウォーターシェッド"
 		}
 
 		constructor = {
-			"Aquifer" "Dormant Valve" "Floodgate" "Flow Limiter" "Grand Sluice" "Leveemaker" "Naviduct" "Rhyne" "Starflume" "Terminal Groyne" "Weirmaker"
+			"アクイファー" "ドーマント・バルブ" "フラッドゲート" "フロー・リミッター" "グランド・スルース" "リーブメーカー" "ナビゲーター" "ライン" "スターフルーム" "ターミナル・グロイン" "ウィアーメーカー"
 		}
 
 		transport = {
-			"Bastion Wharf" "Canalizer" "Cavana" "Gushing Ferry" "Harborer" "Marina" "Seawall" "Signaller" "Sturdy Lock" "Towpath"
+			"バスティオン・ワーフ" "カナライザー" "カバナ" "グッシング・フェリー" "ハーバラー" "マリーナ" "シーウォール" "シグナリング" "スターディ・ロック" "タウンパス"
 		}
 
 		military_station_small = {
-			"Bourne" "Lacustuary" "Limnologist" "Oxbowed" "Raftbreaker" "Revetment" "Riparian" "Streamcutter"
+			"ボーン" "ラクチュアリ" "リムノロジスト" "オックスボー" "ラフブレーカー" "リベットメント" "リプリアン" "ストリームカッター" 
 		}
 
 		ion_cannon = {
-			"Cavitator" "Pressurizer" "Rustbringer" "Sedimenter" "Vaporizer" "Wavepounder"
+			"キャビテーター" "プレッシャライザ" "ラストブリンガー" "セディメンター" "ヴァポライザー" "ウェーブパウンダー"
 		}
+
+##DryusFix Begin
+		### For Fallen Empires
+		small_ship_fallen_empire = {
+			"バブルブレーカー" "クレスター" "ディゾルバー" "ドレンチャー" "ドロップレット" "グリスナー" "ハイドロフォン" "ハイドロサーム" "イングレス" "インタタイダル" "ジェットストリーム" "ペラジク" "プランジ" "ポールダンサー" "プールスキッパー" "パドル・ドウェラー" "シープ" "ショール" "ソーデン" "スプレー" "スプーム" "スターダイバー" "スターフィルム" "スターフォーム" "サージ" "スワッシュ" "タイドバンク" "タイダーライダー" "トレンチ・ドウェラー" "ウェーブブレイカー" "ウェーブスキッパー"
+		}
+		large_ship_fallen_empire = {
+			"アズール・デスティニー" "バリア・ブレーカー" "サーカムポーラー" "コース・スプレー" "ダイバージェント・フロー" "ドロンド・ベント" "フィアス・サイレン" "グランド・カルバート" "グレート・リッジ" "ヘリコイド" "ペラジー・ドウェラー" "シー・チェンジ" "シェール・ブレーカー" "ステディ・イナンデイション" "ステラ・エスティチュアリー" "サブデューサー" "トレンチ・スウェル" "ツナミ" "ウォーター・ハンマー" "ウェイブ・ウィスパラー"
+		}
+		massive_ship_fallen_empire = {
+			"キャプサイザー" "ダムブレイカー" "ドリーム・エロダー" "リーキング・スカイズ"
+		}
+
+		graygoo_factory = {
+			"ボーン" "ラクチュアリ" "リムノロジスト" "オックスボー" "ラフブレーカー" "リベットメント" "リプリアン" "ストリームカッター" 
+		}
+		graygoo_interdictor = {
+			"アズール・デスティニー" "バリア・ブレーカー" "サーカムポーラー" "コース・スプレー" "ダイバージェント・フロー" "ドロンド・ベント" "フィアス・サイレン" "グランド・カルバート" "グレート・リッジ" "ヘリコイド" "ペラジー・ドウェラー" "シー・チェンジ" "シェール・ブレーカー" "ステディ・イナンデイション" "ステラ・エスティチュアリー" "サブデューサー" "トレンチ・スウェル" "ツナミ" "ウォーター・ハンマー" "ウェイブ・ウィスパラー"
+		}
+		graygoo_mothership = {
+			"キャプサイザー" "ダムブレイカー" "ドリーム・エロダー" "リーキング・スカイズ"
+		}
+##DryusFix End
+
 	}
 
 	ship_class_names = {
 		generic = {
-			"Abyss" "Crest" "Current" "Diver" "Draft" "Ebb" "Flood" "Flow" "Flux" "Foam" "Jet" "Navigator" "Ripple" "Soluble" "Spurt" "Squall" "Stream" "Tide" "Trench" "Wave"
+			"アビス" "クレスト" "カレント" "ダイバー" "ドラフト" "エブ" "フラッド" "フロー" "フラックス" "フォーム" "ジェット" "ナビゲーター" "リップル" "ソルブル" "スパート" "スコール" "ストリーム"  "タイド" "トレンチ" "ウェーブ"
 		}
 	}
 
 	fleet_names = {
 		random_names = {
-			"Clammy Shoal" "Corraled Deluge" "Crystalline Deluge" "Dewy Shoal" "Drenched Shoal" "Drowned Shoal" "Flocked Deluge" "Galactic Deluge" "Immeasurable Deluge" "Insurmountable Deluge" "Lasting Deluge" "Melted Shoal" "Moon-Steered Deluge" "Murky Shoal" "Rockbreaker Shoal" "Saturated Shoal" "Shattering Shoal" "Siren Shoal" "Starmist Shoal" "Teeming Shoal" "Tendril Shoal" "Torrential Shoal" "Whirling Deluge" "Wringing Shoal"
+			"「冷たく湿った浅瀬」群" "「囲い込まれた大洪水」群" "「結晶質の大洪水」群" "「露に濡れた浅瀬」群" "「びしょ濡れの浅瀬」群" "「溺れさせた浅瀬」群" "「押し寄せた大洪水」群" "「銀河の大洪水」群" "「計り知れない大洪水」群" "「乗り越えられない大洪水」群" "「永続的な大洪水」群" "「溶けた浅瀬」群" "「月操舵の大洪水」群" "「濁った浅瀬」群" "「岩波の浅瀬」群" "「彩度の高い浅瀬」群" "「砕け散る浅瀬」群" "「号笛の浅瀬」群" "「星霧の浅瀬」群" "「満ちた浅瀬」群" "「巻きひげの浅瀬」群" "「滝のような浅瀬」群" "「渦巻く大洪水」群" "「しわくちゃの浅瀬」群"
 		}
-		sequential_name = "%O% Shoal"
+		sequential_name = "第%C%群"
 	}
 
 	army_names = {
 		defense_army = {
-			sequential_name = "%O% Breakwater Battalion"
+			sequential_name = "第%C%防波堤大隊"
 		}
 		assault_army = {
-			sequential_name = "%O% Seaspray Battalion"
+			sequential_name = "第%C%海辺大隊"
 		}
 		slave_army = {
-			sequential_name = "%O% Pond Battalion"
+			sequential_name = "第%C%池畔大隊"
 		}
 		undead_army = {
-			sequential_name = "%O% Briny Battalion"
+			sequential_name = "第%C%塩水大隊"
 		}
 		clone_army = {
-			sequential_name = "%O% Mirrorlake Battalion"
+			sequential_name = "第%C%鏡湖大隊"
 		}
 		robotic_army = {
-			sequential_name = "%O% Rustbringer Battalion"
+			sequential_name = "第%C%錆運大隊"
 		}
 		robotic_defense_army = {
-			sequential_name = "%O% Rustproof Battalion"
+			sequential_name = "第%C%防錆大隊"
 		}
 		psionic_army = {
-			sequential_name = "%O% Siren Battalion"
+			sequential_name = "第%C%号笛大隊"
 		}
 		xenomorph_army = {
-			sequential_name = "%O% Abyssal Battalion"
+			sequential_name = "第%C%深海大隊"
 		}
 		gene_warrior_army = {
-			sequential_name = "%O% Transgenic Wreath"
+			sequential_name = "第%C%遺伝子組換冠大隊"
 		}
 		occupation_army = {
-			sequential_name = "%O% Tributary Battalion"
+			sequential_name = "第%C%支流大隊"
 		}
 		robotic_occupation_army = {
-			sequential_name = "%O% Rustproof Tributary Battalion"
+			sequential_name = "第%C%防錆支流大隊"
 		}
 		primitive_army = {
-			sequential_name = "%O% Stream Battalion"
+			sequential_name = "第%C%水流大隊"
 		}
 		industrial_army = {
-			sequential_name = "%O% Waterwheel Battalion"
+			sequential_name = "第%C%水車大隊"
 		}
 		postatomic_army = {
-			sequential_name = "%O% Heavy Water Battalion"
+			sequential_name = "第%C%重水大隊"
 		}
 	}
 
@@ -125,67 +150,67 @@ AQUATIC1 = {
 
 		generic = {
 			names = {
-				"Beachspawn" "Breaker" "Bubblemark" "Coruscon" "Detriton" "Farbuoy" "Farpool" "Flowgrain" "Flumote" "Glimmer" "Glisten" "Hope's Anchor" "Ioton" "Lightbuoy" "Meandermaker" "New Reef" "Oxbar" "Pleasant Anchor" "Raydrop" "Scintillion" "Sckree" "Streamfleck" "Voidglint"
+				"ビーチスポーン" "ブレーカー" "バブルマーク" "コルスコン" "デトリトン" "ファーブイ" "ファープール" "フローグレイン" "フルモート" "グリマー" "グリステン" "ホープ・アンカー" "イオトン" "ライトブイ" "ミアンダーメーカー" "ニュー・リーフ" "オックスバー" "プレザント・アンカー" "レイドロップ" "シンティリオン" "スクリー" "ストリームフレック" "ボイドグリント"
 			}
 		}
 
 		pc_desert = {
 			names = {
-				"Anhydron" "Creuset" "Crucibulum" "Dessica" "Wilter" "Sandbar"
+				"アンヒドロン" "クルーゼ" "クルーゼ" "デシカ" "ウィルター" "サンドバー"
 			}
 		}
 
 		pc_savannah = {
 			names = {
-				"Droplett" "Dryrealm" "Inundus" "Pipetton" "Pockmar"
+				"ドロップレット" "ドライレルム" "インンダス" "ピペットン" "ポックマー"
 			}
 		}
 
 		pc_tropical = {
 			names = {
-				"Anemone" "Drycoral" "Luftuk" "Muggon" "Precipitant" "Skyreach"
+				"アネモネ" "ドライコーラル" "ルフトゥク" "ムゴン" "プリカント" "スカイリーチ"
 			}
 		}
 
 		pc_arid = {
 			names = {
-				"Arenaceon" "Coarsum" "Great Beach" "Parch" "Thurst"
+				"アレナセウス" "コース" "グレート・ビーチ" "パッチ" "スラスト"
 			}
 		}
 
 		pc_continental = {
 			names = {
-				"Coastar" "Interface" "Pinnackur" "Rockhall" "Surfet"
+				"コアスター" "インターフェース" "ピナクル" "ロックホール" "サーファー"
 			}
 		}
 
 		pc_ocean = {
 			names = {
-				"Blackwater" "Broadwick" "Globon" "New Eddies" "Swell"
+				"ブラックウォーター" "ブロードウィック" "グロビン" "ニュー・エディー" "スウェル"
 			}
 		}
 
 		pc_tundra = {
 			names = {
-				"Aridon" "Eladon" "Great Glaze" "Reota" "Stiller"
+				"アリドン" "エラドン" "グレート・グレーズ" "レオタ" "スティラー"
 			}
 		}
 
 		pc_arctic = {
 			names = {
-				"Efrore" "Frozen Eddies" "Gelatum" "Reservoir" "Tombar"
+				"エフロア" "フローズン・エディ" "ジェラタム" "リザーバー" "トンバー"
 			}
 		}
 
 		pc_savannah = {
 			names = {
-				"Droplett" "Dryrealm" "Inundus" "Pipetton" "Pockmar"
+				"ドロップレット" "ドライレルム" "インンダス" "ピペットン" "ポックマー"
 			}
 		}
 
 		pc_alpine = {
 			names = {
-				"Highvent" "Luftbay" "Mirror Reef" "Rockbight" "Scarber" "Trenchreach"
+				"ハイベント" "ルートベイ" "ミラー・リーフ" "ロックバイト" "スカーバー" "トレンクリーチ"
 			}
 		}
 	}
@@ -196,21 +221,21 @@ AQUATIC1 = {
 			}
 
 			first_names = {
-				"'Angrove" "'Biewit" "'Narban" "'Wash" "'Wheil" "An'ne" "Baraffun" "Bigbuur" "Bodden" "Bounty" "Bude" "Bulduur" "Byhte" "Delphine" "Ffistrell" "Ffloren" "Fiz" "Friska'" "Gaushe" "Karshh" "Koral" "Pebble" "Roan" "Rulla'" "Saanda" "Sarren" "Skower" "Slapp'en" "Swell'" "Tunata" "Woolko"
+				"アングローブ" "ビューイト" "ナルバン" "ウォッシュ" "ホイール" "アンネ" "バラフン" "ビッグビュール" "ボッデン" "バウンティ" "バッド" "ブルドゥール" "バイテ" "デルフィーヌ" "フィストレル" "フローレン" "フィズ" "フリスカ" "ガウシェ" "カルシュ" "コラル" "ペブル" "ローン" "ララ" "サーンダ" "サレン" "スコワー" "スラップエン" "スウェル" "ツナタ" "ウールコ"
 			}
 
 			second_names = {
-				"'Brean" "'Garssen" "'Hyammer" "'Konkarr" "'Porth" "Baydweller" "Bayrunner" "Carffai" "Chessil" "Cliffbreaker" "Freshwater" "Gushh" "Kelpmonger" "Lullwer" "Matt'sash" "Morricum" "Pendigh" "Plwmp" "Pondheath" "Popp'et" "Riser" "Streamer" "Wakepiercer" "Watergate" "Wavemaker" "Wei'muth"
+				"ブレアン" "ガルセン" "ヒャマー" "コンカー" "ポース" "ベイドウェラー" "ベイランナー" "カーファイ" "チェシル" "クリフブレイカー" "フレッシュウォーター" "グッシー" "ケルプモンガー" "ラルワー" "マットサッシュ" "モリカム" "ペンディ" "プルムプ" "ポンドヒース" "ポペット" "ライザー" "ストリーマー" "ウェイクピアサー" "ウォーターゲート" "ウェーブメーカー" "ウェイムス"
 			}
 
 			use_full_regnal_name = yes
 
 			regnal_first_names = {
-				"'Burff" "'Porth" "An'ne" "Bannosh" "Bondee" "Bree'ann" "Buden" "Fohm" "Kaikon" "Keross" "Kosloe" "Ness" "Pluish" "Saanda" "Tenbeach" "Usyllt'" "Vresh'k"
+				"バーフ" "ポース" "アンネ" "バンノッシュ" "ボンディー" "ブリーアン" "ブデン" "フォーム" "カイコン" "ケロス" "コスロエ" "ネス" "プルイッシュ" "サーンダ" "テンビーチ" "ウシルト" "ヴレシュク"
 			}
 
 			regnal_second_names = {
-				"Att-'Brean" "Att-Chessil" "Att-Pondheath" "Att-Twithh" "Pennt-Flush" "Pennt-Lullwer" "Pondheath-'Brean" "Tig-Carffai" "Tig-Fflin" "Tig-Wine" "Trat-More"
+				"・アット・ブレアン" "・アット・チェシル" "・アット・ポンドヒース" "・アット・ティーウィズ" "・ペニー・フラッシュ" "・ペニー・フラー" "・ポンドヒース・ブレアン" "・ティグ・カーファイ" "・ティグ・フリン" "・ティグ・ワイン" "・トラット・モア"
 			}
 		}
 	}

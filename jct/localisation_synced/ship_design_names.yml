@@ -261,3 +261,7 @@
  NAME_Polaris_F: "永久凍土"
  NAME_Polaris_G: "氷山"
  NAME_Polaris_ship: "氷柱"
+ ghost_ship: "幽霊船"
+ NAME_Hillos_fleet: "幽霊船"
+ NAME_Hillos_ship: "産女"
+ NAME_hillos_country: "幽霊船"

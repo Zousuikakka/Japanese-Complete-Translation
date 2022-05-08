@@ -6,123 +6,123 @@ AQUATIC4 = {
 	ship_names = {
 
 		generic = {
-			"Wavemaster" "Redoubtable" "Dragon" "Dainty" "Fireball" "Resolution" "Swiftsure" "Ardent" "Success" "Vanquisher" "Valorous" "Insolent" "Bonaventure" "Expulsor" "Graceful"
+			"ウェーブマスター" "リダウタブル" "ドラゴン" "ダインティ" "ファイアボール" "レゾリューション" "スウィフチャー" "アーデント" "サクセス" "ヴァンキッシャー" "ヴァロラス" "インソレント" "ボナヴェンチャー" "エクスパルサー" "グレースフル"
 		}
 
 		corvette = {
-			"Courageous" "Pegasus" "Impetuous" "Audacious" "Victory" "Nonsuch" "Swift" "Agility" "Arrow"
+			"カレイジャス" "ペガサス" "インペチュアス" "オーダシャス" "ヴィクトリー" "ナンサッチ" "スウィフト" "アジリティ" "アロー"
 		}
 
 		destroyer = {
-			"Talavera" "Clarence" "Vindictive" "Terrorizer" "Revenge" "Arrogant"
+			"タラヴェラ" "クラレンス" "ヴィンディクティブ" "テロライザー" "リベンジ" "アロガント"
 		}
 
 		cruiser = {
-			"Repulsor" "Magnanime" "Sceptre" "Vengeance" "Valiant" "Triumph"
+			"リパルサー" "マグナニーム" "セプター" "ヴェンジーンス" "ヴァリアント" "トライアンフ"
 		}
 
 		battleship = {
-			"Adamant" "Vigilant" "Intrepid" "Veteran" "Conqueror" "Victorious"
+			"アダマント" "ヴィジラント" "インターピッド" "ヴェテラン" "コンカラー" "ヴィクトリアス"
 		}
 
 		titan = {
-			"Venerable" "Assurance" "Superb" "Bellicose"
+			"ヴェネラブル" "アシュアランス" "スーパーブ" "ベリコース"
 		}
 
 		colossus = {
-			"Decapitator" "Thunderer" "Victorious" "Vengeful"
+			"デキャピテイター" "サンダラー" "ヴィクトリアス" "ヴェンジフル"
 		}
 
 		juggernaut = {
-			"Impregnable" "Assistance" "Argus" "Invincible"
+			"インプレグナブル" "アシスタンス" "アーガス" "インヴィンシブル"
 		}
 
 		science = {
-			"Explorer" "Intrepid" "Enterprise" "Discovery" "Prospector" "Surveyor"
+			"エクスプローラー" "インターピッド" "エンタープライズ" "ディスカバリー" "プロスペクター" "サーヴェイヤー"
 		}
 
 		colonizer = {
-			"Settler" "Venture" "Pioneer" "Trailblazer" "Planter"
+			"セトラー" "ヴェンチャー" "パイオニア" "トレイルブレイザー" "プランター"
 		}
 
 		constructor = {
-			"Builder" "Diligent" "Rigor" "Fabricator" "Manufacturer" "Creator"
+			"ビルダー" "ディリジェント" "ライガー" "ファブリケイター" "マニュファクチャー" "クリエイター"
 		}
 
 		transport = {
-			"Carrier" "Troopbearer" "Invader" "Skyfaller" "Conveyor" "Lugmobile"
+			"キャリア" "トループベアラ－" "インヴェイダー" "スカイフォーラー" "コンヴェヤー" "ラグモバイル"
 		}
 
 		military_station_small = {
-			"Bastion" "Bulwark" "Protector" "Protectress" "Impregnable" "Safety"
+			"バスチオン" "ブルウォーク" "プロテクター" "プロテクトレス" "インプレグナブル" "セーフティ"
 		}
 
 		ion_cannon = {
-			"Vaporizer" "Pulverizer" "Incinerator" "Ignitor"
+			"ヴェイパライザー" "パルヴェライザー" "インシネレイター" "イグニター"
 		}
 	}
 
 	ship_class_names = {
 		generic = {
-			"Orion" "Hood" "Vanguard" "Sanspareil" "Percival" "Montgomery" "Tollsburgh" "Cornwallis" "Renown" "Armada" "Repulse" "Spencer" "Defiance" "Swiftsure" "Revenge" "Intrepid" "Perthmere"
+			"オリオン" "フード" "ヴァンガード" "サンスパレイル" "パーシヴァル" "モントゴメリー" "トルスバー" "コーンウォール" "リナウン" "アルマダ" "リパルス" "スペンサー" "デファイアンス" "スウィフチャー" "リヴェンジ" "インターピッド" "パースメア"
 		}
 	}
 
 	fleet_names = {
 		random_names = {
-			"Golden Fleet" "Blue Fleet" "Red Fleet" "Yellow Fleet" "Purple Fleet" "Green Fleet" "Indigo Fleet" "Turquoise Fleet" "Mahogany Fleet" "Burgundy Fleet" "Orange Fleet" "Teal Fleet"
+			"黄金艦隊" "青艦隊" "赤艦隊" "黄艦隊" "紫艦隊" "緑艦隊" "藍艦隊" "翠艦隊" "茶艦隊" "紅艦隊" "橙艦隊" "碧艦隊"
 		}
-		sequential_name = "%O% Reserve Fleet"
+		sequential_name = "第%C%予備艦隊"
 	}
 	army_names = {
 		defense_army = {
-			sequential_name = "%O% Regular Reserves"
+			sequential_name = "第%C%普通予備隊"
 		}
 		assault_army = {
-			sequential_name = "%O% Expeditionary Regiment"
+			sequential_name = "第%C%遠征連隊"
 		}
 		slave_army = {
-			sequential_name = "%O% Auxiliary Regiment"
+			sequential_name = "第%C%補助連隊"
 		}
 		clone_army = {
-			sequential_name = "%O% Clone Regiment"
+			sequential_name = "第%C%クローン連隊"
 		}
 		robotic_army = {
-			sequential_name = "%O% Turing Regiment"
+			sequential_name = "第%C%チューリング連隊"
 		}
 		robotic_defense_army = {
-			sequential_name = "%O% Turing Reserves"
+			sequential_name = "第%C%チューリング予備隊"
 		}
 		psionic_army = {
-			sequential_name = "%O% Psionic Regiment"
+			sequential_name = "第%C%超能力連隊"
 		}
 		xenomorph_army = {
-			sequential_name = "%O% Grotesque Regiment"
+			sequential_name = "第%C%グロテスク連隊"
 		}
 		gene_warrior_army = {
-			sequential_name = "%O% Improved Regiment"
+			sequential_name = "第%C%改良連隊"
 		}
 		occupation_army = {
-			sequential_name = "%O% Garrison Regiment"
+			sequential_name = "第%C%駐屯連隊"
 		}
 		robotic_occupation_army = {
-			sequential_name = "%O% Robotic Garrison"
+			sequential_name = "第%C%ロボット駐屯部隊"
 		}
 		primitive_army = {
-			sequential_name = "%O% Primitive Regiment"
+			sequential_name = "第%C%原始連隊"
 		}
 		industrial_army = {
-			sequential_name = "%O% Proletarian Regiment"
+			sequential_name = "第%C%プロレタリア連隊"
 		}
 		postatomic_army = {
-			sequential_name = "%O% Premodern Regiment"
+			sequential_name = "第%C%前現代連隊"
 		}
 	}
 
 	planet_names = {
 		generic = {
 			names = {
-				"Port Balthasar" "Port Neville" "Haleston" "New Oxforth" "Brooklynne" "Orvill's Creek" "Duneham" "Forterton" "Cape Valor" "Tollsburgh" "Camerystwyth" "New Abeldon" "Shipminster" "Normouth" "Sharrowmouth" "Ipsil" "Arroquay" "Higginbury" "Shawlsbury" "Perthmere" "Freedom Cape" "Port Gloria" "Willsby" "Widdersham" "Avenhead" "New Ruthbury" "Port Genevieve" "Terenceville" "Gallobury" "Birchville" "Silchester" "Maravenny" "Port Tamberworth" "Harbury Bay" "Neville's Bay" "Edith's Bay" "Port Hargreaves" "Isenbury" "Alicebury" "Billowhead" "Sandborough" "New Uppleton" "Vera's Bay" "Opplemouth" "Raymouth" "Weyford" "Pelwich" "Delmouth" "Jamesville" "Port Eleanor" "Hammerbury"
+				"ポート・バルササール" "ポート・ネヴィル" "ヘイルストン" "ニュー・オックスフォース" "ブルックリン" "オーヴィルズ・クリーク" "デューネハム" "フォータトン" "ケープ・ヴェイラー" "トルスバー" "カメリストウィス" "ニュー・アベルドン" "シップミニスター" "ノーマウス" "シャローマウス" "イプシル" "アロクウェイ" "ヒジンバリー" "シャウルスバリー" "パースミア" "フリーダム・ケープ" "ポート・グロリア" "ウィルスビー" "ウィッダースハム" "アヴェンヘッド" "ニュー・ルスバリー" "ポート・ジンヴィエーヴ" "テレンスヴィル" "ギャロバリー" "バーチヴィル" "シルチェスター" "マラヴェニー" "ポート・タンバーワース" "ハーバリー・ベイ" "ベヴィルズ・ベイ" "エディス・ベイ" "ポート・ハーグリーヴズ" "アイゼンバリー" "アリスバリー" "ビロウヘッド" "サンドボロー" "ニュー・アップルトン" "ヴェラズ・ベイ" "オップルマウス" "レイマウス" "ウェイフォード" "ペルウィッチ" "デルマウス" "ジェームズヴィル" "ポート・エレノア" "ハンマーバリー"
 			}
 		}
 	}
@@ -130,24 +130,24 @@ AQUATIC4 = {
 	character_names = {
 		default = {
 			first_names_male = {
-				"Percival" "Montgomery" "William" "Charles" "Hubert" "Joseph" "Archibald" "Benedict" "Theodore" "George" "Gregory" "Eustace" "Christopher" "Victor" "Valentine" "Neville" "Nathaniel" "Nicholas" "Julian" "Josslyn" "Francis" "Frederic" "David" "Bruce" "Ambrose" "Reginald" "Peter" "Terence" "Winston" "Walter" "Wilfred" "Zachary" "Winston"
+				"パーシヴァル" "モントゴメリー" "ウィリアム" "チャールズ" "ヒューバート" "ジョセフ" "アーチボルド" "ベネディクト" "セオドア" "ジョージ" "グレゴリー" "ユースタス" "クリストファー" "ヴィクター" "ヴァレンティン" "ネヴィル" "ナサニエル" "ニコラス" "ジュリアン" "ジョスリン" "フランシス" "フレデリック" "デイヴィッド" "ブルース" "アンブロース" "レジナルド" "ピーター" "テレンス" "ウィンストン" "ウォルター" "ウィルフレッド" "ザチャリー" "ウィンストン"
 			}
 			first_names_female = {
-				"Agnes" "Elizabeth" "Catherine" "Rosemary" "Roseanne" "Alice" "Amelia" "Adelaide" "Beatrice" "Bertha" "Charlotte" "Cecilia" "Dorothea" "Edith" "Eleanor" "Florence" "Genevieve" "Grace" "Harriet" "Hermione" "Isabella" "Jane" "Joanne" "Jeanette" "Louise" "Laetitia" "Marianne" "Mathilde" "Margaret" "Madeleine" "Penelope" "Rosaline" "Virginia" "Vivienne" "Wilhelmine"
+				"アグネス" "エリザベス" "カトライン" "ローズマリー" "ロセアーヌ" "アリス" "アメリア" "アデレード" "ベアトリス" "バーサ" "シャーロット" "セシリア" "ドロテア" "エディス" "エレノア" "フローレンス" "ジュヌヴィエーブ" "グレース" "ヘリエッタ" "ヘルミーネ" "イザベラ" "ジェーン" "ジョアンヌ" "ジャネット" "ルイス" "ラエティティア" "マリアンヌ" "マチルダ" "マーガレット" "マドレーヌ" "ペネロープ" "ロザリン" "ヴァージニア" "ヴィヴィアン" "ウィルヘルミナ"
 			}
 			second_names = {
-				"Montgomery" "Belvedere" "Beaumont" "Wilberforce" "Higginbottom" "Pitt" "Wimbourne" "Windermere" "Granville" "Fairfax" "Wyndham" "Sewallis" "Cornwallis" "Allenby" "Abercromby" "Arkwright" "Barrington" "Bourke" "Brocklehurst" "Bloomfield" "Brightwell" "Castlerosse" "Dalrymple" "Fortescue" "Fetherstonhaugh" "Fothergill" "Flowerdew" "Fleming" "Grosvenor" "Hodgkinson" "Illingworth" "Lovelace" "Newdegate" "Primrose" "Plimsoll" "Pennefather" "Ponsonby" "Rawlinson" "Robertson" "Seymour" "Sidebottom" "Thornycroft" "Underhill" "Wollcombe" "Cavendish" "Fitzgerald" "Fitzwilliam" "Hume" "Sackville" "Walpole" "Spencer" "Orwell" "Patterworth"
+				"モントゴメリー" "ベルヴェデア" "ビューモント" "ウィルバーフォース" "ヒッギンボトム" "ピット" "ウィムバウン" "ウィンダーメア" "グランヴィル" "フェアファックス" "ウィンダム" "セウォリス" "コーンウォールズ" "アレンビー" "アバークロンビー" "アークライト" "バリントン" "ボーク" "ブロックレハースト" "ブルームフィールド" "ブライトウェル" "キャストレローズ" "ダリームプル" "フォーテスキュー" "フェザーストンハウ" "ファーザーギル" "フロワーデュー" "フレミング" "グロスヴェノア" "ホジキンソン" "イリングワース" "ラヴレース" "ニュードゲート" "プロムロゼ" "プリムソル" "ペンネファーザー" "ポンソンビー" "ロウリンソン" "ロバートソン" "セイムア" "サイドボトム" "ソーンクロフト" "アンダーヒル" "ウォルコンベ" "ケイヴンディッシュ" "フィッツジェラルド" "フィッツウィリアム" "ヒューム" "サックヴィル" "ワルポール" "スペンサー" "オーウェル" "パターワース"
 			}
 
 			#copied from above
 			regnal_first_names_male = {
-				"Percival" "Montgomery" "William" "Charles" "Hubert" "Joseph" "Archibald" "Benedict" "Theodore" "George" "Gregory" "Eustace" "Christopher" "Victor" "Valentine" "Neville" "Nathaniel" "Nicholas" "Julian" "Josslyn" "Francis" "Frederic" "David" "Bruce" "Ambrose" "Reginald" "Peter" "Terence" "Winston" "Walter" "Wilfred" "Zachary" "Winston"
+				"パーシヴァル" "モントゴメリー" "ウィリアム" "チャールズ" "ヒューバート" "ジョセフ" "アーチボルド" "ベネディクト" "セオドア" "ジョージ" "グレゴリー" "ユースタス" "クリストファー" "ヴィクター" "ヴァレンティン" "ネヴィル" "ナサニエル" "ニコラス" "ジュリアン" "ジョスリン" "フランシス" "フレデリック" "デイヴィッド" "ブルース" "アンブロース" "レジナルド" "ピーター" "テレンス" "ウィンストン" "ウォルター" "ウィルフレッド" "ザチャリー" "ウィンストン"
 			}
 			regnal_first_names_female = {
-				"Agnes" "Elizabeth" "Catherine" "Rosemary" "Roseanne" "Alice" "Amelia" "Adelaide" "Beatrice" "Bertha" "Charlotte" "Cecilia" "Dorothea" "Edith" "Eleanor" "Florence" "Genevieve" "Grace" "Harriet" "Hermione" "Isabella" "Jane" "Joanne" "Jeanette" "Louise" "Laetitia" "Marianne" "Mathilde" "Margaret" "Madeleine" "Penelope" "Rosaline" "Virginia" "Vivienne" "Wilhelmine"
+				"アグネス" "エリザベス" "カトライン" "ローズマリー" "ロセアーヌ" "アリス" "アメリア" "アデレード" "ベアトリス" "バーサ" "シャーロット" "セシリア" "ドロテア" "エディス" "エレノア" "フローレンス" "ジュヌヴィエーブ" "グレース" "ヘリエッタ" "ヘルミーネ" "イザベラ" "ジェーン" "ジョアンヌ" "ジャネット" "ルイス" "ラエティティア" "マリアンヌ" "マチルダ" "マーガレット" "マドレーヌ" "ペネロープ" "ロザリン" "ヴァージニア" "ヴィヴィアン" "ウィルヘルミナ"
 			}
 			regnal_second_names = {
-				"Montgomery" "Belvedere" "Beaumont" "Wilberforce" "Higginbottom" "Pitt" "Wimbourne" "Windermere" "Granville" "Fairfax" "Wyndham" "Sewallis" "Cornwallis" "Allenby" "Abercromby" "Arkwright" "Barrington" "Bourke" "Brocklehurst" "Bloomfield" "Brightwell" "Castlerosse" "Dalrymple" "Fortescue" "Fetherstonhaugh" "Fothergill" "Flowerdew" "Fleming" "Grosvenor" "Hodgkinson" "Illingworth" "Lovelace" "Newdegate" "Primrose" "Plimsoll" "Pennefather" "Ponsonby" "Rawlinson" "Robertson" "Seymour" "Sidebottom" "Thornycroft" "Underhill" "Wollcombe" "Cavendish" "Fitzgerald" "Fitzwilliam" "Hume" "Sackville" "Walpole" "Spencer" "Orwell" "Patterworth"
+				"モントゴメリー" "ベルヴェデア" "ビューモント" "ウィルバーフォース" "ヒッギンボトム" "ピット" "ウィムバウン" "ウィンダーメア" "グランヴィル" "フェアファックス" "ウィンダム" "セウォリス" "コーンウォールズ" "アレンビー" "アバークロンビー" "アークライト" "バリントン" "ボーク" "ブロックレハースト" "ブルームフィールド" "ブライトウェル" "キャストレローズ" "ダリームプル" "フォーテスキュー" "フェザーストンハウ" "ファーザーギル" "フロワーデュー" "フレミング" "グロスヴェノア" "ホジキンソン" "イリングワース" "ラヴレース" "ニュードゲート" "プロムロゼ" "プリムソル" "ペンネファーザー" "ポンソンビー" "ロウリンソン" "ロバートソン" "セイムア" "サイドボトム" "ソーンクロフト" "アンダーヒル" "ウォルコンベ" "ケイヴンディッシュ" "フィッツジェラルド" "フィッツウィリアム" "ヒューム" "サックヴィル" "ワルポール" "スペンサー" "オーウェル" "パターワース"
 			}
 		}
 	}

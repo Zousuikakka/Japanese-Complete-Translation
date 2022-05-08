@@ -6,7 +6,7 @@ AQUATIC2 = {
 	ship_names = {
 
 		generic = {
-			"Barbary" "Caliko" "Bony" "Reed" "Jack's Dawn" "Free Pearl" "Argon" "Hospitaller" "Flying Duke" "Nautilus" "Kanway" "Arudj" "Pietzun" "Sister's Revenge" "Prosperous" "Aghast Wanderer" "Rayley" "Drake" "Surcuff" "Unsinkable II" "Robbed Vale" "Blind Crab" "Grinning Vagrant" "Rum Runner" "Bootleg's Boot" "My Lady Void" "Sunlight Surfer" "Bellon" "Bellowing Jack" "Two-Hundred Mouths" "Placoderm" "Umber" "Ryswick" "Alcyon" "Plunderer" "Brave Bill's Booty" "Bounty" "Bones of a Dead Star" "Yellow Fleecer" "Gan Ning" "Teuta" "Hayred In" "Coss XXIII" "Fleury" "Drakker" "Thankful Fisher" "Wise Mother" "Admiral's Jewel" "Windless Sailor" "Moloch" "Nebulous Devil" "Drunken Keg" "Morning Aster" "Black Belly" "Sandy Hopper" "Dueling Krab" "Gift Mount Teeths" "This Time is Different" "Blasted Hull" "Siren" "Sweet Spacemaid" "Horny Tritus" "Cross" "Veil of Morgan" "Ollonois" "Broken Shackle" "Restored Freedom" "Slaver Lament" "Burning Blade" "Buze" "Zheng Sao" "Mad Moon King" "Wee Weeping Dragon" "Goddess Fortune" "Fear no Spaceborne" "Magic Bandit" "Bleak Witch" "Dreaded Zune" "Beelit" "Void Orchid"
+			"バーバリ" "キャリコ" "ボニー" "レード" "ジャックズ・ドーン" "フリーパール" "アルゴン" "ホスピタラー" "フライング・デューク" "ノーチラス" "カンウェイ" "アルジュ" "ピーツン" "シスターズ・リベンジ" "プロスペラス" "アガースト・ワンダラー" "レイリー" "ドレイク" "サーカフ" "アンシンカブル II" "ロブド・ヴェール" "ブラインド・クラブ" "グリニング・ヴァグラント" "ラム・ランナー" "ブートレッグズ・ブーツ" "マイ・レディー・ヴォイド" "サンライト・サーファー" "ベロン" "ベロウィング・ジャック" "ツーハンデッド・マウス" "プラコダーム" "アンバー" "リスウィック" "アルシオン" "プランダラー" "ブレイブ・ビルズ・ブーティ" "バウンティ" "ボーンズ・オブ・デッド・スター" "イエロー・フリーサー" "ギャン・ニング" "テウタ" "ヘイレッド・イン" "コス XXIII" "フリューリィ" "ドラッカー" "サンクフル・フィッシャー" "ワイズマザー" "アドミラルズ・ジュエル" "ウィンドレス・セイラー" "モロク" "ネビュラス・デビル" "ドランケン・ケッグ" "モーニング・アスター" "ブラック・ベリー" "サンディ・ホッパー" "デュエリング・クラブ" "ギフト・マウント・ティース" "ディスタイム・イズ・ディッフェレント" "ブラステッド・フル" "サイレン" "スウィート・スペースメイド" "ホーニィ・トリタス" "クロス" "ヴェイル・オブ・モーガン" "オロノイス" "ブロークン・シャックル" "レストアド・フリーダム" "スレイヴァー・ラメント" "バーニング・ブレイド" "ビューズ" "ツェン・サオ" "マッドムーン・キング" "ウィー・ウィーピング・ドラゴン" "ゴッデス・フォーチュン" "フィア・ノー・スペースボーン" "マジック・バンディット" "ビリーク・ウィッチ" "ドレッデッド・ズーン" "ベーリット" "ヴォイド・オーキッド"
 		}
 
 		corvette = {
@@ -22,14 +22,14 @@ AQUATIC2 = {
 		}
 
 		titan = {
-			"Monarch's Revenge" "Wyde Bellam" "Rakkam" "Aubusson"
+			"モナークス・リヴェンジ" "ワイド・ベラム" "ラッカム" "アウブッサン"
 		}
 
 		colossus = {
 		}
 
 		science = {
-			"Tara" "Ys" "Atalante" "Locker Buster" "Flaming Ferry" "Smug Explorer" "Kouign-Amann" "Conrad's Dark Roamer" "Norring" "Robin" "Jolly Hacker"
+			"タラ" "イース" "アタランテ" "ロッカー・バスター" "フレーミング・フューリィ" "スマッグ・エクスプローラー" "コイフ・アマン" "コンラッズ・ダーク・ローマー" "ノリング" "ロビン" "ジョリー・ハッカー"
 		}
 
 		colonizer = {
@@ -50,62 +50,62 @@ AQUATIC2 = {
 
 	ship_class_names = {
 		generic = {
-			"Flibust" "Barnacle" "Leviathan" "Kraken" "Trident" "Man o' War" "Prize Taker" "Barbarossa" "Flint" "Vane" "Hornigold" "Hook" "Pegleg" "Blunderbuss" "Musket" "Cutlass" "Capstan" "Crow" "Lamprey"
+			"フリバスト" "バーナクル" "レヴィヤタン" "クラーケン" "トライデント" "マンノウォー" "プライズ・トラッカー" "バルバロッサ" "フリント" "ヴェイン" "ホーニィゴールド" "フック" "ペグレッグ" "ブランダーバス" "マスケット" "カットラス" "キャプスタン" "クロー" "ランプレイ"
 		}
 	}
 
 	fleet_names = {
 		random_names = {
-			"Black Flag" "Solar Reavers" "Plundering Scoundrels" "Raspy Rapscallions" "Mutinous Cutlass" "Taxmen" "Rickety Racketeers" "Belt Manglers" "Asteroid Ambushers" "Booty Seekers" "Full Contact Tourists" "Boisterous Buccaneers" "Groggy Black Holes" "Powder Kegs" "Smuggling Brothers" "Stardust Corsairs" "Hooded Hoarders" "Contractuals" "Privateers Party" "Raucous Plunderers" "Scurvy Dogs" "Saltbuckets"
+			"ブラック・フラッグ" "ソーラー・リーヴァーズ" "プランダリング・スカンドレルズ" "ラスパイ・ラプスカリオンズ" "ミューチナス・カットラス" "タックスメン" "リケッチィ・ラケッティアーズ" "ベルト・マングラーズ" "アステロイド・アンブッシャーズ" "ブーティ・シーカーズ" "フルコンタクト・ツーリスツ" "ボイステラス・バッカニアーズ" "グロッギィ・ブラックホールズ" "パウダー・ケッグズ" "スマグリング・ブラザーズ" "スターダスト・コルセイルズ" "フーデッド・ホーダーズ" "コントラクチュアルズ" "プライヴェーティア・パーティ" "ラウカス・プランダラーズ" "スカーヴィ・ドッグズ" "ソルトバケッツ"
 		}
-		sequential_name = "%O% Fleet"
+		sequential_name = "第%C%艦隊"
 	}
 
 	army_names = {
 		defense_army = {
-			sequential_name = "%O% Deckhands Crew"
+			sequential_name = "第%C%デッキクルー隊"
 		}
 		assault_army = {
-			sequential_name = "%O% Boarding Crew"
+			sequential_name = "第%C%移乗クルー隊"
 		}
 		slave_army = {
-			sequential_name = "%O% Bonded Oarsmen"
+			sequential_name = "第%C%契約漕手隊"
 		}
 		undead_army = {
-			sequential_name = "%O% Forever Crew"
+			sequential_name = "第%C%永久クルー隊"
 		}
 		clone_army = {
-			sequential_name = "%O% Boarding Brothers"
+			sequential_name = "第%C%移乗同胞隊"
 		}
 		robotic_army = {
-			sequential_name = "%O% Plunder-Bots"
+			sequential_name = "第%C%略奪ロボット隊"
 		}
 		robotic_defense_army = {
-			sequential_name = "%O% Deck-Swabbing Bots"
+			sequential_name = "第%C%デッキ清掃ロボット隊"
 		}
 		psionic_army = {
-			sequential_name = "%O% Deep Space Witches"
+			sequential_name = "第%C%深宇宙魔女隊"
 		}
 		xenomorph_army = {
-			sequential_name = "%O% Stowaways"
+			sequential_name = "第%C%密航隊"
 		}
 		gene_warrior_army = {
-			sequential_name = "%O% Free Blood Crew"
+			sequential_name = "第%C%フリーブラッド・クルー隊"
 		}
 		occupation_army = {
-			sequential_name = "%O% Keg Scuttlers"
+			sequential_name = "第%C%樽穿ち隊"
 		}
 		robotic_occupation_army = {
-			sequential_name = "%O% Hoarding Bots"
+			sequential_name = "第%C%貯蔵ロボット隊"
 		}
 		primitive_army = {
-			sequential_name = "%O% Reavers"
+			sequential_name = "第%C%略奪隊"
 		}
 		industrial_army = {
-			sequential_name = "%O% Privateers"
+			sequential_name = "第%C%私掠船団"
 		}
 		postatomic_army = {
-			sequential_name = "%O% Corsairs"
+			sequential_name = "第%C%海賊団"
 		}
 	}
 
@@ -113,19 +113,19 @@ AQUATIC2 = {
 
 		generic = {
 			names = {
-				"Hardshell Harbor" "Freeport" "Liberpuert" "Malesdouez" "Smuggler's Surf" "Bratary Bay" "Midnight Dock" "Starwharf" "Buccaneer's Berth" "Moonlit Mooring" "Gawker's Mourn" "Tiyanki Port" "Inkport" "Kraken's Anchor" "Star Beach" "Vikfjord" "Plunderer's Reprieve" "Monito Isle" "Freebooter's Reef" "Carrta Hena" "Sortasi" "Galleon's Landing" "Corsair's Haven" "Black Dame Market" "Commoreave" "Raider's Rest" "Scoundrel's Jetty" "Scumwharf" "Rapscallion Cove" "Cannon Quay" "Scoundrel's Hideout" "Red Cloud Hideaway" "Mutineer's Pier" "Grog Guzzler's Yards" "Privateer's Prize" "Crooked Den" "Black Flag Harbor" "Rustbucket Heaps" "Cap'n's Domain" "Bilge Rats' Lair" "Villain's Haven" "Port O' Thieves" "Ravager's Creek" "Hidey Hole" "Cap'n Bones Boneyard" "Locke's Key" "Skull Cove" "Castaway Harbor" "Hook's Cranny" "The X Marked Spot"
+				"ハードシェル・ハーバー" "フリーポート" "リバーピュアート" "マーレスドウエズ" "スマグラーズ・サーフ" "ブレイタリィ・ベイ" "ミッドナイト・ドック" "スターワーフ" "バッカニアーズ・バース" "モンリット・モーリング" "ゲイカーズ・モールン" "ティヤンキ・ポート" "インクポート" "クラーケンズ・アンカー" "スター・ビーチ" "ヴィクフョルド" "プランダラーズ・レプリーヴ" "モニト・アイル" "フリーボーターズ・リーフ" "カータ・ヘナ" "ソルタシ" "ガレオンズ・ランディング" "コルセイルズ・ヘイヴン" "ブラック・デイム・マーケット" "コモリーヴ" "レイダーズ・レスト" "スカンドレルズ・ジェッティ" "スカムワーフ" "ラプスカリオン・コヴ" "キャノン・クエイ" "スカンドレルズ・ハイドアウト" "レッドクラウド・ハイドアウェイ" "ミュティニアズ・ピア" "グロッグ・ガズラーズ・ヤーズ" "プライヴェーティア・プライズ" "クロックト・デン" "ブラック・フラッグ・ハーバー" "ラストバケット・ヒープス" "キャプンズ・ドメイン" "ブリッジ・ラッツ・レア" "ヴィランズ・ヘイヴン" "ポートオ・シーヴズ" "ラヴェジャーズ・クリーク" "ハイディ・ホール" "キャプン・ボーンズ・ボーンヤード" "ローケス・キー" "スカル・コヴ" "キャストアウェイ・ハーバー" "フックス・クラニー" "Xマーク・スポット"
 			}
 		}
 
 		pc_desert = {
 			names = {
-				"Dunesea"
+				"デューンシー"
 			}
 		}
 
 		pc_tropical = {
 			names = {
-				"Pillager's Bayou"
+				"ピラジャーズ・バヨウ"
 			}
 		}
 
@@ -170,29 +170,29 @@ AQUATIC2 = {
 		default = {
 			# A complete name
 			full_names_male = {
-				"Black William"  "Starfarin' Jack" "Slippery John" "Pegleg Piet" "Plunderin' Laurence" "Castaway Hendrick" "Mad Baldassare" "Twice-hanged Pierre"
+				"ブラック ウィリアム"  "スターファリン ジャック" "スリッペリィ ジョン" "ペグレッグ ピート" "プランダリン ローレンス" "キャストアウェイ ヘンドリック" "マッド バルダッセア" "トゥワイスヘンジド ピエーレ"
 			}
 			full_names_female = {
-				"Red Alvilda" "Voidborne Mary" "Ivory Laurence" "Silver Eduarda" "Barnacle Zamira" "Bad Luck Charlie" "Big Esmeralda" "Maroonin' Grace" "Merciful Sayyida"
+				"レッド アルヴィルダ" "ヴォイドボーン メアリー" "アイヴォリー ローレンス" "シルバー エデュアルダ" "バーナクル ザミーラ" "バッド ラック チャーリー" "ビッグ エスメラルダ" "マローニン グレイス" "マーシフル サイーダ"
 			}
 
 			# Always combined with a second name
 			first_names = {
-				"Black" "Red" "Starfarin'" "Voidborne" "Slippery" "Crimson" "Purple" "Golden" "Angler" "Ivory" "Silver" "Steel" "Sailin'" "Pegleg" "Hook" "Indigo" "Coral" "Barnacle" "Sea Legs" "Drowned" "Thievin'" "Plunderin'" "Bad Luck" "Crazy" "Little" "Cursin'" "Big" "Castaway" "Maroonin'" "Mad" "Mean" "Scarred" "Twice-hanged" "Bloody" "Merciful" "Crossbones"
+				"ブラック" "レッド" "スターファリン" "ヴォイドボーン" "スリッペリィ" "クリムゾン" "パープル" "ゴールデン" "アングラー" "アイヴォリー" "シルバー" "スチール" "セイリン" "ペグレッグ" "フック" "インディゴ" "コーラル" "バーナクル" "シーレッグズ" "ドロウンド" "シーヴィン" "プランダリン" "バッド ラック" "クレイジー" "リトル" "カージン" "ビッグ" "キャストアウェイ" "マローニン" "マッド" "ミーン" "スケアード" "トゥワイスヘンジド" "ブラッディ" "マーシフル" "クロスボーン"
 			}
 
 			# Always combined with a first name
 			second_names_male = {
-				"Bill" "John" "Mark" "Edward" "Barty" "Jack" "William" "Charles" "Robert" "Sam" "Rackham" "Ching" "Cheung" "Beard" "Giacomo" "Baldassare" "Jean" "Piet" "Nicolas" "James" "Hendrick" "Vincenzo" "Juan" "Pierre" "Robin" "Laurence" "Thomas" "Alex" "Morgan" "Charlie"
+				"ビル" "ジョン" "マーク" "エドワード" "バーティ" "ジャック" "ウィリアム" "チャールズ" "ロバート" "サム" "ラカム" "チン" "チェン" "バード" "ギアコモ" "バルダッセア" "ジーン" "ピート" "ニコラス" "ジェームズ" "ヘンドリック" "ヴィンセンゾ" "ジュアン" "ピエーレ" "ロビン" "ローレンス" "トーマス" "アレックス" "モーガン" "チャーリー"
 			}
 
 			second_names_female = {
-				"Ann" "Sam" "Mary" "Zheng" "Liang" "Alvilda" "Robin" "Laurence" "Alex" "Morgan" "Charlie" "Joan" "Eduarda" "Zamira" "Jane" "Rachel" "Charlotte" "Elizabeth" "Grace" "Lagerd" "Sayyida" "Ingela" "Flore" "Tia" "Ezrianne" "Esmeralda"
+				"アン" "サム" "メアリー" "チェン" "リャン" "アルヴィルダ" "ロビン" "ローレンス" "アレックス" "モーガン" "チャーリー" "ジョアン" "エデュアルダ" "ザミーラ" "ジェーン" "レイチェル" "シャーロット" "エリザベス" "グレイス" "レイガード" "サイーダ" "インゲラ" "フローラ" "ティア" "エズリアン" "エスメラルダ"
 			}
 
 			# Copied from above
 			regnal_first_names = {
-				"Black" "Red" "Starfarin'" "Voidborne" "Slippery" "Crimson" "Purple" "Golden" "Angler" "Ivory" "Silver" "Steel" "Sailin'" "Pegleg" "Hook" "Indigo" "Coral" "Barnacle" "Sea Legs" "Drowned" "Thievin'" "Plunderin'" "Bad Luck" "Crazy" "Little" "Cursin'" "Big" "Castaway" "Maroonin'" "Mad" "Mean" "Scarred" "Twice-hanged" "Bloody" "Merciful" "Crossbones"
+				"ブラック" "レッド" "スターファリン" "ヴォイドボーン" "スリッペリィ" "クリムゾン" "パープル" "ゴールデン" "アングラー" "アイヴォリー" "シルバー" "スチール" "セイリン" "ペグレッグ" "フック" "インディゴ" "コーラル" "バーナクル" "シーレッグズ" "ドロウンド" "シーヴィン" "プランダリン" "バッド ラック" "クレイジー" "リトル" "カージン" "ビッグ" "キャストアウェイ" "マローニン" "マッド" "ミーン" "スケアード" "トゥワイスヘンジド" "ブラッディ" "マーシフル" "クロスボーン"
 			}
 
 			use_full_regnal_name_male = yes
